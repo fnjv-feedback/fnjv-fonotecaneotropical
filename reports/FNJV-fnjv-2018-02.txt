@@ -1,0 +1,298 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 279
+Number of records retrieved in searches: 1164
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 89
+	Country: Canada ; Times: 2
+	Country: Portugal ; Times: 64
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 28
+	Country: Bolivia ; Times: 2
+	Country: United States ; Times: 77
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-02 ; Times: 20
+	Date: 2018-02-01 ; Times: 7
+	Date: 2018-02-07 ; Times: 17
+	Date: 2018-02-06 ; Times: 30
+	Date: 2018-02-05 ; Times: 4
+	Date: 2018-02-21 ; Times: 7
+	Date: 2018-02-20 ; Times: 44
+	Date: 2018-02-23 ; Times: 21
+	Date: 2018-02-22 ; Times: 10
+	Date: 2018-02-25 ; Times: 8
+	Date: 2018-02-24 ; Times: 8
+	Date: 2018-02-27 ; Times: 47
+	Date: 2018-02-26 ; Times: 5
+	Date: 2018-02-28 ; Times: 4
+	Date: 2018-02-14 ; Times: 11
+	Date: 2018-02-16 ; Times: 6
+	Date: 2018-02-17 ; Times: 3
+	Date: 2018-02-11 ; Times: 3
+	Date: 2018-02-12 ; Times: 3
+	Date: 2018-02-13 ; Times: 4
+	Date: 2018-02-18 ; Times: 6
+	Date: 2018-02-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "Phoenicopterus chilensis mappable:1" ; Times: 4
+	Query: "specificepithet:melanurus genus:Ramphocaenus country:&#34;Brazil&#34; institutioncode:FNJV" ; Times: 1
+	Query: "Myiopsitta monachus mappable:1" ; Times: 3
+	Query: "Eudocimus ruber mappable:1" ; Times: 4
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 2
+	Query: "Caracara plancus mappable:1" ; Times: 5
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "specificepithet:similis genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:boraquira genus:Nothura country:&#34;Brazil&#34; institutioncode:FNJV" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "Ara macao" ; Times: 5
+	Query: "specificepithet:gujanensis genus:Cyclarhis country:&#34;Brazil&#34; institutioncode:FNJV" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:goianus" ; Times: 1
+	Query: "pyrrhura lepida" ; Times: 1
+	Query: "specificepithet:albogularis genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Allochrocebus solatus " ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "scientificname:&#34;ateles sp.&#34;" ; Times: 1
+	Query: "biatas nigropectus" ; Times: 1
+	Query: "Allophryne ruthveni" ; Times: 1
+	Query: "Antrostomus cubanensis" ; Times: 1
+	Query: "Cercomacra brasiliana" ; Times: 14
+	Query: "Sicalis luteola mappable:1" ; Times: 4
+	Query: "Hypsiboas cinerascens" ; Times: 5
+	Query: "Amazona farinosa mappable:1" ; Times: 3
+	Query: "specificepithet:ruficapillus genus:Chrysomus country:&#34;Brazil&#34; institutioncode:FNJV" ; Times: 1
+	Query: "clepsydra" ; Times: 2
+	Query: "Jacana jacana mappable:1" ; Times: 4
+	Query: "specificepithet:leucophrus genus:Cichlocolaptes country:&#34;Brazil&#34; institutioncode:FNJV" ; Times: 1
+	Query: "Cercomacra ferdinandi" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Leontopithecus chrysomelas " ; Times: 1
+	Query: "Odontophrynus monachus" ; Times: 1
+	Query: "Tinamus tao" ; Times: 1
+	Query: "&#34;RIo DOce&#34; class:Amphibia" ; Times: 1
+	Query: "pyrrhura vntype:specimen (perlata OR lepida OR rhodogaster) AND (Para)" ; Times: 1
+	Query: "specificepithet:fuliginosus genus:Saltator" ; Times: 1
+	Query: "Chauna torquata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cercomacra carbonaria" ; Times: 1
+	Query: "notharchus ordii" ; Times: 2
+	Query: "pyrrhura rhodogaster" ; Times: 2
+	Query: "alopochelidon fucata" ; Times: 1
+	Query: "Mergus octosetaceus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "patagioenas plumbea" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon" ; Times: 1
+	Query: "Zenaida auriculata mappable:1" ; Times: 4
+	Query: "Sicalis flaveola mappable:1" ; Times: 4
+	Query: "Caiman yacare" ; Times: 1
+	Query: "Hypsiboas multifasciatus" ; Times: 1
+	Query: "leptodactylus macrosternum" ; Times: 1
+	Query: "pyrrhura stateprovince:&#34;Para&#34; (perlata OR lepida OR rhodogaster)" ; Times: 1
+	Query: "Ara macao mappable:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:albogularis genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 3
+	Query: "biatas" ; Times: 1
+	Query: "Brotogeris chiriri mappable:1" ; Times: 3
+	Query: "genus:Dendropsophus specificepithet:jimi" ; Times: 1
+	Query: "Sapajus apella " ; Times: 1
+	Query: "Pithecopus nordestinus" ; Times: 1
+	Query: "pyrrhura vntype:specimen (perlata OR lepida OR rhodogaster) AND (NOT Para)" ; Times: 2
+	Query: "Phaethornis aethopygus" ; Times: 1
+	Query: "vntype:specimen specificepithet:melancholicus genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 5
+	Query: "dendropsophus brevifrons" ; Times: 1
+	Query: "genus:Rhinella specificepithet:major" ; Times: 1
+	Query: "Anhima cornuta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hypsiboas multifasciatus" ; Times: 2
+	Query: "genus:Allobates specificepithet:brunneus" ; Times: 1
+	Query: "Tupinambis merianae" ; Times: 2
+	Query: "inia geoffrensis" ; Times: 1
+	Query: "Eupsittula aurea mappable:1" ; Times: 3
+	Query: "Oxyruncus cristatus" ; Times: 2
+	Query: "Psittacara leucophthalmus mappable:1" ; Times: 3
+	Query: "Python molurus" ; Times: 1
+	Query: "Cypseloides fumigatus" ; Times: 1
+	Query: "specificepithet:fucata genus:alopochelidon" ; Times: 2
+	Query: "ara tricolor" ; Times: 2
+	Query: "Aedes" ; Times: 1
+	Query: "pyrrhura perlata" ; Times: 1
+	Query: "specificepithet:luteiventris genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pyrrhura vntype:specimen stateprovince:&#34;Para&#34; (perlata OR lepida OR rhodogaster)" ; Times: 1
+	Query: "Sporophila maximiliani" ; Times: 1
+	Query: "genus:&#34;sapajus&#34;" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "sapajus" ; Times: 1
+	Query: "Coragyps atratus mappable:1" ; Times: 2
+	Query: "Hypsiboas calcaratus" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 9
+	Query: "Sporophila ruficollis" ; Times: 25
+	Query: "vntype:specimen specificepithet:granadensis genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Para&#34; (perlata OR lepida OR rhodogaster)" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "Thamnophilus nigrocinereus" ; Times: 1
+	Query: "Aedes aegypti" ; Times: 1
+	Query: "albitarsus" ; Times: 1
+	Query: "vntype:specimen specificepithet:melancholicus genus:TYrannus country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Hypsiboas cinerascens vntype:specimen" ; Times: 1
+	Query: "Allochrocebus preussi " ; Times: 1
+	Query: "pyrrhura cruentata vntype:specimen" ; Times: 3
+	Query: "chiasmocleis hudsoni" ; Times: 1
+	Query: "vntype:specimen specificepithet:savana genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Sporophila ruficollis unicamp" ; Times: 1
+	Query: "Pyrrhura perlata" ; Times: 1
+	Query: "scinax nebulosus" ; Times: 1
+	Query: "Platalea ajaja mappable:1" ; Times: 4
+	Query: "Tinamus tao tao" ; Times: 1
+	Query: "pyrrhura rhodogaster vntype:specimen" ; Times: 1
+	Query: "notharchus ordii vntype:specimen" ; Times: 1
+	Query: "Guira guira mappable:1" ; Times: 4
+	Query: "Dendrocygna autumnalis mappable:1" ; Times: 3
+	Query: "Columbina talpacoti mappable:1" ; Times: 4
+	Query: "pseudis paradoxa" ; Times: 3
+	Query: "pyrrhura perlata vntype:specimen" ; Times: 1
+	Query: "cercomacra brasiliana" ; Times: 5
+	Query: "Pyrrhura rhodogaster" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 2
+	Query: "specificepithet:colonus genus:colonia country:&#34;Brazil&#34; institutioncode:FNJV" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "Oxyruncus cristatus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:luteiventris genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Hydrochoerus family:caviidae" ; Times: 1
+	Query: "specificepithet:variegatus genus:Crypturellus country:&#34;Brazil&#34; institutioncode:FNJV" ; Times: 1
+	Query: "specificepithet:haemorrhous genus:Cacicus country:&#34;Brazil&#34; recordedby:jacques institutioncode:FNJV" ; Times: 1
+	Query: "Herpailurus yagouaroundi mappable:1" ; Times: 1
+	Query: "scientificname:&#34;rhombophryne coronata&#34;" ; Times: 1
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "pyrrhura stateprovince:&#34;Para&#34;" ; Times: 1
+	Query: "pyrrhura lepida vntype:specimen" ; Times: 1
+	Query: "scinax x-signatus" ; Times: 2
+	Query: "specificepithet:minutissimum genus:Glaucidium country:&#34;Brazil&#34; institutioncode:FNJV" ; Times: 1
+	Query: "vntype:specimen specificepithet:vetulus genus:Lycalopex" ; Times: 2
+	Query: "Scinax nebulosus" ; Times: 1
+	Query: "specificepithet:haemorrhous genus:Cacicus country:&#34;Brazil&#34; institutioncode:FNJV" ; Times: 1
+	Query: "genus:Atelopus specificepithet:flavescens" ; Times: 2
+	Query: "Leontopithecus caissara " ; Times: 1
+	Query: "trachycephalus resinifictrix" ; Times: 1
+	Query: "Ameerega trivittata" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Dendropsophus jimi mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:similis genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 4
+	Query: "specificepithet:sp. genus:pipilo" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 1892 download events in this period)
+Total number of records downloaded: 495
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 40
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 10
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-27 ; Times: 5
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-20 ; Times: 3
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-18 ; Times: 2
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 9
+	Date: 2018-02-01 ; Times: 15
+	Date: 2018-02-07 ; Times: 10
+	Date: 2018-02-06 ; Times: 5
+	Date: 2018-02-05 ; Times: 14
+	Date: 2018-02-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Eira barbara" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "ramphastos toco" ; Times: 4
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Pyrrhura rhodogaster" ; Times: 1
+	Query: "pyrrhura perlata vntype:specimen" ; Times: 1
+	Query: "Cercomacra ferdinandi" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "Tinamus tao" ; Times: 1
+	Query: "pyrrhura vntype:specimen stateprovince:&#34;Para&#34; (perlata OR lepida OR rhodogaster)" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "Hylophilus ochraceiceps" ; Times: 1
+	Query: "genus:Allobates specificepithet:brunneus" ; Times: 1
+	Query: "Cercomacra carbonaria" ; Times: 1
+	Query: "pyrrhura cruentata vntype:specimen" ; Times: 2
+	Query: "hypsiboas punctatus" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 5
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "hypsiboas crepitans" ; Times: 2
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "leptodactylus macrosternum" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "pyrrhura lepida vntype:specimen" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:goianus" ; Times: 1
+	Query: "Odontophrynus monachus" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "pyrrhura vntype:specimen (perlata OR lepida OR rhodogaster) AND (NOT Para)" ; Times: 1
+	Query: "Phaethornis aethopygus" ; Times: 1
+	Query: "Sporophila maximiliani" ; Times: 1
+	Query: "vntype:specimen (hylobates lar)" ; Times: 1
+	Query: "Thamnophilus nigrocinereus" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "Momotus momota" ; Times: 3
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "Grallaria varia" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "dendropsophus brevifrons" ; Times: 1
+	Query: "Cercomacra brasiliana" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Arremonops conirostris" ; Times: 2
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "Artibeus lituratus" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "Cypseloides fumigatus" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "specificepithet:rumicivorus genus:Thinocorus" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
