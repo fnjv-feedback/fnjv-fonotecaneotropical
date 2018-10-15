@@ -1,0 +1,132 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 276
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 9
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Poland ; Times: 1
+	Country: United States ; Times: 25
+	Country: Norway ; Times: 3
+	Country: Slovakia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Paraguay ; Times: 3
+	Country: French Guiana ; Times: 2
+	Country: Argentina ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-04 ; Times: 5
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-07 ; Times: 4
+	Date: 2017-12-21 ; Times: 8
+	Date: 2017-12-20 ; Times: 8
+	Date: 2017-12-05 ; Times: 4
+	Date: 2017-12-17 ; Times: 4
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-13 ; Times: 3
+	Date: 2017-12-10 ; Times: 7
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-12 ; Times: 3
+	Date: 2017-12-09 ; Times: 15
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-18 ; Times: 9
+	Date: 2017-12-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Eira barbara" ; Times: 1
+	Query: "Proceratophrys boiei mappable:1" ; Times: 1
+	Query: "aves AND chagas OR caetano OR sobrinho OR guimaraes" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 6
+	Query: "specificepithet:undulata genus:Gallinago" ; Times: 2
+	Query: "Malacoptila striata" ; Times: 1
+	Query: "cistothorus merida" ; Times: 4
+	Query: "Catharopeza vntype:specimen" ; Times: 3
+	Query: "specificepithet:chiguanco genus:Turdus" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:resinifictrix" ; Times: 1
+	Query: "herpetologia" ; Times: 1
+	Query: "tachyphonus coronatus" ; Times: 1
+	Query: "genus:Allobates specificepithet:olfersioides" ; Times: 1
+	Query: "cygnus melancoryphus" ; Times: 2
+	Query: "cyanolyca pulchra" ; Times: 4
+	Query: "Chordeiles rupestris" ; Times: 7
+	Query: "Ortalis canicollis" ; Times: 1
+	Query: "genus:Ameerega specificepithet:flavopicta" ; Times: 3
+	Query: "psittacara" ; Times: 3
+	Query: "Synapturanus" ; Times: 3
+	Query: "genus:Aplastodiscus specificepithet:cavicola" ; Times: 2
+	Query: "Sternula superciliaris" ; Times: 1
+	Query: "Glaucidium siju" ; Times: 1
+	Query: "Penelope obscura" ; Times: 3
+	Query: "knipolegus lophotes" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:burmeisteri" ; Times: 1
+	Query: "Hydropsalis maculicaudus" ; Times: 1
+	Query: "Rhynchotus" ; Times: 3
+	Query: "4953 Aves" ; Times: 1
+	Query: "urubitinga coronata" ; Times: 1
+	Query: "Chiropotes satanas" ; Times: 1
+	Query: "h 8289" ; Times: 1
+	Query: "ortalis canicollis" ; Times: 2
+	Query: "Caligo illioneus " ; Times: 3
+	Query: "nyctibius griseus month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "aves AND sobrinho OR chagas OR guimaraes" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:lundii" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:cipoensis" ; Times: 1
+	Query: "syndactyla dimidiata" ; Times: 1
+	Query: "lepidothrix coronata" ; Times: 1
+	Query: "genus:Kannabateomys" ; Times: 1
+	Query: "aedes" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:calcaratus" ; Times: 1
+	Query: "formicidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 674 download events in this period)
+Total number of records downloaded: 223
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 2
+	Country: Paraguay ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-20 ; Times: 2
+	Date: 2017-12-05 ; Times: 2
+	Date: 2017-12-17 ; Times: 3
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "amphibia Campeche" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "eggs brazil" ; Times: 1
+	Query: "aves AND sobrinho OR chagas OR guimaraes" ; Times: 1
+	Query: "aves AND chagas OR caetano OR sobrinho OR guimaraes" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Malacoptila" ; Times: 1
+	Query: "lepidothrix coronata" ; Times: 1
+	Query: "arremonops" ; Times: 1
+	Query: "genus:Kannabateomys" ; Times: 1
+	Query: "class:Mammalia country:&#34;Democratic Republic of the Congo&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
