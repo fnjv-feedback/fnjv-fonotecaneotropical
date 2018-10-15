@@ -1,0 +1,323 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 311
+Number of records retrieved in searches: 2102
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: Canada ; Times: 5
+	Country: Mexico ; Times: 147
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 131
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Bolivia ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 4
+	Date: 2018-01-18 ; Times: 6
+	Date: 2018-01-08 ; Times: 6
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-02 ; Times: 2
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 52
+	Date: 2018-01-21 ; Times: 34
+	Date: 2018-01-22 ; Times: 12
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-24 ; Times: 43
+	Date: 2018-01-17 ; Times: 6
+	Date: 2018-01-30 ; Times: 11
+	Date: 2018-01-04 ; Times: 11
+	Date: 2018-01-31 ; Times: 8
+	Date: 2018-01-16 ; Times: 91
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-23 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Espirito Santo&#34; country:&#34;Brazil&#34; institutioncode:FNJV" ; Times: 2
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Pachyramphus major" ; Times: 1
+	Query: "Mimus gilvus" ; Times: 1
+	Query: "Phoenicopterus chilensis" ; Times: 1
+	Query: "Aplastodiscus cochranae hassex:1" ; Times: 3
+	Query: "Crax rubra" ; Times: 1
+	Query: "Egretta thula" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "Rupornis magnirostris" ; Times: 1
+	Query: "Aplastodiscus perviridis hassex:1" ; Times: 10
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Nyctidromus albicollis" ; Times: 1
+	Query: "chauna torquata vntype:specimen" ; Times: 2
+	Query: "genus:Hypsiboas specificepithet:rufitelus" ; Times: 1
+	Query: "Anhima cornuta vntype:specimen" ; Times: 1
+	Query: "Dryocopus lineatus" ; Times: 1
+	Query: "Allophryne ruthveni" ; Times: 6
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Stumpffia tridactyla hassex:1" ; Times: 2
+	Query: "Tyrannus melancholicus" ; Times: 1
+	Query: "Catharus dryas" ; Times: 1
+	Query: "Micrastur semitorquatus" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Sternula superciliaris" ; Times: 2
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Pseudis cardosoi" ; Times: 2
+	Query: "Anhinga anhinga" ; Times: 1
+	Query: "Todirostrum cinereum" ; Times: 1
+	Query: "Cycloramphus boraceiensis hassex:1" ; Times: 2
+	Query: "Spilotes pullatus" ; Times: 2
+	Query: "Tigrisoma lineatum" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "Leptopogon amaurocephalus" ; Times: 1
+	Query: "Patagioenas speciosa" ; Times: 1
+	Query: "Physalaemus henselii" ; Times: 4
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "genus:Antilophia class:Aves" ; Times: 1
+	Query: "Stumpffia tridactyla" ; Times: 2
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Ardea alba" ; Times: 1
+	Query: "ciccaba albitarsus" ; Times: 3
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "Attila spadiceus" ; Times: 1
+	Query: "Icterus mesomelas" ; Times: 1
+	Query: "Claravis pretiosa" ; Times: 1
+	Query: "Leptodactylus vastus hassex:1" ; Times: 2
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Gephyromantis boulengeri hassex:1" ; Times: 2
+	Query: "genus:Sphaenorhynchus specificepithet:carneus" ; Times: 1
+	Query: "Micrastur ruficollis" ; Times: 1
+	Query: "Myiopagis viridicata" ; Times: 1
+	Query: "Legatus leucophaius" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "Formicarius analis" ; Times: 1
+	Query: "Dendropsophus melanargyreus" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 2
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "specificepithet:fuliginosus genus:Saltator" ; Times: 2
+	Query: "Leptotila rufaxilla" ; Times: 1
+	Query: "Tinamus major" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "Gephyromantis leucocephalus hassex:1" ; Times: 2
+	Query: "Cyanocompsa cyanoides" ; Times: 1
+	Query: "herpsilochmus pectoralis" ; Times: 6
+	Query: "Ischnocnema parva hassex:1" ; Times: 2
+	Query: "Volatinia jacarina" ; Times: 1
+	Query: "Myiodynastes maculatus" ; Times: 1
+	Query: "Leptodactylus notoaktites hassex:1" ; Times: 2
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "Trogon citreolus" ; Times: 1
+	Query: "genus:brachyteles" ; Times: 1
+	Query: "Taraba major" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; institutioncode:FNJV" ; Times: 1
+	Query: "Xenops minutus" ; Times: 1
+	Query: "Ciccaba nigrolineata" ; Times: 1
+	Query: "Cyclarhis gujanensis" ; Times: 1
+	Query: "Crypturellus boucardi" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "Leptodactylus plaumanni hassex:1" ; Times: 2
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "phyllomedusa boliviana" ; Times: 1
+	Query: "Morococcyx  erythropygus" ; Times: 1
+	Query: "Busarellus nigricollis" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Glyphorynchus spirurus" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Trogon collaris" ; Times: 1
+	Query: "Hypsiboas latistriatus" ; Times: 2
+	Query: "Lophostrix cristata" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Tityra semifasciata" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Notharchus hyperrhynchus" ; Times: 1
+	Query: "Hylodes phyllodes hassex:1" ; Times: 2
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 1
+	Query: "Dendropsophus branneri hassex:1" ; Times: 2
+	Query: "Falco femoralis" ; Times: 1
+	Query: "&#34;nasua nasua&#34; brazil" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "genus:Nucifraga institutioncode:FNJV" ; Times: 1
+	Query: "Hypsiboas pardalis hassex:1" ; Times: 2
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "stateprovince:&#34;Espirito Santo&#34; country:&#34;Brazil&#34; institutioncode:FNJV" ; Times: 2
+	Query: "Aplastodiscus leucopygius" ; Times: 3
+	Query: "Tityra inquisitor" ; Times: 1
+	Query: "Trogon melanocephalus" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Ramphocaenus melanurus" ; Times: 1
+	Query: "Nomonyx dominicus" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Egretta caerulea" ; Times: 1
+	Query: "Myadestes unicolor" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 1
+	Query: "Eucometis penicillata" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "Rhombophryne coronata hassex:1" ; Times: 2
+	Query: "genus:Physalaemus specificepithet:henselii" ; Times: 3
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Rhombophryne coronata" ; Times: 2
+	Query: "Elaenia flavogaster" ; Times: 1
+	Query: "Uropsila leucogastra" ; Times: 1
+	Query: "specificepithet:rosalia genus:Leontopithecus" ; Times: 2
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "Gephyromantis decaryi" ; Times: 2
+	Query: "Panyptila cayennensis" ; Times: 1
+	Query: "Columbina minuta" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Aplastodiscus leucopygius hassex:1" ; Times: 3
+	Query: "Patagioenas cayennensis" ; Times: 1
+	Query: "harpia harpyja" ; Times: 7
+	Query: "Microrhopias quixensis" ; Times: 1
+	Query: "Terenotriccus erythrurus" ; Times: 1
+	Query: "Sittasomus griseicapillus" ; Times: 1
+	Query: "Chiasmocleis hudsoni hassex:1" ; Times: 3
+	Query: "Megascops guatemalae" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Aramides cajaneus" ; Times: 1
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "Hypsiboas caingua hassex:1" ; Times: 2
+	Query: "Trogon massena" ; Times: 1
+	Query: "Phyllomedusa tetraploidea hassex:1" ; Times: 2
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Crypturellus cinnamomeus" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "Dendropsophus ebraccatus" ; Times: 1
+	Query: "Eleutherodactylus iberia hassex:1" ; Times: 2
+	Query: "Harpagus bidentatus" ; Times: 1
+	Query: "Oncostoma cinereigulare" ; Times: 1
+	Query: "Pitangus sulphuratus" ; Times: 1
+	Query: "dodo" ; Times: 1
+	Query: "Poecilotriccus  sylvia" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Dendrocygna autumnalis autumnalis vntype:specimen" ; Times: 3
+	Query: "Hylodes meridionalis hassex:1" ; Times: 2
+	Query: "Speculanas specularis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "myrmotherula ambigua" ; Times: 1
+	Query: "Gephyromantis enki hassex:1" ; Times: 2
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "Contopus cinereus" ; Times: 1
+	Query: "Molothrus oryzivorus" ; Times: 1
+	Query: "Gephyromantis eiselti hassex:1" ; Times: 2
+	Query: "Zachaenus" ; Times: 1
+	Query: "Hypsiboas latistriatus hassex:1" ; Times: 2
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "Pulsatrix perspicillata" ; Times: 1
+	Query: "Vireo hypochryseus" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Hypsiboas leptolineatus hassex:1" ; Times: 2
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "Dromococcyx phasianellus" ; Times: 1
+	Query: "Pseudis cardosoi hassex:1" ; Times: 2
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "Gephyromantis decaryi hassex:1" ; Times: 2
+	Query: "anhima cornuta" ; Times: 4
+	Query: "Pheucticus chrysopeplus" ; Times: 1
+	Query: "Chordeiles rupestris" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 1
+	Query: "Gephyromantis enki" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "Gephyromantis boulengeri" ; Times: 2
+	Query: "Xiphocolaptes promeropirhynchus" ; Times: 1
+	Query: "Trogon mexicanus" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;PA&#34;" ; Times: 1
+	Query: "Hypsiboas marginatus hassex:1" ; Times: 2
+	Query: "Ischnocnema guentheri hassex:1" ; Times: 8
+	Query: "Morphnus guianensis" ; Times: 1
+	Query: "Spizaetus tyrannus" ; Times: 1
+	Query: "Pseudastur albicollis" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Hydropsalis maculicaudus" ; Times: 1
+	Query: "Hypsiboas lundii hassex:1" ; Times: 2
+	Query: "chauna torquata" ; Times: 1
+	Query: "Hypsiboas caingua" ; Times: 2
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Chlorophanes spiza" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "tachornis" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "Nyctibius grandis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1398 download events in this period)
+Total number of records downloaded: 1378
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: United States ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 3
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cycloramphus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; institutioncode:FNJV" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "scinax nasicus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "leptodactylus rugosus" ; Times: 1
+	Query: "Donacobius" ; Times: 1
+	Query: "specificepithet:capensis genus:Zonotrichia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "allobates femoralis" ; Times: 1
+	Query: "coereba flaveola" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "amphibia madagascar" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 2
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Espirito Santo&#34; country:&#34;Brazil&#34; institutioncode:FNJV" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+
+
+End of report.
