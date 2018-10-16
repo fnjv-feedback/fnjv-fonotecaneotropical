@@ -1,0 +1,211 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 203
+Number of records retrieved in searches: 622
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 72
+	Country: Canada ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 120
+	Country: Martinique ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-23 ; Times: 20
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-20 ; Times: 6
+	Date: 2018-04-26 ; Times: 3
+	Date: 2018-04-25 ; Times: 8
+	Date: 2018-04-03 ; Times: 13
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-05 ; Times: 25
+	Date: 2018-04-04 ; Times: 3
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 3
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 14
+	Date: 2018-04-10 ; Times: 9
+	Date: 2018-04-11 ; Times: 6
+	Date: 2018-04-16 ; Times: 9
+	Date: 2018-04-17 ; Times: 46
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-18 ; Times: 23
+	Date: 2018-04-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "chrysocyon" ; Times: 1
+	Query: "genus:Hydrochoerus specificepithet:hydrochaeris mappable:1" ; Times: 1
+	Query: "clepsydra" ; Times: 1
+	Query: "Antrostomus rufus" ; Times: 1
+	Query: "amazona festiva" ; Times: 2
+	Query: "order:anura locality:India" ; Times: 2
+	Query: "genus:Cavia specificepithet:aperea mappable:1" ; Times: 1
+	Query: "Ameerega trivittata" ; Times: 1
+	Query: "genus:Pteronura specificepithet:brasiliensis mappable:1" ; Times: 2
+	Query: "genus:Saguinus specificepithet:bicolor mappable:1" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:iberia" ; Times: 1
+	Query: "diaemus youngi specificepithet:youngi genus:diaemus" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 7
+	Query: "Physalaemus aguirrei" ; Times: 2
+	Query: "specificepithet:undulata genus:Gallinago" ; Times: 1
+	Query: "specificepithet:snowi genus:Myrmotherula" ; Times: 3
+	Query: "bokermannohyla clepsydra" ; Times: 4
+	Query: "vntype:specimen genus:Arundinicola class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Crypturellus bartletti" ; Times: 1
+	Query: "Myrmotherula multostriata" ; Times: 1
+	Query: "caiman latirostris" ; Times: 33
+	Query: "genus:Sapajus specificepithet:nigritus mappable:1" ; Times: 1
+	Query: "Urubitinga coronata country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 2
+	Query: "genus:Leontopithecus specificepithet:rosalia mappable:1" ; Times: 1
+	Query: "genus:Rhinella specificepithet:ornata" ; Times: 1
+	Query: "Cyanocorax cyanomelas" ; Times: 4
+	Query: "martinezi" ; Times: 1
+	Query: "Parabuteo unicinctus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cyanocorax caeruleus" ; Times: 3
+	Query: "Spizaetus ornatus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:gubernetes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Pseudastur polionotus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Leontopithecus specificepithet:chrysopygus mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;PA&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Fluvicola class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "specificepithet:undulata genus:Gallinago basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:snowi genus:myrmotherula" ; Times: 5
+	Query: "patagioenas plumbea" ; Times: 3
+	Query: "pygochelidon melanoleuca" ; Times: 2
+	Query: "specificepithet:cotinga genus:Cotinga basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "myrmotherula snowi" ; Times: 3
+	Query: "Rostrhamus sociabilis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Caiman yacare" ; Times: 25
+	Query: "genus:Leontopithecus specificepithet:chrysomelas mappable:1" ; Times: 1
+	Query: "genus:Chiropotes specificepithet:satanas mappable:1" ; Times: 1
+	Query: "Columbina minuta venezuela" ; Times: 1
+	Query: "kannabateomys" ; Times: 1
+	Query: "specificepithet:melancholichus genus:Tyrannus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crypturellus obsoletus" ; Times: 2
+	Query: "cypseloides fumigatus" ; Times: 1
+	Query: "genus:Ateles specificepithet:paniscus mappable:1" ; Times: 1
+	Query: "Chordeiles rupestris" ; Times: 1
+	Query: "Apis mellifera" ; Times: 1
+	Query: "Pandion haliaetus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phaethornis aethopygus" ; Times: 1
+	Query: "specificepithet:analis genus:Catamenia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Zebrilus undulatus" ; Times: 4
+	Query: "Aramides ypecaha" ; Times: 1
+	Query: "Ramphocinclus" ; Times: 1
+	Query: "thlypopsis sordida" ; Times: 1
+	Query: "genus:Sapajus specificepithet:apella mappable:1" ; Times: 1
+	Query: "genus:Brachyteles specificepithet:arachnoides mappable:1" ; Times: 1
+	Query: "Urubitinga urubitinga country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pseudopaludicola ameghini" ; Times: 2
+	Query: "specificepithet:clepsydra order:anura" ; Times: 2
+	Query: "Caiman latirostris" ; Times: 3
+	Query: "genus:Panthera specificepithet:onca mappable:1" ; Times: 1
+	Query: "Spizaetus tyrannus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Acanthoscurria geniculata" ; Times: 2
+	Query: "ramphocinclus" ; Times: 1
+	Query: "family:Hylidae stateprovince:&#34;Pando&#34; country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Nyctiprogne leucopyga" ; Times: 2
+	Query: "genus:Catamenia country:&#34;Argentina&#34;" ; Times: 3
+	Query: "scientificname:panthera onca " ; Times: 5
+	Query: "genus:Callithrix specificepithet:penicillata mappable:1" ; Times: 1
+	Query: "tachornis squamata" ; Times: 1
+	Query: "scientificname:Panthera onca " ; Times: 17
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1359 download events in this period)
+Total number of records downloaded: 1456
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 34
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: United States ; Times: 6
+	Country: Chile ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 5
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-20 ; Times: 4
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 3
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 9
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-17 ; Times: 4
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "thamnophilus amazonicus" ; Times: 1
+	Query: "Antrostomus rufus" ; Times: 1
+	Query: "Zebrilus undulatus" ; Times: 3
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Columbina minuta venezuela" ; Times: 1
+	Query: "chrysocyon" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "Crypturellus bartletti" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Hymenoptera" ; Times: 2
+	Query: "Glaucis hirsutus" ; Times: 4
+	Query: "Chordeiles rupestris" ; Times: 1
+	Query: "caracara" ; Times: 1
+	Query: "stateprovince:&#34;Pernambuco&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Mato Grosso do Sul&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Hydropsalis climacocerca" ; Times: 1
+	Query: "Phaethornis aethopygus" ; Times: 1
+	Query: "Ramphocinclus" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "ramphocelus nigrogularis" ; Times: 1
+	Query: "thlypopsis sordida" ; Times: 1
+	Query: "Myrmotherula multostriata" ; Times: 1
+	Query: "Geositta" ; Times: 1
+	Query: "Granatellus pelzelni" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "Eurypyga helias" ; Times: 5
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 2
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "Nyctiprogne leucopyga" ; Times: 1
+	Query: "genus:Cyanolyca" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "Aramides ypecaha" ; Times: 1
+
+
+End of report.
