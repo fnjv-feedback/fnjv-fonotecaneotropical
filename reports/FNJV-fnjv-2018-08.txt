@@ -1,0 +1,295 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 190
+Number of records retrieved in searches: 2420
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 96
+	Country: United States ; Times: 34
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 12
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 24
+	Country: Denmark ; Times: 1
+	Country: New Zealand ; Times: 3
+	Country: Bolivia ; Times: 2
+	Country: Venezuela ; Times: 3
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 4
+	Date: 2018-08-31 ; Times: 2
+	Date: 2018-08-18 ; Times: 3
+	Date: 2018-08-19 ; Times: 10
+	Date: 2018-08-16 ; Times: 3
+	Date: 2018-08-09 ; Times: 18
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-12 ; Times: 2
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-11 ; Times: 5
+	Date: 2018-08-08 ; Times: 11
+	Date: 2018-08-03 ; Times: 6
+	Date: 2018-08-17 ; Times: 5
+	Date: 2018-08-27 ; Times: 6
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-25 ; Times: 3
+	Date: 2018-08-02 ; Times: 4
+	Date: 2018-08-23 ; Times: 8
+	Date: 2018-08-22 ; Times: 10
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-20 ; Times: 12
+	Date: 2018-08-05 ; Times: 14
+	Date: 2018-08-04 ; Times: 2
+	Date: 2018-08-06 ; Times: 9
+	Date: 2018-08-01 ; Times: 17
+	Date: 2018-08-29 ; Times: 19
+	Date: 2018-08-28 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:olivaceus genus:vireo class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "class:Mammalia (Cabassous OR (Panthera AND onca) OR (Ateles AND belzebuth)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "vntype:specimen specificepithet:hoyi genus:otus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerea genus:xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:sanctaecatarinae genus:megascops" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "strix huhula" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "vntype:specimen specificepithet:atricapilla genus:megascops" ; Times: 1
+	Query: "vntype:specimen genus:Cyclarhis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "vntype:specimen genus:Muscipipra class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Ara macao" ; Times: 5
+	Query: "vntype:specimen genus:Smaragdolanius class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "pseudastur polionotus" ; Times: 1
+	Query: "(family:Felidae OR family:Canidae OR family:Didelphidae OR family:Bradypodidae OR family:Myrmecophagidae OR family:Chlamyphoridae OR family:Dasypodidae OR family:Atelidae OR family:Alouattidae OR family:Cebidae OR family:Callitrichidae OR family:Aotidae OR family:Pitheciidae OR family:Pithecidae OR family:Callicebidae OR family:Leporidae OR family:Mustelidae OR family:Procyonidae OR family:Tapiriidae OR family:Chlamyphoridae OR family:Cervidae OR family:Tayassuidae OR family:Caviidae OR family:Cuniculidae OR family:Dasyproctidae OR family:Dinomyidae OR family:Erethizontidae OR family:Sciuridae) country:(&#34;Peru&#34; OR &#34;Perú&#34; OR &#34;Brazil&#34; OR &#34;Brasil&#34; OR &#34;Bolivia&#34;) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:cristiceps" ; Times: 1
+	Query: "vntype:specimen specificepithet:irupero class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Inia" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 1
+	Query: "vntype:specimen specificepithet:sclateri class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Rhombophryne" ; Times: 2
+	Query: "vntype:specimen specificepithet:vetula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:undulata genus:Gallinago year &gt;= 1970" ; Times: 1
+	Query: "vntype:specimen specificepithet:olivaceus genus:Vireo class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:amaurocephalus genus:HYlophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "(Cabassous OR Panthera) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Dendropsophus bokermanni" ; Times: 1
+	Query: "vntype:specimen specificepithet:cooperi genus:otus" ; Times: 1
+	Query: "Dendropsophus minutus mappable:1" ; Times: 1
+	Query: "(family:Felidae OR family:Canidae) country:(&#34;Peru&#34; OR &#34;Perú&#34; OR &#34;Brazil&#34; OR &#34;Brasil&#34; OR &#34;Bolivia&#34;) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "vntype:specimen specificepithet:petersoni genus:otus" ; Times: 1
+	Query: "hylodes phyllodes" ; Times: 1
+	Query: "os 350" ; Times: 1
+	Query: "institutioncode:FNJV" ; Times: 2
+	Query: "specificepithet:velatus genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:poicilotis genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Buteogallus aequinoctialis" ; Times: 1
+	Query: "callithrix aurita" ; Times: 1
+	Query: "vntype:specimen specificepithet:pectoralis genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR Ateles) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "vntype:specimen specificepithet:poicilotis genus:HYlophilus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Pluvianellus" ; Times: 2
+	Query: "Physalaemus erikae" ; Times: 1
+	Query: "vntype:specimen specificepithet:irupero genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "ARA ARARAUNA" ; Times: 2
+	Query: "family:Felidae country:(&#34;Peru&#34; OR &#34;Perú&#34; OR &#34;Brazil&#34; OR &#34;Brasil&#34; OR &#34;Bolivia&#34;) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:irupero genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Sicalis lebruni" ; Times: 1
+	Query: "specificepithet:chivi genus:Vireo class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ara macao" ; Times: 17
+	Query: "specificepithet:cinereus genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND belzebuth)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Leptodactylus fuscus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:thoracicus genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 4
+	Query: "aedes aegypti" ; Times: 1
+	Query: "ameerega trivittata" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; institutioncode:FNJV" ; Times: 11
+	Query: "Araneae" ; Times: 1
+	Query: "Leptodactylus mystaceus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:vermiculatus genus:otus" ; Times: 1
+	Query: "vntype:specimen genus:Vireolanius class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Thamnophilus nigrocinereus" ; Times: 1
+	Query: "specificepithet:irupero class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aedes aegypti" ; Times: 1
+	Query: "specificepithet:velata genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereus genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND chamek)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "proceratophrys" ; Times: 4
+	Query: "Leptodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "araneae" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochraceiceps genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:poicilotis genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Mergus octosetaceus" ; Times: 4
+	Query: "(Panthera onca) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Strix hylophila" ; Times: 1
+	Query: "Physalaemus cuvieri mappable:1" ; Times: 1
+	Query: "genus:Bokermannohyla specificepithet:circumdata" ; Times: 1
+	Query: "specificepithet:semicinereus genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Glaucidium country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "megascops atricapilla" ; Times: 1
+	Query: "vntype:specimen specificepithet:semicinereus genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "class:Mammalia ((Cabassous AND unicinctus) OR (Panthera AND onca) OR (Ateles AND belzebuth)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "vntype:specimen genus:vireo class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "specificepithet:hypoxanthus genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "herpailurus" ; Times: 1
+	Query: "specificepithet:yagouaroundi" ; Times: 1
+	Query: "Scinax fuscovarius mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerea genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:ingens genus:otus" ; Times: 1
+	Query: "0004937" ; Times: 1
+	Query: "vntype:specimen specificepithet:clarkii genus:otus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "vntype:specimen specificepithet:roboratus genus:otus" ; Times: 1
+	Query: "Ara severus" ; Times: 1
+	Query: "family:Felidae country:(&#34;Peru&#34; OR &#34;Brazil&#34;) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "family:Felidae country:(&#34;Peru&#34; OR &#34;Brazil&#34; OR &#34;Brasil&#34; OR &#34;Bolivia&#34;) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Capito dayi" ; Times: 1
+	Query: "genus:Corythomantis specificepithet:greeningi" ; Times: 1
+	Query: "Macrogenioglottus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "Dendropsophus nanus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereus genus:xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:hypoxanthus genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Donacobius atricapilla" ; Times: 1
+	Query: "vntype:specimen specificepithet:muscicapinus genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:watsonii genus:megascops" ; Times: 1
+	Query: "vntype:specimen specificepithet:chivi genus:Vireo class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:guatemalae genus:megascops" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 94 (out of 1416 download events in this period)
+Total number of records downloaded: 2610
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: United States ; Times: 19
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 26
+	Country: Peru ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 8
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-19 ; Times: 11
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-09 ; Times: 9
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 5
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-26 ; Times: 7
+	Date: 2018-08-25 ; Times: 4
+	Date: 2018-08-24 ; Times: 17
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-05 ; Times: 11
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-28 ; Times: 4
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "lepidothrix coronata coronata" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:trichopsis genus:otus" ; Times: 1
+	Query: "specificepithet:andreae genus:Adenomera" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:petersi genus:Engystomops" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "specificepithet:garbei genus:Scinax" ; Times: 2
+	Query: "vntype:specimen specificepithet:petersoni genus:otus" ; Times: 1
+	Query: "odontophrynus" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:bokermanni genus:Dendropsophus" ; Times: 1
+	Query: "eleutherodactylus johnstonei" ; Times: 2
+	Query: "specificepithet:rhodopeplus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:dorisae genus:Sphaenorhynchus" ; Times: 1
+	Query: "Donacobius atricapilla" ; Times: 1
+	Query: "specificepithet:rhodomystax genus:Leptodactylus" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "vntype:specimen specificepithet:ingens genus:otus" ; Times: 1
+	Query: "strix huhula" ; Times: 1
+	Query: "specificepithet:wagneri genus:Leptodactylus" ; Times: 1
+	Query: "vntype:specimen specificepithet:vermiculatus genus:otus" ; Times: 1
+	Query: "vntype:specimen specificepithet:atricapilla genus:megascops" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "vntype:specimen specificepithet:cooperi genus:otus" ; Times: 1
+	Query: "Thamnophilus nigrocinereus" ; Times: 1
+	Query: "specificepithet:ebraccatus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:cruentommus genus:Scinax" ; Times: 1
+	Query: "Buteogallus aequinoctialis" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "vntype:specimen specificepithet:roboratus genus:otus" ; Times: 1
+	Query: "Saltator orenocensis" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "specificepithet:carneus genus:Sphaenorhynchus" ; Times: 1
+	Query: "(family:Felidae OR family:Canidae OR family:Didelphidae OR family:Bradypodidae OR family:Myrmecophagidae OR family:Chlamyphoridae OR family:Dasypodidae OR family:Atelidae OR family:Alouattidae OR family:Cebidae OR family:Callitrichidae OR family:Aotidae OR family:Pitheciidae OR family:Pithecidae OR family:Callicebidae OR family:Leporidae OR family:Mustelidae OR family:Procyonidae OR family:Tapiriidae OR family:Chlamyphoridae OR family:Cervidae OR family:Tayassuidae OR family:Caviidae OR family:Cuniculidae OR family:Dasyproctidae OR family:Dinomyidae OR family:Erethizontidae OR family:Sciuridae) country:(&#34;Peru&#34; OR &#34;Perú&#34; OR &#34;Brazil&#34; OR &#34;Brasil&#34; OR &#34;Bolivia&#34;) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "vntype:specimen specificepithet:clarkii genus:otus" ; Times: 1
+	Query: "proceratophrys" ; Times: 1
+	Query: "specificepithet:ruber genus:Scinax" ; Times: 1
+	Query: "specificepithet:lacrimosus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:stenodema genus:Leptodactylus" ; Times: 1
+	Query: "Sporophila minuta" ; Times: 1
+	Query: "Leptodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:brevifrons genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:femoralis genus:Allobates" ; Times: 1
+	Query: "vntype:specimen specificepithet:hoyi genus:otus" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Macrogenioglottus" ; Times: 1
+	Query: "vntype:specimen specificepithet:guatemalae genus:megascops" ; Times: 1
+	Query: "specificepithet:sarayacuensis genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:peruvianus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:parviceps genus:Dendropsophus" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "specificepithet:mystaceus genus:Leptodactylus" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "Ara" ; Times: 2
+	Query: "Dendropsophus ebraccatus" ; Times: 1
+	Query: "specificepithet:conspicillatus genus:Pristimantis" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "Strix hylophila" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "pseudastur polionotus" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "specificepithet:funereus genus:Scinax" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "genus:Glaucidium country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:watsonii genus:megascops" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "vntype:specimen class:aves country:&#34;Suriname&#34; year &gt;= 1980" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus" ; Times: 1
+	Query: "specificepithet:triangulum genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:riveroi genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:tarsius genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:bassleri genus:Chiasmocleis" ; Times: 1
+
+
+End of report.
