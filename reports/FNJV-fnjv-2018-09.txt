@@ -1,0 +1,160 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 205
+Number of records retrieved in searches: 920
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 112
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 51
+	Country: Denmark ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 29
+	Country: Colombia ; Times: 2
+	Country: Venezuela ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-05 ; Times: 13
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-25 ; Times: 16
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-27 ; Times: 17
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-21 ; Times: 10
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-23 ; Times: 25
+	Date: 2018-09-08 ; Times: 3
+	Date: 2018-09-28 ; Times: 51
+	Date: 2018-09-30 ; Times: 2
+	Date: 2018-09-11 ; Times: 11
+	Date: 2018-09-10 ; Times: 4
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 4
+	Date: 2018-09-17 ; Times: 13
+	Date: 2018-09-19 ; Times: 13
+	Date: 2018-09-18 ; Times: 5
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:caparao" ; Times: 2
+	Query: "specificepithet:semitorquatus genus:Arremon" ; Times: 1
+	Query: "specificepithet:onca genus:panthera year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Alouatta belzebul" ; Times: 2
+	Query: "order:Anura stateprovince:&#34;Mérida&#34; country:&#34;Venezuela&#34;" ; Times: 5
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "nyctibius griseus" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "specificepithet:carbonaria genus:cercomacra" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "specificepithet:undulata genus:Gallinago" ; Times: 1
+	Query: "Megascops watsonii" ; Times: 1
+	Query: "vntype:specimen specificepithet:cristatellus genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "psophia crepitans" ; Times: 1
+	Query: "amazona dufresniana" ; Times: 4
+	Query: "Crossodactylus caramaschii" ; Times: 5
+	Query: "Leontopithecus chrysomelas" ; Times: 1
+	Query: "Limnomedusa macroglossa" ; Times: 1
+	Query: "Ischnocnema juipoca" ; Times: 1
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "vitreorana" ; Times: 1
+	Query: "Gallinago undulata" ; Times: 1
+	Query: "Physalaemus henselii" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "neopelma aurifrons" ; Times: 1
+	Query: "myiopsitta" ; Times: 2
+	Query: "Thlypopsis sordida" ; Times: 1
+	Query: "Leontopithecus caissara" ; Times: 2
+	Query: "genus:Proceratophrys specificepithet:moratoi" ; Times: 1
+	Query: "vntype:specimen genus:atticora class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Vitreorana uranoscopa" ; Times: 1
+	Query: "Capito dayi" ; Times: 1
+	Query: "Phylloscartes eximius" ; Times: 1
+	Query: "Hylodes cardosoi" ; Times: 55
+	Query: "Brachyteles arachnoides" ; Times: 1
+	Query: "Leptodon cayanensis vntype:specimen" ; Times: 1
+	Query: "Nonnula rubecula vntype:specimen" ; Times: 1
+	Query: "gallinago undulata" ; Times: 2
+	Query: "vntype:specimen specificepithet:caeruleus genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpina genus:Cranioleuca" ; Times: 2
+	Query: "Callithrix penicillata" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "ara macao" ; Times: 35
+	Query: "aedes aegypti" ; Times: 1
+	Query: "caiman yacare" ; Times: 1
+	Query: "vitreorana uranoscopa" ; Times: 1
+	Query: "vntype:specimen specificepithet:chrysops genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 7
+	Query: "euchrepomis" ; Times: 1
+	Query: "capito dayi" ; Times: 11
+	Query: "specificepithet:cotinga genus:cotinga" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Leontopithecus chrysopygus" ; Times: 2
+	Query: "Caiman yacare" ; Times: 10
+	Query: "vntype:specimen specificepithet:cyanomelas genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aburria jacutinga" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 12
+	Query: "Caiman latirostris" ; Times: 3
+	Query: "vntype:specimen genus:pygochelidon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanopogon genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 846 download events in this period)
+Total number of records downloaded: 156
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 13
+	Country: United States ; Times: 5
+	Country: Spain ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-18 ; Times: 5
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tyto glaucops" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "order:Anura stateprovince:&#34;Mérida&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:onca genus:panthera year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Capito dayi" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "campephilus magellanicus" ; Times: 2
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "vntype:specimen genus:Coendou" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "capito dayi" ; Times: 1
+	Query: "dendropsophus parviceps" ; Times: 2
+	Query: "Leptodactylus melanonotus" ; Times: 1
+
+
+End of report.
