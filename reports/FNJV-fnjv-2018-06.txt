@@ -1,0 +1,192 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 131
+Number of records retrieved in searches: 693
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 60
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 11
+	Country: India ; Times: 1
+	Country: United States ; Times: 31
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 4
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 10
+	Date: 2018-06-06 ; Times: 10
+	Date: 2018-06-04 ; Times: 10
+	Date: 2018-06-03 ; Times: 6
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-25 ; Times: 13
+	Date: 2018-06-24 ; Times: 6
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 4
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-20 ; Times: 20
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 2
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-22 ; Times: 3
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 4
+	Date: 2018-06-12 ; Times: 6
+	Date: 2018-06-14 ; Times: 2
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-16 ; Times: 5
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-19 ; Times: 8
+	Date: 2018-06-30 ; Times: 3
+	Date: 2018-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:0008214 institutioncode:FNJV" ; Times: 2
+	Query: "ara tricolor" ; Times: 1
+	Query: "Schistochlamys ruficapillus" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Alouatta belzebul" ; Times: 1
+	Query: "catalognumber:0008212 institutioncode:FNJV" ; Times: 2
+	Query: "(Jacutinga)" ; Times: 2
+	Query: "sterna hirundinacea" ; Times: 2
+	Query: "Dendropsophus sanborni" ; Times: 2
+	Query: "progne modesta" ; Times: 2
+	Query: "tyrannus albogularis" ; Times: 1
+	Query: "Bokermannohyla hylax" ; Times: 4
+	Query: "genus:Campylopterus institutioncode:FNJV" ; Times: 2
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 2
+	Query: "catalognumber:0000822 institutioncode:FNJV" ; Times: 1
+	Query: "Opisthocomus hoazin country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Brachycephalus specificepithet:pitanga" ; Times: 1
+	Query: "vntype:specimen genus:Cnemotriccus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:resinifictrix" ; Times: 1
+	Query: "genus:Diaemus" ; Times: 1
+	Query: "catalognumber:0001689 institutioncode:FNJV" ; Times: 1
+	Query: "class:Aves locality:Do do bet basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:brevifrons" ; Times: 2
+	Query: "vntype:specimen genus:LATHROTRICCUS class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Bokermannohyla circumdata" ; Times: 1
+	Query: "Hylodes phyllodes" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:nanus" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 1
+	Query: "catalognumber:0003029 institutioncode:FNJV" ; Times: 1
+	Query: "ateles belzebuth" ; Times: 2
+	Query: "genus:Cnemotriccus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Campylorhynchus turdinus unicolor" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "Euphonia finschi" ; Times: 1
+	Query: "catalognumber:0008202 institutioncode:FNJV" ; Times: 2
+	Query: "vntype:specimen genus:Ochthornis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "phacellodomus striaticollis" ; Times: 1
+	Query: "tinamus tao" ; Times: 2
+	Query: "Ateles belzebuth" ; Times: 1
+	Query: "pteronura brasiliensis" ; Times: 9
+	Query: "Fulica armillata" ; Times: 1
+	Query: "catalognumber:0006061 institutioncode:FNJV" ; Times: 2
+	Query: "genus:CNEMOTRICCUS country:&#34;bRAZIL&#34;" ; Times: 1
+	Query: "melancoryphus" ; Times: 1
+	Query: "aburria jacutinga" ; Times: 1
+	Query: "catalognumber:0001596 institutioncode:FNJV" ; Times: 1
+	Query: "tangara fastuosa" ; Times: 1
+	Query: "neomorphus geoffroyi" ; Times: 3
+	Query: "Aratinga pertinax Venezuela vntype:specimen" ; Times: 1
+	Query: "genus:Ameerega specificepithet:trivittata" ; Times: 2
+	Query: "streptoprocne biscutata brazil" ; Times: 1
+	Query: "ortalis canicollis" ; Times: 1
+	Query: "Brachyteles" ; Times: 2
+	Query: "vntype:specimen genus:ochthornis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Atlapetes fulviceps" ; Times: 2
+	Query: "tyrannus albogularis brazil" ; Times: 1
+	Query: "genus:Macrogenioglottus specificepithet:alipioi" ; Times: 1
+	Query: "Hydrochaeris hydrochaeris" ; Times: 1
+	Query: "aedes aegypti" ; Times: 2
+	Query: "Melanophryniscus moreirae" ; Times: 1
+	Query: "vntype:specimen genus:CNEMOTRIcCUS country:&#34;bRAZIL&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:harpyja genus:Harpia" ; Times: 1
+	Query: "Spizaetus isidori" ; Times: 8
+	Query: "specificepithet:harpyja genus:Harpia" ; Times: 3
+	Query: "Harpia" ; Times: 1
+	Query: "dry chaco" ; Times: 1
+	Query: "saltator similis" ; Times: 1
+	Query: "vntype:specimen specificepithet:harpyja genus:Harpia year &gt;= 1980" ; Times: 1
+	Query: "vntype:specimen genus:Alectrurus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "dodo" ; Times: 2
+	Query: "eupetomena" ; Times: 2
+	Query: "vntype:specimen specificepithet:tricolor genus:Alectrurus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "chelonoides" ; Times: 1
+	Query: "scientificname:panthera onca " ; Times: 4
+	Query: "genus:Pleurodema specificepithet:diplolister" ; Times: 1
+	Query: "Aegolius harrisii harrisii" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:calcaratus" ; Times: 1
+	Query: "tyto glaucops" ; Times: 1
+	Query: "vntype:specimen genus:CNEMOTRICCUS country:&#34;bRAZIL&#34;" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1169 download events in this period)
+Total number of records downloaded: 329
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 5
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-17 ; Times: 4
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves stateprovince:&#34;Maranhão&#34;" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "Alouatta belzebul" ; Times: 1
+	Query: "tayassu pecari pecari" ; Times: 3
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "tyto glaucops" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "Bokermannohyla circumdata" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "genus:Odontophrynus specificepithet:americanus" ; Times: 3
+	Query: "Crax rubra" ; Times: 1
+	Query: "elaenia parvirostris" ; Times: 1
+	Query: "Xiphorhynchus obsoletus" ; Times: 2
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "phacellodomus striaticollis" ; Times: 1
+	Query: "lepidothrix" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Aegolius harrisii harrisii" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:calcaratus" ; Times: 1
+	Query: "orca" ; Times: 2
+	Query: "genus:Dendropsophus specificepithet:leucophyllatus" ; Times: 1
+
+
+End of report.
