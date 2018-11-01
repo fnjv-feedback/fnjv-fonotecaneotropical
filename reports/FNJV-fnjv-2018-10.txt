@@ -1,0 +1,230 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 228
+Number of records retrieved in searches: 1501
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 103
+	Country: Peru ; Times: 37
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 45
+	Country: Belgium ; Times: 2
+	Country: Colombia ; Times: 22
+	Country: Paraguay ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 8
+	Date: 2018-10-04 ; Times: 7
+	Date: 2018-10-05 ; Times: 2
+	Date: 2018-10-06 ; Times: 29
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-03 ; Times: 6
+	Date: 2018-10-30 ; Times: 2
+	Date: 2018-10-22 ; Times: 5
+	Date: 2018-10-23 ; Times: 29
+	Date: 2018-10-20 ; Times: 3
+	Date: 2018-10-07 ; Times: 2
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-27 ; Times: 6
+	Date: 2018-10-24 ; Times: 16
+	Date: 2018-10-25 ; Times: 6
+	Date: 2018-10-28 ; Times: 3
+	Date: 2018-10-29 ; Times: 8
+	Date: 2018-10-08 ; Times: 3
+	Date: 2018-10-09 ; Times: 8
+	Date: 2018-10-19 ; Times: 3
+	Date: 2018-10-18 ; Times: 11
+	Date: 2018-10-13 ; Times: 23
+	Date: 2018-10-11 ; Times: 4
+	Date: 2018-10-10 ; Times: 6
+	Date: 2018-10-17 ; Times: 4
+	Date: 2018-10-16 ; Times: 7
+	Date: 2018-10-15 ; Times: 20
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "basisofrecord:PreservedSpecimen orcinus orca" ; Times: 1
+	Query: "genus:Adenomera specificepithet:bokermanni" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 9
+	Query: "oxyruncus cristatus" ; Times: 1
+	Query: "vntype:specimen genus:Microcerculus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:albiventer genus:tachycineta class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:amblyonyx genus:Kannabateomys" ; Times: 4
+	Query: "vntype:specimen genus:Atticora class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Riparia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "genus:alopochelidon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 1
+	Query: "Crypturellus variegatus" ; Times: 4
+	Query: "specificepithet:cherriei genus:Synallaxis" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:nigromaculatus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Tinamus guttatus" ; Times: 5
+	Query: "HRL" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:furnarius" ; Times: 1
+	Query: "Hypsiboas cinerascens" ; Times: 2
+	Query: "Cypseloides senex" ; Times: 2
+	Query: "Dacnis albiventris" ; Times: 1
+	Query: "Tinamus major" ; Times: 3
+	Query: "specificepithet:chalybea genus:Progne class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Oreobates quixensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:marginatus genus:Microcerculus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "tinamus tao brazil" ; Times: 1
+	Query: "tupinambis merianae" ; Times: 1
+	Query: "vntype:specimen specificepithet:tibialis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "conirostrum bicolor" ; Times: 6
+	Query: "Crypturellus bartletti" ; Times: 1
+	Query: "caiman latirostris" ; Times: 3
+	Query: "Tinamus tao" ; Times: 14
+	Query: "Crypturellus parvirostris" ; Times: 3
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "Elachistocleis cesarii" ; Times: 2
+	Query: "vntype:specimen specificepithet:leucorrhoa genus:tachycineta class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Patagioenas picazuro" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:distincta" ; Times: 1
+	Query: "vntype:specimen specificepithet:tapera class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Itapotihyla specificepithet:langsdorffii" ; Times: 1
+	Query: "vntype:specimen genus:tachycineta class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "vntype:specimen genus:Pygochelidon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Scinax cruentommus" ; Times: 1
+	Query: "Spizaetus isidori" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Troglodytes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Crypturellus cinereus" ; Times: 6
+	Query: "Cypseloides fumigatus" ; Times: 1
+	Query: "vntype:specimen genus:Odontorchilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "dendropsophus brevifrons" ; Times: 1
+	Query: "Skutchia borbae" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:FNJV basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:xanthogaster genus:euphonia country:&#34;brazil&#34;" ; Times: 1
+	Query: "dendropsophus ebraccatus" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "specificepithet:aestuans genus:Sciurus" ; Times: 1
+	Query: "Allobates marchesianus" ; Times: 2
+	Query: "Pyrrhura molinae" ; Times: 4
+	Query: "culicivora caudacuta" ; Times: 2
+	Query: "dendropsophus bokermanni" ; Times: 1
+	Query: "specificepithet:fulica genus:heliornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Panyptila cayennensis" ; Times: 1
+	Query: "Dendropsophus brevifrons" ; Times: 1
+	Query: "specificepithet:boiei genus:Proceratophrys" ; Times: 1
+	Query: "Ameerega braccata" ; Times: 1
+	Query: "oxyruncus cristatus brazil" ; Times: 2
+	Query: "vntype:specimen specificepithet:bambla genus:Microcerculus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "leistes militaris" ; Times: 1
+	Query: "streptoprocne biscutata" ; Times: 1
+	Query: "Chaetura spinicaudus" ; Times: 1
+	Query: "Hypsiboas faber" ; Times: 1
+	Query: "Chiasmocleis bassleri" ; Times: 2
+	Query: "vntype:specimen genus:Petrochelidon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "caiman yacare" ; Times: 1
+	Query: "vntype:specimen specificepithet:aedon genus:Troglodytes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Rhinella ornata" ; Times: 1
+	Query: "vntype:specimen genus:Riparia class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "DENDROPSOPHUS BOKERMANNI" ; Times: 1
+	Query: "vntype:specimen specificepithet:pyrrhonota class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ara macao vntype:specimen" ; Times: 1
+	Query: "specificepithet:macroura genus:Dendrortyx" ; Times: 1
+	Query: "chivi vireo" ; Times: 2
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "vntype:specimen genus:Troglodytes class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "order:Lepidoptera " ; Times: 1
+	Query: "myiopsitta" ; Times: 2
+	Query: "vntype:specimen genus:STELGIDOPTERYX class:AVES country:&#34;BRAzIL&#34;" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:moratoi" ; Times: 1
+	Query: "xanthopsar flavus" ; Times: 29
+	Query: "vntype:specimen specificepithet:subis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:anceps" ; Times: 1
+	Query: "Hylodes lateristrigatus" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 3
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "ara macao" ; Times: 6
+	Query: "specificepithet:boiei genus:Proceratophrys year &gt;= 1990" ; Times: 1
+	Query: "brotogeris tirica vntype:specimen" ; Times: 2
+	Query: "oreobates crepitans" ; Times: 2
+	Query: "vntype:specimen genus:Hirundo class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Phyllomedusa tetraploidea" ; Times: 1
+	Query: "specificepithet:leucorrhoa genus:Tachycineta class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:petrochelidon class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "tinamus tao mato grosso" ; Times: 1
+	Query: "Aegolius harrisii" ; Times: 3
+	Query: "vntype:specimen specificepithet:chalybea genus:Progne class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "specificepithet:fucata class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "melanophryniscus moreirae" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1300 download events in this period)
+Total number of records downloaded: 720
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 10
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 13
+	Date: 2018-10-05 ; Times: 2
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-23 ; Times: 5
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 6
+	Date: 2018-10-30 ; Times: 4
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-10 ; Times: 3
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gorilla beringei beringei" ; Times: 1
+	Query: "tupinambis merianae" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "caiman latirostris" ; Times: 3
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "Aegolius harrisii" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Apodidae" ; Times: 1
+	Query: "genus:heliornis" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 1
+	Query: "specificepithet:musica genus:euphonia" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "glaucis hirsutus" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "Salvator merianae" ; Times: 1
+	Query: "Hypsiboas" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "panthera onca" ; Times: 14
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "specificepithet:orca genus:Orcinus" ; Times: 1
+	Query: "aurea" ; Times: 1
+
+
+End of report.
