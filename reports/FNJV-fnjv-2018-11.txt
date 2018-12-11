@@ -1,0 +1,267 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 367
+Number of records retrieved in searches: 1713
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 54
+	Country: United States ; Times: 47
+	Country: Peru ; Times: 221
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 24
+	Country: United Kingdom ; Times: 6
+	Country: Paraguay ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Nicaragua ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 189
+	Date: 2018-11-08 ; Times: 4
+	Date: 2018-11-07 ; Times: 8
+	Date: 2018-11-06 ; Times: 7
+	Date: 2018-11-05 ; Times: 14
+	Date: 2018-11-04 ; Times: 6
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-25 ; Times: 7
+	Date: 2018-11-24 ; Times: 3
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-26 ; Times: 13
+	Date: 2018-11-21 ; Times: 5
+	Date: 2018-11-20 ; Times: 8
+	Date: 2018-11-23 ; Times: 15
+	Date: 2018-11-29 ; Times: 2
+	Date: 2018-11-28 ; Times: 12
+	Date: 2018-11-18 ; Times: 2
+	Date: 2018-11-19 ; Times: 7
+	Date: 2018-11-10 ; Times: 4
+	Date: 2018-11-11 ; Times: 11
+	Date: 2018-11-12 ; Times: 15
+	Date: 2018-11-13 ; Times: 8
+	Date: 2018-11-14 ; Times: 5
+	Date: 2018-11-15 ; Times: 7
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-17 ; Times: 2
+	Date: 2018-11-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Bokermannohyla specificepithet:clepsydra" ; Times: 1
+	Query: "Picumnus albosquamatus" ; Times: 17
+	Query: "Pyrrhura devillei" ; Times: 1
+	Query: "Streptoprocne biscutata" ; Times: 1
+	Query: "Eupetomena macroura macroura" ; Times: 1
+	Query: "picumnus albosquamatus" ; Times: 1
+	Query: "Hypsiboas rufitelus" ; Times: 7
+	Query: "hylophilus ochraceiceps" ; Times: 1
+	Query: "synallaxis infuscata" ; Times: 3
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 4
+	Query: "Chiropotes albinasus" ; Times: 1
+	Query: "Globo" ; Times: 1
+	Query: "Cypseloides senex" ; Times: 1
+	Query: "Herpailurus" ; Times: 1
+	Query: "Allobates olfersioides" ; Times: 2
+	Query: "Cyanopsitta spixii" ; Times: 1
+	Query: "Sphaenorhynchus caramaschii" ; Times: 2
+	Query: "specificepithet:sylviolus genus:Phylloscartes" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "Tinamus tao" ; Times: 3
+	Query: "Dendropsophus melanargyreus" ; Times: 1
+	Query: "Myrmoderus" ; Times: 3
+	Query: "Anodorhynchus leari" ; Times: 1
+	Query: "Dasypops schirchi" ; Times: 1
+	Query: "patagioenas plumbea" ; Times: 4
+	Query: "eupetomena macroura" ; Times: 186
+	Query: "Callicebus torquatus" ; Times: 1
+	Query: "genus:Adenomera specificepithet:martinezi" ; Times: 1
+	Query: "Busarellus nigricollis" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Polystictus pectoralis" ; Times: 1
+	Query: "Saguinus bicolor" ; Times: 1
+	Query: "Crypturellus strigulosus" ; Times: 1
+	Query: "Crypturellus cinereus" ; Times: 1
+	Query: "Cypseloides fumigatus" ; Times: 2
+	Query: "specificepithet:maximiliani genus:Melanopareia" ; Times: 1
+	Query: "physalaemus lisei" ; Times: 1
+	Query: "vntype:specimen specificepithet:genibarbis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Aplastodiscus cavicola" ; Times: 1
+	Query: "genus:Rhinella specificepithet:ornata" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 4
+	Query: "specificepithet:brissonii genus:Cyanoloxia" ; Times: 1
+	Query: "Panyptila cayennensis" ; Times: 1
+	Query: "Chiropotes chiropotes" ; Times: 1
+	Query: "Eupetomena" ; Times: 2
+	Query: "Polytmus guainumbi tipo" ; Times: 1
+	Query: "vntype:specimen genus:Cistothorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ateles paniscus" ; Times: 1
+	Query: "genus:cichlocolaptes" ; Times: 1
+	Query: "Chiropotes satanas" ; Times: 1
+	Query: "dodo" ; Times: 1
+	Query: "specificepithet:ochraceiceps genus:Hylophilus country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Proceratophrys boiei" ; Times: 2
+	Query: "Bokermannohyla" ; Times: 1
+	Query: "cyanoloxia rothschildii" ; Times: 13
+	Query: "Cycloramphus brasiliensis" ; Times: 1
+	Query: "xenopsaris" ; Times: 1
+	Query: "Picumnus albosquamatus albosquamatus" ; Times: 2
+	Query: "Alouatta belzebul" ; Times: 2
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "vntype:specimen genus:Campylorhynchus class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Trachycephalus nigromaculatus" ; Times: 7
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "Dromococcyx phasianellus" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Odontophorus stellatus" ; Times: 1
+	Query: "genus:Allobates specificepithet:olfersioides" ; Times: 2
+	Query: "Patagioenas subvinacea" ; Times: 2
+	Query: "PIcumnus albosquamatus" ; Times: 1
+	Query: "Primolius maracana" ; Times: 4
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "Phyllomedusa tetraploidea" ; Times: 7
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "Elachistocleis bicolor" ; Times: 1
+	Query: "xanthopsar flavus" ; Times: 2
+	Query: "Picumnus fulvescens" ; Times: 1
+	Query: "Thalurania watertonii" ; Times: 3
+	Query: "Odontophorus gujanensis" ; Times: 1
+	Query: "sao leopoldo" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "Tachornis squamata" ; Times: 1
+	Query: "Xenopsaris" ; Times: 1
+	Query: "Proceratophrys" ; Times: 1
+	Query: "Polytmus guainumbi" ; Times: 7
+	Query: "bradypus torquatus" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:labyrinthicus" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 1
+	Query: "Aedes aegypti " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 95 (out of 1719 download events in this period)
+Total number of records downloaded: 882
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 30
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 27
+	Country: France ; Times: 2
+	Country: United States ; Times: 21
+	Country: United Kingdom ; Times: 4
+	Country: Peru ; Times: 3
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 4
+	Date: 2018-11-07 ; Times: 4
+	Date: 2018-11-06 ; Times: 4
+	Date: 2018-11-05 ; Times: 22
+	Date: 2018-11-03 ; Times: 1
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-25 ; Times: 3
+	Date: 2018-11-24 ; Times: 1
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-26 ; Times: 5
+	Date: 2018-11-20 ; Times: 1
+	Date: 2018-11-29 ; Times: 2
+	Date: 2018-11-28 ; Times: 2
+	Date: 2018-11-19 ; Times: 2
+	Date: 2018-11-10 ; Times: 4
+	Date: 2018-11-11 ; Times: 2
+	Date: 2018-11-12 ; Times: 12
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-14 ; Times: 5
+	Date: 2018-11-15 ; Times: 13
+	Date: 2018-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "xenopsaris" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "specificepithet:barbara genus:Eira" ; Times: 1
+	Query: "Alouatta caraya" ; Times: 1
+	Query: "Alouatta belzebul" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 4
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "specificepithet:sylviolus genus:Phylloscartes" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "Trachycephalus nigromaculatus" ; Times: 2
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "genus:Panthera onca" ; Times: 1
+	Query: "Callicebus cupreus" ; Times: 1
+	Query: "Aplastodiscus cavicola" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Chiropotes chiropotes" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Buteo buteo" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Proceratophrys" ; Times: 1
+	Query: "genus:Tayassu pecari" ; Times: 1
+	Query: "genus:Eira barbara" ; Times: 1
+	Query: "Amphibia vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "Sphenisciformes" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "family:Viperidae" ; Times: 1
+	Query: "Dasypops schirchi" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "Callicebus moloch" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "Saguinus bicolor" ; Times: 1
+	Query: "Ateles belzebuth" ; Times: 1
+	Query: "genus:Artibeus lituratus" ; Times: 2
+	Query: "genus:Puma concolor" ; Times: 2
+	Query: "specificepithet:rotundus genus:Desmodus" ; Times: 1
+	Query: "hylophilus ochraceiceps" ; Times: 1
+	Query: "genus:Desmodus rotundus" ; Times: 2
+	Query: "Thalurania watertonii" ; Times: 1
+	Query: "Saguinus midas" ; Times: 1
+	Query: "eupetomena macroura" ; Times: 2
+	Query: "Callicebus torquatus" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "genus:Peropteryx kappleri" ; Times: 1
+	Query: "Cycloramphus brasiliensis" ; Times: 1
+	Query: "Cebus apella" ; Times: 1
+	Query: "Allobates olfersioides" ; Times: 2
+	Query: "ceratophrys" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "bombina bombina" ; Times: 1
+	Query: "specificepithet:bombina bombina" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "specificepithet:kappleri genus:Peropteryx" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chiropotes albinasus" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "Cyanopsitta spixii" ; Times: 1
+	Query: "trogon mexicanus mexico" ; Times: 1
+	Query: "Chiropotes satanas" ; Times: 1
+	Query: "specificepithet:otus genus:asio" ; Times: 1
+	Query: "Ateles paniscus" ; Times: 1
+	Query: "Anodorhynchus leari" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 3
+	Query: "genus:puma" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "bradypus torquatus" ; Times: 1
+	Query: "genus:Diaemus youngi" ; Times: 2
+	Query: "specificepithet:youngi genus:Diaemus" ; Times: 1
+	Query: "order:squamata country:&#34;brazil&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "specificepithet:aureoventris genus:Pheucticus" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Polytmus guainumbi" ; Times: 1
+	Query: "specificepithet:pecari genus:Tayassu" ; Times: 1
+
+
+End of report.
