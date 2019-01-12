@@ -1,0 +1,209 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 116
+Number of records retrieved in searches: 749
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 61
+	Country: United States ; Times: 18
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 7
+	Country: Venezuela ; Times: 2
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-05 ; Times: 8
+	Date: 2018-12-08 ; Times: 5
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-13 ; Times: 4
+	Date: 2018-12-11 ; Times: 13
+	Date: 2018-12-03 ; Times: 14
+	Date: 2018-12-20 ; Times: 13
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-01 ; Times: 5
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-18 ; Times: 8
+	Date: 2018-12-31 ; Times: 4
+	Date: 2018-12-29 ; Times: 2
+	Date: 2018-12-06 ; Times: 4
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-17 ; Times: 6
+	Date: 2018-12-16 ; Times: 3
+	Date: 2018-12-04 ; Times: 6
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-07 ; Times: 4
+	Date: 2018-12-12 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Brachyteles arachnoides mappable:1" ; Times: 1
+	Query: "ebraccatus" ; Times: 1
+	Query: "ara tricolor" ; Times: 2
+	Query: "vntype:specimen specificepithet:leucotis genus:thryothorus class:aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "amazona festiva" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "Proceratophrys boiei mappable:1" ; Times: 1
+	Query: "specificepithet:pyrrhodes genus:Philydor" ; Times: 1
+	Query: "Brotogeris tirica mappable:1" ; Times: 1
+	Query: "Sphaenorhynchus caramaschii" ; Times: 1
+	Query: "vntype:specimen specificepithet:longirostris genus:Cantorchilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Elachistocleis specificepithet:cesarii" ; Times: 1
+	Query: "Ololygon rizibilis" ; Times: 1
+	Query: "Itapotihyla langsdorffii" ; Times: 1
+	Query: "vntype:specimen genus:Microbates class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Glaucidium hardyi" ; Times: 4
+	Query: "Thoropa year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "genus:Melanophryniscus specificepithet:rubriventris" ; Times: 1
+	Query: "sapajus nigritus mappable:1" ; Times: 2
+	Query: "genus:Trachycephalus specificepithet:resinifictrix" ; Times: 1
+	Query: "Silverstoneia flotator" ; Times: 1
+	Query: "Brotogeris chiriri" ; Times: 3
+	Query: "Pyrrhura lepida" ; Times: 1
+	Query: "specificepithet:coraya class:aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Primolius maracana" ; Times: 1
+	Query: "genus:Phasmahyla specificepithet:cochranae" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:iheringii" ; Times: 1
+	Query: "specificepithet:rothschildii genus:Cyanoloxia" ; Times: 1
+	Query: "specificepithet:brissonii genus:Cyanoloxia" ; Times: 1
+	Query: "vntype:specimen genus:Polioptila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Harpia harpyja mappable:1" ; Times: 2
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "Crotalus durissus mappable:1" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Cichlocolaptes" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucotis genus:Cantorchilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Cyphorhinus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Cichlocolaptes" ; Times: 2
+	Query: "Spilotes pullatus mappable:1" ; Times: 1
+	Query: "Phacellodomus maculipectus" ; Times: 2
+	Query: "vntype:specimen specificepithet:longirostris genus:Thryothorus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "anodorhynchus leari" ; Times: 2
+	Query: "vntype:specimen specificepithet:leucotis genus:Thryothorus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Leptodactylus labyrinthicus" ; Times: 1
+	Query: "specificepithet:leucotis genus:Cantorchilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:ohausi genus:Cycloramphus" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "Crossodactylus year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Poospiza erythrophrys" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 2
+	Query: "Pithecopus nordestinus" ; Times: 1
+	Query: "Atlapetes fulviceps" ; Times: 3
+	Query: "Limnomedusa year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "genus:Ameerega specificepithet:trivittata" ; Times: 1
+	Query: "vntype:specimen genus:Henicorhina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "brachyteles arachnoides mappable:1" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "Ara tricolor" ; Times: 1
+	Query: "Araucaria" ; Times: 1
+	Query: "45407" ; Times: 1
+	Query: "Pyrrhura perlata" ; Times: 1
+	Query: "specificepithet:rufitelus genus:hypsiboas" ; Times: 1
+	Query: "vntype:specimen specificepithet:arada class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Vitreorana uranoscopa mappable:1" ; Times: 2
+	Query: "Glaucidium bolivianum" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "Limnomedusa" ; Times: 2
+	Query: "Phyllomedusa tetraploidea" ; Times: 2
+	Query: "vntype:specimen specificepithet:guarayanus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "callithrix" ; Times: 1
+	Query: "chordeiles gundlachii" ; Times: 1
+	Query: "genus:Thoropa" ; Times: 1
+	Query: "Aegolius harrisii" ; Times: 1
+	Query: "vntype:specimen genus:Donacobius class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Ramphocaenus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 10
+	Query: "vntype:specimen specificepithet:coraya class:aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "genus:Tyto year &gt;= 1987 year &lt;= 1987" ; Times: 1
+	Query: "Phyllomedusa distincta" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 809 download events in this period)
+Total number of records downloaded: 1006
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: India ; Times: 19
+	Country: United States ; Times: 12
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-10 ; Times: 3
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 10
+	Date: 2018-12-31 ; Times: 3
+	Date: 2018-12-09 ; Times: 2
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-17 ; Times: 7
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-11 ; Times: 2
+	Date: 2018-12-03 ; Times: 3
+	Date: 2018-12-13 ; Times: 2
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ebraccatus" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "steatornis caripensis" ; Times: 1
+	Query: "specificepithet:cyanoides genus:Cyanoloxia" ; Times: 1
+	Query: "Glaucidium hardyi" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "Phyllomedusa distincta" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "chordeiles gundlachii" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "specificepithet:rothschildii genus:Cyanoloxia" ; Times: 1
+	Query: "specificepithet:brissonii genus:Cyanoloxia" ; Times: 1
+	Query: "peropteryx kappleri" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "otus scops" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "gastrotheca" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "Aegolius harrisii" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "Alouatta seniculus seniculus" ; Times: 1
+	Query: "Glaucidium jardinii" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Glaucidium bolivianum" ; Times: 1
+	Query: "Glaucidium passerinum" ; Times: 1
+	Query: "Glaucidium nanum" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+
+
+End of report.
