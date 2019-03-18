@@ -1,0 +1,308 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 328
+Number of records retrieved in searches: 1554
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 95
+	Country: Canada ; Times: 10
+	Country: Peru ; Times: 12
+	Country: Mexico ; Times: 13
+	Country: Denmark ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: United States ; Times: 174
+	Country: Belgium ; Times: 10
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Paraguay ; Times: 1
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 62
+	Date: 2019-02-05 ; Times: 5
+	Date: 2019-02-11 ; Times: 7
+	Date: 2019-02-10 ; Times: 2
+	Date: 2019-02-13 ; Times: 44
+	Date: 2019-02-12 ; Times: 10
+	Date: 2019-02-15 ; Times: 8
+	Date: 2019-02-14 ; Times: 3
+	Date: 2019-02-19 ; Times: 12
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 4
+	Date: 2019-02-26 ; Times: 6
+	Date: 2019-02-27 ; Times: 6
+	Date: 2019-02-20 ; Times: 3
+	Date: 2019-02-07 ; Times: 10
+	Date: 2019-02-22 ; Times: 4
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-08 ; Times: 85
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-02 ; Times: 3
+	Date: 2019-02-03 ; Times: 16
+	Date: 2019-02-01 ; Times: 22
+	Date: 2019-02-21 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:lawrencii genus:Turdus class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Ramphastos culminatus" ; Times: 2
+	Query: "&#34;Neothraupis fasciata&#34; country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Culicivora caudacuta" ; Times: 2
+	Query: "Pipile jacutinga" ; Times: 9
+	Query: "Dendrocolaptes hoffmannsi" ; Times: 1
+	Query: "&#34;Syndactyla dimidiata&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "ochthornis littoralis class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chroicocephalus maculipennis mappable:1" ; Times: 1
+	Query: "Coryphaspiza melanotis" ; Times: 2
+	Query: "anodorhynchus hyacinthinus" ; Times: 1
+	Query: "Amazona rhodocorytha" ; Times: 1
+	Query: "Nothura minor" ; Times: 2
+	Query: "Spinus cucullatus" ; Times: 2
+	Query: "spinus cucullatus" ; Times: 2
+	Query: "Hypocnemis striata" ; Times: 1
+	Query: "Procnias nudicollis" ; Times: 2
+	Query: "Sporophila falcirostris" ; Times: 2
+	Query: "Ceratophrys country:&#34;Brazil&#34;" ; Times: 9
+	Query: "specificepithet:rothschildii genus:Cyanoloxia" ; Times: 1
+	Query: "Hylexetastes uniformis" ; Times: 5
+	Query: "Mergus octosetaceus" ; Times: 6
+	Query: "Myrmotherula minor" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigriceps genus:Turdus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "specificepithet:albinucha genus:Xenopsaris" ; Times: 1
+	Query: "Biatas nigropectus" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufiventris genus:Turdus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:grammicus genus:celeus" ; Times: 1
+	Query: "vntype:specimen specificepithet:hauxwelli genus:Turdus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Syndactyla dimidiata" ; Times: 1
+	Query: "Certhiaxis cinnamomeus" ; Times: 1
+	Query: "Trogon viridis mappable:1" ; Times: 2
+	Query: "ASIO STYGIUS" ; Times: 1
+	Query: "Ramphotrigon megacephalum" ; Times: 7
+	Query: "Penelope jacucaca" ; Times: 1
+	Query: "Touit huetii" ; Times: 2
+	Query: "(&#34;toxostoma ocellatum&#34;)" ; Times: 1
+	Query: "Progne modesta" ; Times: 1
+	Query: "Tachyphonus coronatus mappable:1" ; Times: 2
+	Query: "Nothura maculosa" ; Times: 4
+	Query: "Crax blumenbachii" ; Times: 1
+	Query: "Cyanopsitta spixii" ; Times: 1
+	Query: "Penelope ochrogaster" ; Times: 1
+	Query: "Myrmotherula snowi" ; Times: 1
+	Query: "vntype:specimen specificepithet:SUBALARIS genus:Turdus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Synallaxis gujanensis" ; Times: 1
+	Query: "Ramphastos vitellinus mappable:1" ; Times: 2
+	Query: "Cercomacra ferdinandi" ; Times: 1
+	Query: "Crax fasciolata" ; Times: 6
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "Pteroglossus bailloni mappable:1" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus stateprovince:&#34;Bahia&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Tinamus tao" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Rio Grande do Norte&#34;" ; Times: 18
+	Query: "genus:Bokermannohyla" ; Times: 1
+	Query: "Pyrrhura lepida" ; Times: 1
+	Query: "Cercomacra carbonaria" ; Times: 2
+	Query: "Synallaxis infuscata" ; Times: 1
+	Query: "Ancistrops strigilatus" ; Times: 1
+	Query: "Tangara cyanocephala mappable:1" ; Times: 2
+	Query: "specificepithet:setaria genus:leptasthenura" ; Times: 1
+	Query: "Penelope pileata" ; Times: 1
+	Query: "Anthus nattereri" ; Times: 2
+	Query: "Crax rubra" ; Times: 3
+	Query: "Amazona vinacea" ; Times: 2
+	Query: "Herpsilochmus pectoralis" ; Times: 1
+	Query: "Pteroglossus aracari mappable:1" ; Times: 2
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "Mimus saturninus mappable:1" ; Times: 2
+	Query: "Carpornis melanocephala" ; Times: 1
+	Query: "Ara tricolor" ; Times: 1
+	Query: "Hylexetastes perrotii" ; Times: 4
+	Query: "vntype:specimen specificepithet:nigrorufa genus:Poospiza" ; Times: 1
+	Query: "vntype:specimen specificepithet:ignobilis genus:Turdus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Dendropsophus xapuriensis" ; Times: 1
+	Query: "Phaethornis aethopygus" ; Times: 1
+	Query: "specificepithet:youngi genus:Diaemus" ; Times: 1
+	Query: "Anodorhynchus leari" ; Times: 1
+	Query: "Sapajus nigritus mappable:1" ; Times: 2
+	Query: "Myrmotherula surinamensis" ; Times: 2
+	Query: "Ramphastos vitellinus" ; Times: 2
+	Query: "vntype:specimen specificepithet:nigrorufa genus:poospiza" ; Times: 1
+	Query: "Nothura boraquira" ; Times: 1
+	Query: "Automolus rufipileatus" ; Times: 1
+	Query: "Psophia viridis" ; Times: 2
+	Query: "Tangara fastuosa" ; Times: 1
+	Query: "Pyrrhura leucotis" ; Times: 1
+	Query: "rhynchotus" ; Times: 3
+	Query: "phyllomedusa bicolor" ; Times: 2
+	Query: "caraiba" ; Times: 1
+	Query: "Pyrrhura snethlageae" ; Times: 2
+	Query: "Sporophila maximiliani" ; Times: 2
+	Query: "genus:Physalaemus specificepithet:cicada" ; Times: 1
+	Query: "Synallaxis rutilans" ; Times: 1
+	Query: "vntype:specimen genus:Mimus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Cistothorus apolinari" ; Times: 2
+	Query: "Carpornis cucullata mappable:1" ; Times: 2
+	Query: "Spheniscus magellanicus mappable:1" ; Times: 2
+	Query: "Neomorphus geoffroyi" ; Times: 2
+	Query: "Platyrinchus leucoryphus" ; Times: 2
+	Query: "specificepithet:brissonii genus:Cyanoloxia" ; Times: 1
+	Query: "yagouaroundi" ; Times: 4
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Ramphastos tucanus" ; Times: 2
+	Query: "Amazona tucumana" ; Times: 2
+	Query: "Piprites pileata" ; Times: 2
+	Query: "Cyclarhis gujanensis mappable:1" ; Times: 1
+	Query: "Lepidothrix iris" ; Times: 1
+	Query: "apis" ; Times: 1
+	Query: "vntype:specimen specificepithet:fumigatus genus:Turdus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Thalurania watertonii vntype:specimen" ; Times: 1
+	Query: "Spizaetus isidori" ; Times: 2
+	Query: "Herpsilochmus pileatus" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 2
+	Query: "Crax alector" ; Times: 2
+	Query: "&#34;Basileuterus leucophrys&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Gorilla beringei" ; Times: 1
+	Query: "Synallaxis cherriei" ; Times: 1
+	Query: "Crax rubra México" ; Times: 1
+	Query: "Synallaxis hypospodia" ; Times: 1
+	Query: "Turdus rufiventris mappable:1" ; Times: 2
+	Query: "Tangara sayaca mappable:1" ; Times: 2
+	Query: "thamnophilus nigrocinereus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pionites leucogaster" ; Times: 1
+	Query: "Myiodynastes maculatus mappable:1" ; Times: 2
+	Query: "Spinus yarrellii" ; Times: 2
+	Query: "Leptasthenura aegithaloides" ; Times: 1
+	Query: "Podiceps gallardoi" ; Times: 2
+	Query: "Pyriglena atra" ; Times: 1
+	Query: "Saltator similis mappable:1" ; Times: 2
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "Ramphastos dicolorus mappable:1" ; Times: 2
+	Query: "Synallaxis cabanisi" ; Times: 1
+	Query: "specificepithet:cactorum genus:aratinga" ; Times: 1
+	Query: "Pteroglossus bitorquatus" ; Times: 1
+	Query: "Formicivora erythronotos" ; Times: 1
+	Query: "Tangara palmarum mappable:1" ; Times: 2
+	Query: "Conirostrum bicolor basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Patagioenas subvinacea" ; Times: 2
+	Query: "Thripophaga macroura" ; Times: 1
+	Query: "Synallaxis albigularis" ; Times: 1
+	Query: "Hemitriccus furcatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:SATURNINUS genus:Mimus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Dacnis cayana mappable:1" ; Times: 2
+	Query: "Glaucis dohrnii" ; Times: 1
+	Query: "Onychorhynchus swainsoni" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "Asthenes modesta" ; Times: 1
+	Query: "Xanthopsar flavus" ; Times: 2
+	Query: "lycalopex vetulus" ; Times: 1
+	Query: "asio stygius" ; Times: 2
+	Query: "specificepithet:vermiculatus genus:otus" ; Times: 3
+	Query: "Thalurania watertonii" ; Times: 1
+	Query: "specificepithet:vinacea family:psittacidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Capito dayi" ; Times: 2
+	Query: "Scytalopus novacapitalis" ; Times: 1
+	Query: "Ramphastos ariel" ; Times: 1
+	Query: "vntype:specimen specificepithet:whitii genus:Poospiza" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 2
+	Query: "ara macao" ; Times: 3
+	Query: "Dysithamnus plumbeus" ; Times: 1
+	Query: "specificepithet:barbatus genus:myiobius country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Sporophila frontalis" ; Times: 2
+	Query: "vntype:specimen specificepithet:amaurochalinus genus:Turdus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "specificepithet:aurea genus:eupsittula" ; Times: 1
+	Query: "genus:Bokermannohyla specificepithet:izecksohni" ; Times: 1
+	Query: "Pyrrhura perlata" ; Times: 2
+	Query: "vntype:specimen specificepithet:gilvus genus:Mimus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Serra do Japi" ; Times: 1
+	Query: "Alectrurus tricolor" ; Times: 2
+	Query: "syndactyla dimidiata" ; Times: 1
+	Query: "Carpornis cucullata" ; Times: 1
+	Query: "Procnias nudicollis mappable:1" ; Times: 2
+	Query: "Rhegmatorhina gymnops" ; Times: 1
+	Query: "Neopelma aurifrons" ; Times: 1
+	Query: "genus:Inia class:Mammalia" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 1227 download events in this period)
+Total number of records downloaded: 329
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 13
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-03 ; Times: 3
+	Date: 2019-02-14 ; Times: 6
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-13 ; Times: 10
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-15 ; Times: 3
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-19 ; Times: 2
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:trifasciatus genus:nesomimus" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigrorufa genus:poospiza" ; Times: 1
+	Query: "amazona albifrons" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "ochthornis littoralis class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridicata genus:Myiopagis" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus stateprovince:&#34;Bahia&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:rothschildii genus:Cyanoloxia" ; Times: 1
+	Query: "specificepithet:cactorum genus:aratinga" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Rio Grande do Norte&#34;" ; Times: 1
+	Query: "specificepithet:lineata genus:conopophaga" ; Times: 1
+	Query: "Conirostrum bicolor basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(&#34;toxostoma ocellatum&#34;)" ; Times: 1
+	Query: "specificepithet:pertinax genus:aratinga" ; Times: 1
+	Query: "specificepithet:setaria genus:leptasthenura" ; Times: 1
+	Query: "specificepithet:brissonii genus:Cyanoloxia" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:albinucha genus:Xenopsaris" ; Times: 1
+	Query: "harpia harpyja" ; Times: 1
+	Query: "Lepidothrix iris" ; Times: 1
+	Query: "lycalopex vetulus" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "specificepithet:grammicus genus:celeus" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:superciliaris genus:Sturnella class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:platensis genus:leptasthenura" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "specificepithet:aurea genus:eupsittula" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "vntype:specimen specificepithet:militaris genus:Sturnella class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "thamnophilus nigrocinereus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:youngi genus:Diaemus" ; Times: 1
+	Query: "specificepithet:rufipennis genus:geositta" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:flavus genus:celeus" ; Times: 1
+	Query: "genus:Inia class:Mammalia" ; Times: 1
+
+
+End of report.
