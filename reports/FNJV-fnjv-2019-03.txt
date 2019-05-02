@@ -1,0 +1,225 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 216
+Number of records retrieved in searches: 922
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 84
+	Country: United States ; Times: 40
+	Country: Mexico ; Times: 20
+	Country: Denmark ; Times: 9
+	Country: United Kingdom ; Times: 37
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Argentina ; Times: 16
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-09 ; Times: 5
+	Date: 2019-03-27 ; Times: 31
+	Date: 2019-03-26 ; Times: 12
+	Date: 2019-03-25 ; Times: 20
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-08 ; Times: 2
+	Date: 2019-03-21 ; Times: 11
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-05 ; Times: 9
+	Date: 2019-03-04 ; Times: 5
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-29 ; Times: 17
+	Date: 2019-03-22 ; Times: 12
+	Date: 2019-03-15 ; Times: 20
+	Date: 2019-03-30 ; Times: 4
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-18 ; Times: 6
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-16 ; Times: 5
+	Date: 2019-03-17 ; Times: 4
+	Date: 2019-03-14 ; Times: 19
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-12 ; Times: 9
+	Date: 2019-03-10 ; Times: 6
+	Date: 2019-03-11 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "myrmorchilus strigilatus" ; Times: 3
+	Query: "Icterus pyrrhopterus" ; Times: 1
+	Query: "vntype:specimen genus:Ammodramus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:lutescens genus:Anthus class:AVES country:&#34;bRAzIL&#34;" ; Times: 3
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "Chloroceryle amazona mappable:1" ; Times: 1
+	Query: "Ara macao mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:furcatus genus:Anthus class:AVES country:&#34;bRAzIL&#34;" ; Times: 2
+	Query: "Coryphaspiza melanotis" ; Times: 2
+	Query: "genus:Bokermannohyla specificepithet:nanuzae" ; Times: 1
+	Query: "Brotogeris chiriri" ; Times: 2
+	Query: "Patagioenas plumbea mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:aurifrons genus:ammodramus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Leptodactylus labyrinthicus mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Arremon class:Aves country:&#34;Brazil&#34;" ; Times: 6
+	Query: "Orthogonys chloricterus" ; Times: 2
+	Query: "Callithrix flaviceps" ; Times: 2
+	Query: "Panthera onca" ; Times: 8
+	Query: "vntype:specimen specificepithet:ruficollis genus:micrastur" ; Times: 2
+	Query: "vntype:specimen specificepithet:hellmayri genus:Anthus class:AVES country:&#34;bRAzIL&#34;" ; Times: 1
+	Query: "strix virgata" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "vntype:specimen specificepithet:correndera genus:Anthus class:AVES country:&#34;bRAzIL&#34;" ; Times: 1
+	Query: "Phalacrocorax brasilianus mappable:1" ; Times: 1
+	Query: "Cycloramphus eleutherodactylus" ; Times: 2
+	Query: "aegolius harrisii" ; Times: 1
+	Query: "Leptodactylus mystacinus mappable:1" ; Times: 1
+	Query: "Tinamus tao" ; Times: 2
+	Query: "nyctibius grandis" ; Times: 2
+	Query: "Vanellus chilensis mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:correndera genus:Anthus class:AVES country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:cyanoventris genus:tangara" ; Times: 1
+	Query: "Aramus guarauna year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Threnetes niger" ; Times: 7
+	Query: "Pseudoseisura cristata" ; Times: 9
+	Query: "Allenopithecus nigroviridis" ; Times: 2
+	Query: "vntype:specimen specificepithet:correndera genus:Anthus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Odontophrynus monachus" ; Times: 2
+	Query: "vntype:specimen specificepithet:humeralis genus:Myospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Touit huetii" ; Times: 2
+	Query: "jabiru mycteria" ; Times: 2
+	Query: "Phaethornis aethopygus" ; Times: 4
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "specificepithet:semitorquatus genus:Arremon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "geranoaetus" ; Times: 1
+	Query: "Spizaetus isidori" ; Times: 2
+	Query: "nyctibius aethereus" ; Times: 1
+	Query: "specificepithet:galeata genus:Antilophia" ; Times: 1
+	Query: "vntype:specimen specificepithet:flavirostris genus:Arremon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Scinax fuscomarginatus mappable:1" ; Times: 1
+	Query: "Vitreorana uranoscopa mappable:1" ; Times: 8
+	Query: "vntype:specimen specificepithet:humeralis genus:ammodramus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "urumutum" ; Times: 1
+	Query: "Arundinicola leucocephala mappable:1" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "vntype:specimen genus:Zonotrichia class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Icterus jamacaii" ; Times: 2
+	Query: "vntype:specimen specificepithet:hellmayri genus:Anthus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Myospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "opisthocomus year &gt; 1990 NOT clo" ; Times: 1
+	Query: "vntype:specimen specificepithet:nattereri genus:Anthus class:AVES country:&#34;Brazil&#34;" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "Furnarius rufus mappable:1" ; Times: 5
+	Query: "genus:Dendropsophus specificepithet:meridianus" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 2
+	Query: "vntype:specimen specificepithet:aurifrons genus:Myospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Leptodactylus mystaceus mappable:1" ; Times: 1
+	Query: "yagouaroundi" ; Times: 1
+	Query: "vntype:specimen specificepithet:furcatus genus:Anthus class:AVES country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:taciturnus genus:Arremon class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Pseudis minuta" ; Times: 1
+	Query: "gephyromantis" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "Carajas" ; Times: 2
+	Query: "Gorilla beringei" ; Times: 2
+	Query: "brachyteles" ; Times: 1
+	Query: "Physalaemus cuvieri mappable:1" ; Times: 2
+	Query: "Pionites leucogaster" ; Times: 3
+	Query: "Chiasmocleis albopunctata mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Anthus class:AVES country:&#34;bRAzIL&#34;" ; Times: 2
+	Query: "specificepithet:correndera genus:Anthus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 17
+	Query: "Podiceps gallardoi" ; Times: 3
+	Query: "Dendropsophus sanborni mappable:1" ; Times: 1
+	Query: "Gymnopithys rufigula" ; Times: 3
+	Query: "Scinax fuscovarius mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:ammodramus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Chloroceryle aenea year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Patagioenas subvinacea" ; Times: 2
+	Query: "Primolius maracana" ; Times: 1
+	Query: "geranoaetus melanoleucus" ; Times: 3
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "Spizaetus tyrannus year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Megaceryle torquata mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:nattereri genus:Anthus class:AVES country:&#34;bRAzIL&#34;" ; Times: 1
+	Query: "nyctibius leucopterus" ; Times: 2
+	Query: "&#34;Margarops fuscus&#34;" ; Times: 1
+	Query: "Leptodactylus podicipinus mappable:1" ; Times: 1
+	Query: "Fluvicola nengeta mappable:1" ; Times: 1
+	Query: "anhinga anhinga year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Dendropsophus nanus mappable:1" ; Times: 1
+	Query: "opisthocomus year &gt; 1990" ; Times: 1
+	Query: "Salvator merianae mappable:1" ; Times: 2
+	Query: "diaemus youngi" ; Times: 2
+	Query: "Laniisoma elegans" ; Times: 1
+	Query: "Ramphastos culminatus" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:labyrinthicus" ; Times: 1
+	Query: "chauna torquata year &gt; 1985" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1281 download events in this period)
+Total number of records downloaded: 343
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 3
+	Country: Argentina ; Times: 3
+	Country: United Kingdom ; Times: 13
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-11 ; Times: 1
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-21 ; Times: 3
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-17 ; Times: 7
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-15 ; Times: 4
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Icterus pyrrhopterus" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "Icterus jamacaii" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "Brotogeris chiriri" ; Times: 1
+	Query: "geranoaetus melanoleucus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "melanopareia" ; Times: 1
+	Query: "Pseudoseisura cristata" ; Times: 1
+	Query: "Orthogonys chloricterus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Allenopithecus nigroviridis" ; Times: 1
+	Query: "Callithrix flaviceps" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 1
+	Query: "Icterus nigrogularis" ; Times: 1
+	Query: "Gnorimopsar chopi" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "Cacicus solitarius" ; Times: 1
+	Query: "Cacicus melanicterus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "geranoaetus" ; Times: 2
+	Query: "specificepithet:galeata genus:Antilophia" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Pionites leucogaster" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+
+
+End of report.
