@@ -1,0 +1,300 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 274
+Number of records retrieved in searches: 1212
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 101
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 7
+	Country: Cuba ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 123
+	Country: Rwanda ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 11
+	Country: Denmark ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 11
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 5
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 9
+	Date: 2019-09-17 ; Times: 5
+	Date: 2019-09-10 ; Times: 46
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 4
+	Date: 2019-09-13 ; Times: 7
+	Date: 2019-09-18 ; Times: 7
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-30 ; Times: 12
+	Date: 2019-09-09 ; Times: 18
+	Date: 2019-09-08 ; Times: 2
+	Date: 2019-09-03 ; Times: 7
+	Date: 2019-09-02 ; Times: 9
+	Date: 2019-09-06 ; Times: 49
+	Date: 2019-09-04 ; Times: 4
+	Date: 2019-09-21 ; Times: 4
+	Date: 2019-09-20 ; Times: 4
+	Date: 2019-09-23 ; Times: 21
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 19
+	Date: 2019-09-24 ; Times: 15
+	Date: 2019-09-27 ; Times: 4
+	Date: 2019-09-26 ; Times: 13
+	Date: 2019-09-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Leptodactylus specificepithet:vastus" ; Times: 2
+	Query: "Leontopithecus chrysopygus mappable:1" ; Times: 6
+	Query: "vntype:specimen genus:Pitylus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:iberia genus:Eleutherodactylus" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Phaethornis eurynome" ; Times: 1
+	Query: "Aplastodiscus albofrenatus" ; Times: 11
+	Query: "setaria" ; Times: 2
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Phaethornis idaliae" ; Times: 1
+	Query: "Augastes scutatus" ; Times: 1
+	Query: "order:primates country:&#34;Brazil&#34; (santo)" ; Times: 2
+	Query: "Ara macao" ; Times: 2
+	Query: "specificepithet:minusculus genus:Dendropsophus" ; Times: 1
+	Query: "vntype:specimen genus:Stephanophorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "Crotalus durissus mappable:1" ; Times: 1
+	Query: "psophia leucoptera" ; Times: 2
+	Query: "biatas nigropectus" ; Times: 3
+	Query: "Chiropotes satanas mappable:1" ; Times: 1
+	Query: "Ubajara" ; Times: 1
+	Query: "apis mellifera" ; Times: 2
+	Query: "Chlorostilbon lucidus" ; Times: 2
+	Query: "Nothocrax urumutum" ; Times: 1
+	Query: "hypsiboas microderma" ; Times: 1
+	Query: "genus:Stephanophorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 7
+	Query: "Phaethornis ruber" ; Times: 2
+	Query: "Brachyteles arachnoides mappable:1" ; Times: 1
+	Query: "anhimidae" ; Times: 1
+	Query: "Bokermannohyla alvarengai" ; Times: 1
+	Query: "unicamp Tijuca atra" ; Times: 1
+	Query: "family:amphisbaenidae country:&#34;Brazil&#34; year &gt;= 1990" ; Times: 1
+	Query: "rhegmatorhina gymnops" ; Times: 1
+	Query: "Nothocrax urumutum NOT (skin OR skel OR skeleton OR chick OR egg)" ; Times: 1
+	Query: "Heliactin bilophus" ; Times: 1
+	Query: "conirostrum bicolor" ; Times: 5
+	Query: "amazilia versicolor" ; Times: 1
+	Query: "specificepithet:flavescens genus:Atelopus" ; Times: 1
+	Query: "Heliomaster squamosus" ; Times: 1
+	Query: "specificepithet:albofrenatus genus:Aplastodiscus" ; Times: 1
+	Query: "ramphocinclus brachyurus" ; Times: 3
+	Query: "Nyctiphrynus mcleodii" ; Times: 1
+	Query: "psophia viridis" ; Times: 2
+	Query: "vntype:specimen genus:Parkerthraustes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Spilotes pullatus pullatus mappable:1" ; Times: 1
+	Query: "Dasypops schirchi" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 6
+	Query: "vntype:specimen genus:Neothraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Physalaemus  cuvieri mappable:1" ; Times: 1
+	Query: "Callithrix penicillata mappable:1" ; Times: 1
+	Query: "pseudoscops grammicus" ; Times: 1
+	Query: "Cercomacra brasiliana unicamp" ; Times: 1
+	Query: "rhegmatorhina berlepschi" ; Times: 1
+	Query: "Ischnocnema juipoca" ; Times: 2
+	Query: "Trogon bairdii" ; Times: 5
+	Query: "vntype:specimen genus:lamprospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Orthogonys class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "aedes" ; Times: 1
+	Query: "Aphantochroa cirrochloris" ; Times: 1
+	Query: "Chiropotes chiropotes mappable:1" ; Times: 1
+	Query: "genus:Rhinella specificepithet:major" ; Times: 1
+	Query: "Hylocharis sapphirina" ; Times: 1
+	Query: "Colibri serrirostris" ; Times: 1
+	Query: "laterallus melanophaius vntype:specimen" ; Times: 1
+	Query: "Lophostrix cristata" ; Times: 1
+	Query: "neopelma chrysolophum" ; Times: 1
+	Query: "Nothocrax urumutum NOT (skin OR skel OR sound OR skeleton OR chick OR egg)" ; Times: 1
+	Query: "Ateles paniscus mappable:1" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "vntype:specimen genus:Porphyrospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ara tricolor" ; Times: 1
+	Query: "order:primates stateprovince:&#34;santo&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:aurita" ; Times: 1
+	Query: "laterallus leucopyrrhus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Trogon ramonianus" ; Times: 1
+	Query: "Pseudoscops grammicus" ; Times: 1
+	Query: "vntype:specimen genus:Pipraeidea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Odontophrynus specificepithet:occidentalis" ; Times: 1
+	Query: "specificepithet:timbeba  genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:brevipollicatus genus:Dendrophryniscus" ; Times: 1
+	Query: "Tijuca atra unicamp" ; Times: 1
+	Query: "vntype:specimen genus:Leistes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:boiei" ; Times: 1
+	Query: "specificepithet:eleutherodactylus genus:Cycloramphus" ; Times: 1
+	Query: "vntype:specimen specificepithet:MAGNA class:Aves country:&#34;BraZil&#34;" ; Times: 1
+	Query: "Chlorestes notata" ; Times: 1
+	Query: "Spilotes pullatus mappable:1" ; Times: 1
+	Query: "trogon bairdii" ; Times: 2
+	Query: "Neopelma chrysolophum" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 15
+	Query: "Philydor rufum" ; Times: 2
+	Query: "otus nudipes" ; Times: 1
+	Query: "Saguinus bicolor mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:humeralis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Curaeus forbesi unicamp" ; Times: 1
+	Query: "Ara ararauna" ; Times: 2
+	Query: "specificepithet:conspicillatus genus:Pristimantis" ; Times: 1
+	Query: "Leontopithecus rosalia mappable:1" ; Times: 7
+	Query: "dodo" ; Times: 1
+	Query: "Vireo belli" ; Times: 1
+	Query: "specificepithet:crucifer genus:Rhinella" ; Times: 1
+	Query: "Ameerega berohoka" ; Times: 1
+	Query: "specificepithet:resinifictrix genus:Trachycephalus" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "specificepithet:ararauna genus:Ara year &gt;= 1970 hassex:1" ; Times: 1
+	Query: "harpia harpyja" ; Times: 1
+	Query: "Polytmus guainumbi" ; Times: 1
+	Query: "asio clamator" ; Times: 2
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "vntype:specimen genus:Caryothraustes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "locality:Poços de Caldas" ; Times: 1
+	Query: "genus:Allobates specificepithet:olfersioides" ; Times: 1
+	Query: "hylexetastes" ; Times: 1
+	Query: "vntype:specimen genus:Lamprospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Allophryne specificepithet:ruthveni" ; Times: 1
+	Query: "Glaucis dohrnii" ; Times: 1
+	Query: "Heliodoxa rubricauda" ; Times: 1
+	Query: "specificepithet:perpusillus genus:Scinax" ; Times: 1
+	Query: "Nothocrax urumutum NOT (skin OR skel OR skeleton OR chick)" ; Times: 1
+	Query: "Compsothraupis loricata unicamp" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "( Ubajara)" ; Times: 5
+	Query: "Thalurania watertonii" ; Times: 1
+	Query: "laterallus leucopyrrhus" ; Times: 3
+	Query: "emberizoides mato grosso" ; Times: 1
+	Query: "Leucochloris albicollis" ; Times: 1
+	Query: "Phaethornis squalidus" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "genus:Melanophryniscus specificepithet:moreirae" ; Times: 1
+	Query: "Leontopithecus chrysomelas mappable:1" ; Times: 6
+	Query: "Merulaxis ater unicamp" ; Times: 1
+	Query: "vntype:specimen genus:Orchesticus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "vntype:specimen specificepithet:latirostris genus:Caiman" ; Times: 1
+	Query: "Laterallus leucopyrrhus" ; Times: 4
+	Query: "laterallus viridis" ; Times: 1
+	Query: "specificepithet:ararauna genus:Ara hassex:1" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 6
+	Query: "Nothocrax urumutum NOT (skin OR skel OR sound OR skeleton OR chick OR egg OR eggs)" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 27
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 1073 download events in this period)
+Total number of records downloaded: 892
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 41
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 12
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 3
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-10 ; Times: 37
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-27 ; Times: 3
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-30 ; Times: 3
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-02 ; Times: 4
+	Date: 2019-09-06 ; Times: 2
+	Date: 2019-09-05 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "Glaucis hirsuta" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "order:primates country:&#34;Brazil&#34; (santo)" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "laterallus leucopyrrhus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "conirostrum bicolor" ; Times: 1
+	Query: "amazilia versicolor" ; Times: 1
+	Query: "rhegmatorhina gymnops" ; Times: 1
+	Query: "anurolimnas viridis" ; Times: 1
+	Query: "Heliomaster squamosus" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Phaethornis eurynome" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Chlorostilbon notatus" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "Glaucis dohrnii" ; Times: 1
+	Query: "Heliodoxa rubricauda" ; Times: 1
+	Query: "anas flavirostris" ; Times: 2
+	Query: "order:Rodentia country:&#34;Brazil&#34; (Amazonas OR Pará OR Para OR Acre OR Roraima OR Rondonia OR Rondônia OR Amapá OR Amapa)" ; Times: 1
+	Query: "Phaethornis idaliae" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "Chlorestes notata" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Thalurania glaucopis" ; Times: 1
+	Query: "Augastes scutatus" ; Times: 1
+	Query: "Thalurania watertonii" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "anas georgica" ; Times: 1
+	Query: "Turdus nudigenis" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Aphantochroa cirrochloris" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+	Query: "Phaethornis squalidus" ; Times: 2
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Hylocharis sapphirina" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 2
+	Query: "Colibri serrirostris" ; Times: 1
+	Query: "laterallus melanophaius vntype:specimen" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "Cyanocorax affinis" ; Times: 1
+	Query: "laterallus viridis" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Polytmus guainumbi" ; Times: 1
+	Query: "Heliactin bilophus" ; Times: 2
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "Chlorostilbon lucidus" ; Times: 1
+	Query: "Leucochloris albicollis" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+	Query: "Phaethornis ruber" ; Times: 2
+
+
+End of report.
