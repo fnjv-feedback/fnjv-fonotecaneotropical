@@ -1,0 +1,168 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 681
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 76
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 3
+	Country: United States ; Times: 14
+	Country: Colombia ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Bolivia ; Times: 3
+	Country: Venezuela ; Times: 2
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 7
+	Date: 2020-05-24 ; Times: 5
+	Date: 2020-05-27 ; Times: 7
+	Date: 2020-05-26 ; Times: 5
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-23 ; Times: 4
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-31 ; Times: 5
+	Date: 2020-05-29 ; Times: 10
+	Date: 2020-05-28 ; Times: 4
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-07 ; Times: 4
+	Date: 2020-05-06 ; Times: 21
+	Date: 2020-05-12 ; Times: 2
+	Date: 2020-05-13 ; Times: 4
+	Date: 2020-05-14 ; Times: 11
+	Date: 2020-05-16 ; Times: 3
+	Date: 2020-05-17 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "alectrurus" ; Times: 2
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "Culicivora caudacuta" ; Times: 3
+	Query: "vntype:specimen specificepithet:falcirostris genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "alouatta guariba" ; Times: 1
+	Query: "Gorilla beringei beringei" ; Times: 1
+	Query: "Atlapetes fulviceps" ; Times: 3
+	Query: "Leptodon cayanensis" ; Times: 3
+	Query: "genus:Dacnis country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:lineata genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "locality:Iguaçu" ; Times: 1
+	Query: "specificepithet:regulus genus:Machaeropterus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviventer genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:collaris genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:leucotis genus:Pyrrhura country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Melanophryniscus specificepithet:rubriventris" ; Times: 1
+	Query: "cercomacra brasiliana" ; Times: 1
+	Query: "Poospiza erythrophrys" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:José Maria basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Scinax specificepithet:fuscovarius" ; Times: 1
+	Query: "Scinax fuscovarius" ; Times: 1
+	Query: "genus:chelidoptera country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:intermedia genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Coereba class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ilicura militaris" ; Times: 1
+	Query: "genus:Brachycephalus specificepithet:pitanga" ; Times: 1
+	Query: "specificepithet:squamatus genus:lepidocolaptes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:latirostris genus:Caiman family:Alligatoridae" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Thamnophilus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chordeiles gundlachii" ; Times: 2
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "genus:Pseudopaludicola specificepithet:boliviana" ; Times: 1
+	Query: "vntype:specimen genus:Tiaris class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:cayana genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "amazona rhodocorytha" ; Times: 1
+	Query: "Phacellodomus maculipectus" ; Times: 1
+	Query: "vntype:specimen specificepithet:albiventris genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "gymnopithys lateralis" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricollis genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "synallaxis infuscata" ; Times: 2
+	Query: "vntype:specimen specificepithet:schistacea genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:phaetusa country:&#34;Brazil&#34;" ; Times: 1
+	Query: "euchrepomis" ; Times: 2
+	Query: "iguaçu" ; Times: 1
+	Query: "Brachycephalus pitanga" ; Times: 2
+	Query: "specificepithet:morphoeus genus:Monasa country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "specificepithet:marginatus genus:Pachyramphus country:&#34;Brazil&#34;" ; Times: 3
+	Query: "specificepithet:guttatus genus:xiphorhynchus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:lineola genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:chamaeza country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:frontalis genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:ardesiaca genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:burmeisteri" ; Times: 5
+	Query: "specificepithet:platyrostris genus:Dendrocolaptes country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 2
+	Query: "apis mellifera" ; Times: 1
+	Query: "genus:Strix country:&#34;Mexico&#34;" ; Times: 3
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 10
+	Query: "vntype:specimen specificepithet:plumbea genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:CAYANA genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 10
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1106 download events in this period)
+Total number of records downloaded: 17295
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: United States ; Times: 8
+	Country: Argentina ; Times: 7
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-04 ; Times: 6
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-14 ; Times: 5
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "order:Squamata country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "vntype:specimen class:Amphibia stateprovince:&#34;Paraná&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Poospiza erythrophrys" ; Times: 1
+	Query: "vntype:specimen order:Squamata stateprovince:&#34;São Paulo&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "specificepithet:latirostris genus:Caiman family:Alligatoridae" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "manacus manacus gutturosus" ; Times: 1
+	Query: "Phacellodomus maculipectus" ; Times: 1
+	Query: "Myrmornis torquata" ; Times: 2
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "Atlapetes fulviceps" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "vntype:specimen class:Amphibia stateprovince:&#34;Santa Catarina&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "automolus leucophthalmus" ; Times: 1
+	Query: "Troglodytes solstitialis" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 1
+	Query: "genus:Eira" ; Times: 1
+	Query: "vntype:specimen class:Amphibia stateprovince:&#34;São Paulo&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "myrmornis torquata" ; Times: 1
+	Query: "vntype:specimen specificepithet:merianae genus:Salvator basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mecocerculus leucophrys" ; Times: 1
+	Query: "vntype:specimen specificepithet:strigilatus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
