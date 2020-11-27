@@ -1,0 +1,216 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 135
+Number of records retrieved in searches: 799
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 57
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: Russia ; Times: 2
+	Country: United States ; Times: 43
+	Country: Ecuador ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Bolivia ; Times: 2
+	Country: Argentina ; Times: 9
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-08 ; Times: 4
+	Date: 2019-10-21 ; Times: 17
+	Date: 2019-10-27 ; Times: 4
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-24 ; Times: 5
+	Date: 2019-10-01 ; Times: 14
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-28 ; Times: 6
+	Date: 2019-10-05 ; Times: 5
+	Date: 2019-10-07 ; Times: 10
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-23 ; Times: 4
+	Date: 2019-10-22 ; Times: 15
+	Date: 2019-10-29 ; Times: 4
+	Date: 2019-10-18 ; Times: 3
+	Date: 2019-10-02 ; Times: 7
+	Date: 2019-10-16 ; Times: 5
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 6
+	Date: 2019-10-30 ; Times: 6
+	Date: 2019-10-31 ; Times: 3
+	Date: 2019-10-17 ; Times: 6
+	Date: 2019-10-15 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Leptodactylus specificepithet:vastus" ; Times: 3
+	Query: "Chordeiles gundlachii" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "vntype:specimen specificepithet:chilensis genus:tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:VELIA genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Merulaxis ater" ; Times: 3
+	Query: "genus:Eira " ; Times: 1
+	Query: "vntype:specimen specificepithet:coronata genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanomelaena genus:tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:cunicularius" ; Times: 1
+	Query: "heliothryx auritus" ; Times: 2
+	Query: "vntype:specimen genus:Stephanophorus class:Aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "Priotelus temnurus" ; Times: 1
+	Query: "Cercomacra brasiliana" ; Times: 2
+	Query: "vntype:specimen specificepithet:DOMINICANA genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pleurodema kriegi" ; Times: 1
+	Query: "Trogon aurantius" ; Times: 4
+	Query: "vntype:specimen specificepithet:seledon genus:tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Amazona vinacea" ; Times: 2
+	Query: "Cyanopsitta spixii" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "trogon aurantius" ; Times: 1
+	Query: "specificepithet:apella genus:Sapajus" ; Times: 1
+	Query: "amazona vinacea" ; Times: 1
+	Query: "genus:Pleurodema specificepithet:cinereum" ; Times: 2
+	Query: "Coccyzus americanus 2017" ; Times: 3
+	Query: "Synallaxis infuscata" ; Times: 1
+	Query: "Coccyzus americanus 1997" ; Times: 1
+	Query: "genus:Melanophryniscus specificepithet:rubriventris" ; Times: 1
+	Query: "Dasypops schirchi" ; Times: 1
+	Query: "trogon ramonianus" ; Times: 2
+	Query: "Bokermannohyla ibitiguara" ; Times: 1
+	Query: "Pharomachrus fulgidus" ; Times: 1
+	Query: "specificepithet:cochranae genus:Aplastodiscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:fastuosa genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Curaeus forbesi" ; Times: 3
+	Query: "genus:Hylodes specificepithet:nasus" ; Times: 1
+	Query: "Dendropsophus timbeba" ; Times: 1
+	Query: "vntype:specimen specificepithet:seledon genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Myiopsitta monachus" ; Times: 2
+	Query: "Tijuca atra" ; Times: 1
+	Query: "specificepithet:leucophrus genus:Cichlocolaptes" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruficapillus genus:Schistochlamys class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "temnotrogon" ; Times: 1
+	Query: "Coccyzus americanus 1984" ; Times: 1
+	Query: "vntype:specimen genus:Cissopis class:Aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:brasiliensis genus:tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Eira barbara" ; Times: 1
+	Query: "Mycteria americana 1980" ; Times: 1
+	Query: "turdus lawrencii" ; Times: 4
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanoventris genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chloroceryle aenea year &gt; 1985 NOT Nature NOT CLO" ; Times: 2
+	Query: "genus:Physalaemus specificepithet:barrioi" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanocephala[ genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Melanophryniscus specificepithet:moreirae" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicana genus:tangara class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Compsothraupis loricata" ; Times: 1
+	Query: "Aedes aegypti" ; Times: 1
+	Query: "vntype:specimen specificepithet:chilensis genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:furcata genus:thalurania" ; Times: 1
+	Query: "genus:Scinax specificepithet:similis" ; Times: 1
+	Query: "genus:Pristimantis specificepithet:paulodutrai" ; Times: 1
+	Query: "vntype:specimen specificepithet:punctata genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pseudis minuta" ; Times: 1
+	Query: "Zachaenus parvulus" ; Times: 1
+	Query: "Odontophrynus americanus" ; Times: 1
+	Query: "Temnotrogon roseigaster" ; Times: 2
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "vntype:specimen specificepithet:gyrola genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "lophostrix cristata" ; Times: 2
+	Query: "heliconius" ; Times: 1
+	Query: "genus:Scinax specificepithet:perpusillus" ; Times: 3
+	Query: "asio clamator" ; Times: 4
+	Query: "order:primates stateprovince:&#34;espirito&#34; country:&#34;brazil&#34;" ; Times: 2
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "Odontophrynus occidentalis" ; Times: 1
+	Query: "Mycteria americana 2017" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "Mycteria americana 2015" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "genus:Allobates specificepithet:amissibilis" ; Times: 1
+	Query: "specificepithet:ruber genus:Eudocimus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "genus:Rhinella specificepithet:fernandezae" ; Times: 1
+	Query: "Ischnocnema guentheri" ; Times: 1
+	Query: "Phyllomedusa burmeisteri" ; Times: 1
+	Query: "vntype:specimen specificepithet:capitata genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Schistochlamys class:Aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:dominicana genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "phyllomedusa burmeisteri" ; Times: 1
+	Query: "vntype:specimen specificepithet:velia genus:tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:desmaresti genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "H 6378-16" ; Times: 1
+	Query: "Phyllomedusa tetraploidea" ; Times: 1
+	Query: "FNJV 0031527" ; Times: 2
+	Query: "bromelicola" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1308 download events in this period)
+Total number of records downloaded: 701
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 19
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 14
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-18 ; Times: 3
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-15 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "order:primates country:&#34;brazil&#34;" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "genus:Chiasmocleis" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "Tangara" ; Times: 2
+	Query: "Puma concolor" ; Times: 3
+	Query: "Tapera naevia" ; Times: 1
+	Query: "genus:Odontophrynus" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 2
+	Query: "anairetes parulus" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "puma concolor" ; Times: 10
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "heliothryx auritus" ; Times: 3
+	Query: "genus:Allobates specificepithet:amissibilis" ; Times: 1
+	Query: "genus:Pleurodema" ; Times: 2
+	Query: "asio clamator" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Aedes aegypti" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 2
+	Query: "amethystina" ; Times: 1
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "Puma Concolor" ; Times: 1
+
+
+End of report.
