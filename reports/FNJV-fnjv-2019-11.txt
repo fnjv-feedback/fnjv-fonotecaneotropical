@@ -1,0 +1,195 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 213
+Number of records retrieved in searches: 1662
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 87
+	Country: Canada ; Times: 9
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 12
+	Country: United States ; Times: 88
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 6
+	Country: Paraguay ; Times: 2
+	Country: Nicaragua ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 3
+	Date: 2019-11-15 ; Times: 11
+	Date: 2019-11-14 ; Times: 8
+	Date: 2019-11-16 ; Times: 9
+	Date: 2019-11-11 ; Times: 6
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-13 ; Times: 3
+	Date: 2019-11-12 ; Times: 4
+	Date: 2019-11-08 ; Times: 5
+	Date: 2019-11-09 ; Times: 11
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-20 ; Times: 26
+	Date: 2019-11-22 ; Times: 3
+	Date: 2019-11-23 ; Times: 5
+	Date: 2019-11-24 ; Times: 3
+	Date: 2019-11-25 ; Times: 10
+	Date: 2019-11-26 ; Times: 14
+	Date: 2019-11-27 ; Times: 5
+	Date: 2019-11-06 ; Times: 15
+	Date: 2019-11-07 ; Times: 26
+	Date: 2019-11-04 ; Times: 9
+	Date: 2019-11-05 ; Times: 18
+	Date: 2019-11-02 ; Times: 6
+	Date: 2019-11-03 ; Times: 7
+	Date: 2019-11-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Cyanicterus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:berthalutzae" ; Times: 1
+	Query: "penelope pileata year &gt; 1985" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:sanborni" ; Times: 1
+	Query: "Augastes lumachella" ; Times: 8
+	Query: "vntype:specimen specificepithet:ornata genus:thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mantelidae" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:episcopus class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:cyanoptera genus:thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:preciosa genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Trogon aurantius" ; Times: 5
+	Query: "panthera onca" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanoptera genus:Thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "trogon aurantius" ; Times: 17
+	Query: "Pteronura brasiliensis mappable:1" ; Times: 5
+	Query: "specificepithet:sibilatrix genus:Syrigma" ; Times: 1
+	Query: "specificepithet:ritae genus:Vitreorana" ; Times: 2
+	Query: "vntype:specimen specificepithet:ornata genus:Thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Rheidae" ; Times: 1
+	Query: "genus:Brachycephalus specificepithet:pitanga" ; Times: 1
+	Query: "Anodorhynchus leari" ; Times: 3
+	Query: "Synallaxis infuscata" ; Times: 1
+	Query: "Coccyzus americanus 1997" ; Times: 4
+	Query: "gbifdatasetid:ca2e422f-be48-42a5-bca5-a37cada435c8" ; Times: 1
+	Query: "entre rios bahia" ; Times: 1
+	Query: "Psilorhamphus guttatus" ; Times: 2
+	Query: "rhinella jimi" ; Times: 2
+	Query: "Ischnocnema juipoca" ; Times: 15
+	Query: "vntype:specimen specificepithet:preciosa genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Coccyzus americanus 1984" ; Times: 4
+	Query: "genus:Scinax specificepithet:perpusillus" ; Times: 2
+	Query: "specificepithet:dohrnii genus:glaucis" ; Times: 3
+	Query: "vntype:specimen specificepithet:cyanicollis genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Adelphobates castaneoticus" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "Nectomys squamipes" ; Times: 1
+	Query: "Mycteria americana 1980" ; Times: 4
+	Query: "Sciurus aestuans" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigrocincta genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aplastodiscus cavicola" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:iheringii" ; Times: 1
+	Query: "specificepithet:carbonarius class:reptilia" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:boiei" ; Times: 5
+	Query: "Dendropsophus berthalutzae" ; Times: 1
+	Query: "specificepithet:decumanus genus:psarocolius country:&#34;Venezuela&#34;" ; Times: 6
+	Query: "Hypsiboas faber" ; Times: 1
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "genus:Hylodes specificepithet:meridionalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:palmarum genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Acre&#34;" ; Times: 3
+	Query: "cercomacra melanaria" ; Times: 3
+	Query: "vntype:specimen specificepithet:sayaca class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "xenopsaris albinucha" ; Times: 1
+	Query: "Gorilla beringei" ; Times: 1
+	Query: "Coccyzus americanus 2017" ; Times: 12
+	Query: "Ischnocnema henselii" ; Times: 2
+	Query: "specificepithet:megapodius genus:pteroptochos" ; Times: 6
+	Query: "Leptodactylus macrosternum" ; Times: 1
+	Query: "vntype:specimen family:Formicidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:loricata class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:vinacea genus:Amazona country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanoptera genus:tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cayana genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Eleoscytalopus indigoticus" ; Times: 2
+	Query: "specificepithet:cyanoptera genus:Thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Nemosia class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Mycteria americana 2017" ; Times: 4
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "hypsiboas rufitelus" ; Times: 2
+	Query: "Ameerega flavopicta" ; Times: 1
+	Query: "stateprovince:&#34;Goiás&#34; country:&#34;Brazil&#34; institutioncode:FNJV" ; Times: 3
+	Query: "Nyctidromus hirundinaceus" ; Times: 1
+	Query: "vntype:specimen genus:compsothraupis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Kannabateomys amblyonyx" ; Times: 1
+	Query: "specificepithet:Devillei genus:Pyrrhura" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "genus:sericossypha class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phasmahyla cochranae" ; Times: 1
+	Query: "Pithecopus ayeaye" ; Times: 1
+	Query: "esplanada bahia" ; Times: 2
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1367 download events in this period)
+Total number of records downloaded: 201
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 9
+	Country: Colombia ; Times: 5
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-06 ; Times: 3
+	Date: 2019-11-07 ; Times: 2
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-02 ; Times: 5
+	Date: 2019-11-10 ; Times: 4
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Cathartiformes" ; Times: 2
+	Query: "camptostoma obsoletum" ; Times: 1
+	Query: "LEPTODACTYLUS MYSTACEUS" ; Times: 1
+	Query: "entre rios bahia" ; Times: 1
+	Query: "Lepidóptera" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scytalopus magellanicus" ; Times: 1
+	Query: "specificepithet:carbonarius class:reptilia" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "TAYASSU PECARI" ; Times: 2
+	Query: "Tachyphonus phoenicius" ; Times: 1
+	Query: "Hypsiboas crepitans" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 1
+	Query: "cercomacra melanaria" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "specificepithet:sibilatrix genus:Syrigma" ; Times: 1
+	Query: "specificepithet:phasianellus family:Cuculidae" ; Times: 2
+	Query: "rhinella jimi" ; Times: 1
+	Query: "xenopsaris albinucha" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "specificepithet:ritae genus:Vitreorana" ; Times: 1
+
+
+End of report.
