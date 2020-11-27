@@ -1,0 +1,318 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 662
+Number of records retrieved in searches: 5911
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 43
+	Country: Canada ; Times: 4
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 560
+	Country: Austria ; Times: 1
+	Country: Switzerland ; Times: 13
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 22
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-06 ; Times: 5
+	Date: 2020-04-07 ; Times: 234
+	Date: 2020-04-22 ; Times: 11
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-20 ; Times: 8
+	Date: 2020-04-21 ; Times: 215
+	Date: 2020-04-01 ; Times: 16
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-03 ; Times: 91
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 3
+	Date: 2020-04-08 ; Times: 26
+	Date: 2020-04-09 ; Times: 4
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-19 ; Times: 2
+	Date: 2020-04-18 ; Times: 14
+	Date: 2020-04-13 ; Times: 3
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 4
+	Date: 2020-04-16 ; Times: 5
+	Date: 2020-04-14 ; Times: 12
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cercopithecus cephus" ; Times: 4
+	Query: "Bubulcus ibis" ; Times: 11
+	Query: "genus:antilophia" ; Times: 1
+	Query: "nyctibius griseus" ; Times: 6
+	Query: "Callithrix penicillata" ; Times: 2
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "Phaetusa simplex" ; Times: 2
+	Query: "Pimelodus maculatus" ; Times: 6
+	Query: "Rhinella icterica" ; Times: 3
+	Query: "Rupornis magnirostris" ; Times: 4
+	Query: "Turdus rufiventris" ; Times: 15
+	Query: "vntype:specimen genus:Milvago class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ortalis canicollis" ; Times: 3
+	Query: "Mandrillus sphinx" ; Times: 4
+	Query: "vntype:specimen genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Rhinella arenarum" ; Times: 3
+	Query: "genus:Ameerega specificepithet:flavopicta" ; Times: 1
+	Query: "Gymnomystax mexicanus" ; Times: 2
+	Query: "Geotrygon violacea" ; Times: 3
+	Query: "Piranga bidentata" ; Times: 8
+	Query: "Rhinella dorbignyi" ; Times: 4
+	Query: "Amazilia fimbriata" ; Times: 3
+	Query: "family:Centrolenidae stateprovince:&#34;Amazonas&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Serinus canaria" ; Times: 3
+	Query: "Rhinella schneideri" ; Times: 3
+	Query: "specificepithet:sanctaemariae genus:Cymbilaimus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "Buteo brachyurus" ; Times: 4
+	Query: "genus:Ameerega specificepithet:berohoka" ; Times: 1
+	Query: "Pithecopus hypochondrialis" ; Times: 1
+	Query: "Gymnotus carapo" ; Times: 8
+	Query: "Allochrocebus preussi" ; Times: 4
+	Query: "Sciurus aestuans" ; Times: 3
+	Query: "Alouatta caraya" ; Times: 3
+	Query: "Pteroglossus beauharnaesii" ; Times: 2
+	Query: "Cygnus melancoryphus" ; Times: 3
+	Query: "Progne chalybea" ; Times: 7
+	Query: "Larus dominicanus" ; Times: 6
+	Query: "Ardea alba" ; Times: 9
+	Query: "Nothocrax urumutum" ; Times: 3
+	Query: "Sternula albifrons" ; Times: 1
+	Query: "Rhinella ornata" ; Times: 10
+	Query: "Sapajus apella" ; Times: 11
+	Query: "Amazonetta brasiliensis" ; Times: 6
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "Gallinago paraguaiae" ; Times: 6
+	Query: "Crax blumenbachii" ; Times: 3
+	Query: "Allenopithecus nigroviridis" ; Times: 4
+	Query: "Callithrix geoffroyi" ; Times: 7
+	Query: "class:Aves stateprovince:Rio Grande do Sul year&gt;=2000" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "specificepithet:turdina genus:Schiffornis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Poospiza thoracica" ; Times: 3
+	Query: "Xanthopsar flavus" ; Times: 3
+	Query: "class:Aves stateprovince:Rio Grande" ; Times: 6
+	Query: "Coragyps atratus" ; Times: 2
+	Query: "class:Aves stateprovince:Rio Grande do Sul" ; Times: 2
+	Query: "Zenaida auriculata" ; Times: 3
+	Query: "Gallinago undulata" ; Times: 2
+	Query: "Poospiza lateralis" ; Times: 3
+	Query: "Inia geoffrensis" ; Times: 9
+	Query: "Cercopithecus nictitans" ; Times: 4
+	Query: "Buteogallus aequinoctialis" ; Times: 4
+	Query: "Ateles belzebuth" ; Times: 2
+	Query: "pseudoscops grammicus" ; Times: 4
+	Query: "Ameerega picta" ; Times: 3
+	Query: "Rhinella granulosa" ; Times: 7
+	Query: "Crax rubra" ; Times: 3
+	Query: "Geotrygon montana" ; Times: 3
+	Query: "Cairina moschata" ; Times: 8
+	Query: "Mirounga angustirostris AND Mexico AND Guadalupe NOT 1928 NOT Dickey" ; Times: 1
+	Query: "maracana" ; Times: 1
+	Query: "Lutra lutra" ; Times: 9
+	Query: "Chrysomus ruficapillus" ; Times: 2
+	Query: "Butorides striata" ; Times: 9
+	Query: "Speculanas specularis" ; Times: 6
+	Query: "Busarellus nigricollis" ; Times: 4
+	Query: "Polystictus pectoralis" ; Times: 2
+	Query: "Mirounga angustirostris AND Mexico NOT 1913 NOT 1911 NOT 1847" ; Times: 1
+	Query: "Rhinella pygmaea" ; Times: 3
+	Query: "Physalaemus spiniger" ; Times: 3
+	Query: "vntype:specimen genus:tersina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 7
+	Query: "Athene cunicularia grallaria" ; Times: 1
+	Query: "Phalacrocorax magellanicus" ; Times: 4
+	Query: "Sturnella militaris" ; Times: 2
+	Query: "specificepithet:xanthogaster genus:euphonia country:&#34;brazil&#34;" ; Times: 1
+	Query: "Rhea americana" ; Times: 3
+	Query: "Crax daubentoni" ; Times: 7
+	Query: "Mirounga angustirostris AND Mexico AND Guadalupe NOT Townsend NOT Dickey" ; Times: 1
+	Query: "Mirounga angustirostris AND Mexico AND Guadalupe" ; Times: 2
+	Query: "Tachycineta albiventer" ; Times: 7
+	Query: "Tyrannus melancholichus" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 7
+	Query: "Rhinella ocellata" ; Times: 3
+	Query: "Ortalis guttata" ; Times: 3
+	Query: "Electrophorus electricus" ; Times: 8
+	Query: "Callonetta leucophrys" ; Times: 5
+	Query: "Tachycineta leucopyga" ; Times: 7
+	Query: "Mirounga angustirostris AND Mexico AND Guadalupe NOT Dickey" ; Times: 1
+	Query: "specificepithet:turdina genus:Schiffornis stateprovince:&#34;Bahia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:elianeae" ; Times: 1
+	Query: "Ameerega braccata" ; Times: 3
+	Query: "Rhinella crucifer" ; Times: 3
+	Query: "genus:Rhinella specificepithet:jimi" ; Times: 2
+	Query: "Poospiza cabanisi" ; Times: 3
+	Query: "41044" ; Times: 2
+	Query: "specificepithet:bicolor genus:conirostrum" ; Times: 1
+	Query: "Saltator similis" ; Times: 5
+	Query: "proceratophrys" ; Times: 1
+	Query: "Saguinus midas" ; Times: 2
+	Query: "Alouatta seniculus" ; Times: 6
+	Query: "Gnorimopsar chopi" ; Times: 3
+	Query: "Spheniscus humboldti" ; Times: 4
+	Query: "Agelaioides badius" ; Times: 2
+	Query: "vntype:specimen class:Actinopterygii institutioncode:FNJV basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Apteronotus albifrons" ; Times: 8
+	Query: "Mirounga angustirostris AND Mexico AND Guadalupe NOT 1847 NOT Townsend NOT Dickey" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "Alouatta guariba" ; Times: 2
+	Query: "Eleutherodactylus auriculatus" ; Times: 1
+	Query: "Cercopithecus pogonias" ; Times: 4
+	Query: "Buteo nitidus" ; Times: 4
+	Query: "Sapajus nigritus" ; Times: 11
+	Query: "ramphocinclus" ; Times: 1
+	Query: "Rhinella rubescens" ; Times: 3
+	Query: "Rhinella fernandezae" ; Times: 7
+	Query: "(ameerega picta)" ; Times: 1
+	Query: "vntype:specimen specificepithet:caeruleus genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Tyto glaucops" ; Times: 2
+	Query: "Herpailurus yagouaroundi" ; Times: 13
+	Query: "Vanellus chilensis" ; Times: 6
+	Query: "Leucopternis kuhli" ; Times: 7
+	Query: "Orcinus orca" ; Times: 6
+	Query: "vntype:specimen specificepithet:cyaneus genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Osteocephalus taurinus" ; Times: 7
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "year &gt;= 1990 year &lt;= 2020 laterallus" ; Times: 1
+	Query: "26884" ; Times: 2
+	Query: "Pseudoleistes virescens" ; Times: 3
+	Query: "Brachyteles arachnoides" ; Times: 3
+	Query: "Amazilia versicolor" ; Times: 3
+	Query: "Rhinella major" ; Times: 4
+	Query: "Tor tor" ; Times: 9
+	Query: "Lophocebus albigena" ; Times: 4
+	Query: "genus:Allophryne specificepithet:ruthveni" ; Times: 1
+	Query: "vntype:specimen genus:Busarellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 4
+	Query: "class:Aves country:Brazil year&gt;=2015" ; Times: 1
+	Query: "Manis temminckii" ; Times: 4
+	Query: "Mirounga angustirostris AND Mexico" ; Times: 1
+	Query: "genus:Artibeus specificepithet:lituratus year&gt;2000" ; Times: 1
+	Query: "vntype:specimen genus:Mesembrinibis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Hydropsalis cayennensis" ; Times: 1
+	Query: "genus:Anodorhynchus" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 4
+	Query: "Euphonia finschi" ; Times: 1
+	Query: "vntype:specimen genus:Tersina class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Lithodytes lineatus" ; Times: 4
+	Query: "Eleutherodactylus iberia" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:distincta" ; Times: 1
+	Query: "Ameerega hahneli" ; Times: 3
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "Turdus nigriceps" ; Times: 9
+	Query: "Lithobates palmipes" ; Times: 8
+	Query: "Steatornis caripensis" ; Times: 5
+	Query: "Pithecopus ayeaye" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 3
+	Query: "Chlorophanes spiza" ; Times: 8
+	Query: "Tayassu pecari" ; Times: 8
+	Query: "Hydrochoerus hydrochaeris" ; Times: 8
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "Geranospiza caerulescens" ; Times: 9
+	Query: "Cercopithecus wolfi" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1171 download events in this period)
+Total number of records downloaded: 380
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 24
+	Country: Austria ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 7
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 5
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-22 ; Times: 8
+	Date: 2020-04-20 ; Times: 3
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-01 ; Times: 2
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-28 ; Times: 3
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-27 ; Times: 2
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-18 ; Times: 5
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tyto glaucops" ; Times: 2
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "ameerega" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Campylorhynchus griseus" ; Times: 1
+	Query: "lurocalis" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "lutra lutra" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "Galbula leucogastra" ; Times: 1
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "Campylorhynchus griseus griseus" ; Times: 1
+	Query: "Gallinago undulata" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "vntype:specimen family:Echimyidae" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Tangara cayana" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "Tyrannus melancholicus mexico" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "nyctibius griseus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Euphonia finschi" ; Times: 1
+	Query: "Diasporus" ; Times: 1
+	Query: "specificepithet:brunniceps genus:Myioborus" ; Times: 1
+	Query: "Polystictus pectoralis" ; Times: 1
+	Query: "(ameerega picta)" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "Hydropsalis cayennensis" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Cnemotriccus fuscatus" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "Athene cunicularia grallaria" ; Times: 1
+	Query: "genus:artibeus specificepithet:lituratus" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "Gallinago paraguaiae" ; Times: 1
+
+
+End of report.
