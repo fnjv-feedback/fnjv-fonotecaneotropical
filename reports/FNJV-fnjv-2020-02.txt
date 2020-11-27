@@ -1,0 +1,200 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 121
+Number of records retrieved in searches: 827
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 82
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 22
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 6
+	Date: 2020-02-02 ; Times: 2
+	Date: 2020-02-03 ; Times: 5
+	Date: 2020-02-26 ; Times: 12
+	Date: 2020-02-01 ; Times: 1
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-21 ; Times: 6
+	Date: 2020-02-22 ; Times: 3
+	Date: 2020-02-23 ; Times: 5
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-28 ; Times: 6
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-10 ; Times: 6
+	Date: 2020-02-13 ; Times: 9
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 7
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 9
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-27 ; Times: 15
+	Date: 2020-02-20 ; Times: 7
+	Date: 2020-02-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Aplastodiscus specificepithet:albofrenatus" ; Times: 1
+	Query: "Tyto glaucops" ; Times: 1
+	Query: "neopelma pallescens mato grosso" ; Times: 2
+	Query: "leptodon vntype:specimen country:&#34;brazil&#34; year &lt;= 2020" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "cacicus chrysopterus" ; Times: 1
+	Query: "Aratinga guarouba" ; Times: 1
+	Query: "vntype:specimen specificepithet:cucullatus genus:Coryphospingus class:Aves country:&#34;Brazil&#34;" ; Times: 5
+	Query: "genus:Leptodactylus specificepithet:syphax" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:FNJV" ; Times: 1
+	Query: "vntype:specimen genus:trichothraupis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Proceratophrys specificepithet:palustris" ; Times: 1
+	Query: "genus:Lanio class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Pseudis specificepithet:bolbodactyla" ; Times: 1
+	Query: "genus:Vitreorana specificepithet:ritae" ; Times: 1
+	Query: "vntype:specimen specificepithet:manu genus:Cercomacra" ; Times: 1
+	Query: "Sapajus apella mappable:1" ; Times: 2
+	Query: "PLEURODEMA KRIEGI" ; Times: 1
+	Query: "Leptasthenura aegithaloides year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "vntype:specimen specificepithet:pileatus genus:Lanio class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Cycloramphus specificepithet:brasiliensis" ; Times: 1
+	Query: "genus:Aplastodiscus specificepithet:perviridis" ; Times: 1
+	Query: "genus:Allobates specificepithet:olfersioides" ; Times: 1
+	Query: "specificepithet:jahni" ; Times: 1
+	Query: "vntype:specimen genus:Volatinia class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Scinax specificepithet:fuscovarius" ; Times: 1
+	Query: "trogon viridis brazil" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Carajas stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "institutioncode:FNJV" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "sicalis citrina" ; Times: 2
+	Query: "&#34;Cyanopsitta spixii&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Trichothraupis class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "ramphocinclus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cucullatus genus:Lanio class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:surinamus genus:Tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 5
+	Query: "vntype:specimen specificepithet:melanops genus:lanio class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Mammalia locality:Sao Paulo stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Pseudopaludicola specificepithet:boliviana" ; Times: 1
+	Query: "Penelope pileata" ; Times: 2
+	Query: "Ameerega trivittata" ; Times: 3
+	Query: "genus:Aplastodiscus specificepithet:arildae" ; Times: 2
+	Query: "class:aves locality:Tres marias country:&#34;brazil&#34;" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:spiniger" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:cristiceps" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Formicidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:versicolor genus:Lanio class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Symphalangus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cristatus genus:lanio class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:FNJV" ; Times: 2
+	Query: "genus:Chiasmocleis specificepithet:albopunctata" ; Times: 1
+	Query: "sotalia" ; Times: 1
+	Query: "Pithecopus hypochondrialis" ; Times: 2
+	Query: "vntype:specimen genus:Lanio class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Rhinella specificepithet:ornata" ; Times: 1
+	Query: "vntype:specimen genus:Eucometis class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Allophryne ruthveni" ; Times: 2
+	Query: "vntype:specimen specificepithet:pileatus genus:Coryphospingus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Hylocharis sapphirina" ; Times: 1
+	Query: "vntype:specimen genus:lanio class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Bradypus torquatus" ; Times: 2
+	Query: "genus:neomorphus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cristatus genus:tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "anthus nattereri" ; Times: 1
+	Query: "Avocettula recurvirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:luctuosus genus:Tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:LANIO class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Adelphobates castaneoticus" ; Times: 2
+	Query: "Physalaemus erikae" ; Times: 1
+	Query: "jahni" ; Times: 1
+	Query: "genus:Scarthyla specificepithet:vigilans" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvus genus:lanio class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Rhinella ornata" ; Times: 3
+	Query: "vntype:specimen specificepithet:versicolor class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "vntype:specimen genus:eucometis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "locality:Cerro Toledo " ; Times: 1
+	Query: "trogon brazil" ; Times: 2
+	Query: "formicidae" ; Times: 1
+	Query: "erikae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1023 download events in this period)
+Total number of records downloaded: 25469
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Netherlands ; Times: 5
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 8
+	Country: Guyana ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-27 ; Times: 5
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-07 ; Times: 2
+	Date: 2020-02-22 ; Times: 5
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-19 ; Times: 6
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eira barbara" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "anthus furcatus" ; Times: 1
+	Query: "class:aves locality:Tres marias country:&#34;brazil&#34;" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "PLEURODEMA KRIEGI" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Xingu country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas gerais&#34;" ; Times: 1
+	Query: "centrolenidae" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "Symphalangus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34; OR &#34;Brasil&#34;" ; Times: 1
+	Query: "Physalaemus erikae" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "anthus nattereri" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;minas gerais&#34;" ; Times: 1
+
+
+End of report.
