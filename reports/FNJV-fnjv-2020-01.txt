@@ -1,0 +1,402 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 344
+Number of records retrieved in searches: 2518
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 44
+	Country: United States ; Times: 254
+	Country: Unknown ; Times: 3
+	Country: Poland ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 26
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-03 ; Times: 2
+	Date: 2020-01-02 ; Times: 4
+	Date: 2020-01-01 ; Times: 7
+	Date: 2020-01-06 ; Times: 5
+	Date: 2020-01-05 ; Times: 6
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 6
+	Date: 2020-01-23 ; Times: 222
+	Date: 2020-01-22 ; Times: 5
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-29 ; Times: 6
+	Date: 2020-01-28 ; Times: 8
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-14 ; Times: 17
+	Date: 2020-01-15 ; Times: 3
+	Date: 2020-01-16 ; Times: 7
+	Date: 2020-01-17 ; Times: 5
+	Date: 2020-01-10 ; Times: 8
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-12 ; Times: 3
+	Date: 2020-01-13 ; Times: 17
+	Date: 2020-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:spanios genus:Ischnocnema" ; Times: 1
+	Query: "specificepithet:pustulosus genus:Engystomops" ; Times: 1
+	Query: "Donacobius vntype:specimen" ; Times: 1
+	Query: "Dendropsophus leucophyllatus" ; Times: 1
+	Query: "specificepithet:sauvagii genus:Phyllomedusa" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruficapilla genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:andreae genus:Adenomera" ; Times: 1
+	Query: "Psittacara leucophthalmus" ; Times: 7
+	Query: "specificepithet:lineatus genus:Lithodytes" ; Times: 1
+	Query: "specificepithet:labyrinthicus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:severa family:Psittacidae country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:Flectonotus" ; Times: 1
+	Query: "genus:Pseudis specificepithet:bolbodactyla" ; Times: 1
+	Query: "specificepithet:iberia genus:Eleutherodactylus" ; Times: 1
+	Query: "Oryzoborus crassirostris vntype:specimen" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Gephyromantis" ; Times: 1
+	Query: "specificepithet:stepheni genus:Anomaloglossus" ; Times: 1
+	Query: "vntype:specimen genus:Chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "specificepithet:ruthveni genus:Allophryne" ; Times: 1
+	Query: "specificepithet:luteolus genus:Phyllodytes" ; Times: 1
+	Query: "specificepithet:diastema genus:Diasporus" ; Times: 1
+	Query: "Sporophila maximiliani vntype:specimen" ; Times: 1
+	Query: "specificepithet:albosignatus genus:Aplastodiscus" ; Times: 1
+	Query: "specificepithet:rubicundulus genus:Dendropsophus" ; Times: 1
+	Query: "vntype:specimen specificepithet:decumanus genus:psarocolius country:&#34;trinidad&#34;" ; Times: 1
+	Query: "specificepithet:sawayae genus:Scythrophrys" ; Times: 1
+	Query: "specificepithet:boraceiensis genus:Cycloramphus" ; Times: 1
+	Query: "Dendropsophus microps" ; Times: 1
+	Query: "specificepithet:pulcher genus:Atelopus" ; Times: 1
+	Query: "specificepithet:microderma genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:cochranae genus:Phasmahyla" ; Times: 1
+	Query: "genus:Ameerega specificepithet:flavopicta" ; Times: 1
+	Query: "specificepithet:parva genus:Ischnocnema" ; Times: 1
+	Query: "specificepithet:ebraccatus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:americanus genus:Odontophrynus" ; Times: 1
+	Query: "specificepithet:caramaschii genus:Crossodactylus" ; Times: 1
+	Query: "specificepithet:langsdorffii genus:Itapotihyla" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 3
+	Query: "specificepithet:boliviana genus:Hamptophryne" ; Times: 1
+	Query: "specificepithet:trinitatis genus:Mannophryne" ; Times: 1
+	Query: "specificepithet:tucumanum genus:Pleurodema" ; Times: 1
+	Query: "genus:Inia" ; Times: 2
+	Query: "specificepithet:stelzneri genus:Melanophryniscus" ; Times: 1
+	Query: "specificepithet:cardosoi genus:Pseudis" ; Times: 1
+	Query: "specificepithet:leali genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Physalaemus" ; Times: 1
+	Query: "specificepithet:cinerascens genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus" ; Times: 1
+	Query: "specificepithet:severus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 11
+	Query: "specificepithet:parviceps genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:ockendeni genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:cruentommus genus:Scinax" ; Times: 1
+	Query: "specificepithet:tritaeniatus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:melanargyreus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:geographicus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:boans genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:burmeisteri genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:parvulus genus:Zachaenus" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius country:&#34;venezuela&#34;" ; Times: 1
+	Query: "touit" ; Times: 2
+	Query: "Cichlocolaptes leucophrus" ; Times: 2
+	Query: "specificepithet:bicolor genus:Elachistocleis" ; Times: 1
+	Query: "specificepithet:riveroi genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:fissipes genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:faber genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:eiselti genus:Gephyromantis" ; Times: 1
+	Query: "specificepithet:barrioi genus:Physalaemus" ; Times: 1
+	Query: "specificepithet:leucophyllatus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:flotator genus:Silverstoneia" ; Times: 1
+	Query: "specificepithet:paradoxa genus:Pseudis" ; Times: 1
+	Query: "specificepithet:cuvieri genus:Physalaemus" ; Times: 1
+	Query: "specificepithet:phyllodes genus:Hylodes" ; Times: 1
+	Query: "specificepithet:lascinius genus:Hyloscirtus" ; Times: 1
+	Query: "specificepithet:dorisae genus:Sphaenorhynchus" ; Times: 1
+	Query: "Pteronura brasiliensis mappable:1" ; Times: 2
+	Query: "specificepithet:giesleri genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:crepitans genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:punctatus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:fuscus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:garbei genus:Scinax" ; Times: 1
+	Query: "specificepithet:coronata genus:Rhombophryne" ; Times: 1
+	Query: "specificepithet:diplolister genus:Pleurodema" ; Times: 1
+	Query: "specificepithet:hahneli genus:Ameerega" ; Times: 1
+	Query: "specificepithet:flavescens genus:Atelopus" ; Times: 1
+	Query: "specificepithet:mesophaeus genus:Trachycephalus" ; Times: 1
+	Query: "specificepithet:albofrenatus genus:Aplastodiscus" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:severa genus:Ara country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:juipoca genus:Ischnocnema" ; Times: 1
+	Query: "specificepithet:plaumanni genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:fenestratus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:albopunctatus genus:Hypsiboas" ; Times: 1
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "specificepithet:ternetzi genus:Barycholos" ; Times: 1
+	Query: "specificepithet:cristiceps genus:Proceratophrys" ; Times: 1
+	Query: "specificepithet:falcipes genus:Pseudopaludicola" ; Times: 1
+	Query: "specificepithet:calcaratus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:thelenae genus:Gephyromantis" ; Times: 1
+	Query: "Callithrix penicillata mappable:1" ; Times: 4
+	Query: "Cananéia" ; Times: 3
+	Query: "vntype:specimen genus:chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:brachyops genus:Pleurodema" ; Times: 1
+	Query: "Trachycephalus resinifictrix" ; Times: 2
+	Query: "specificepithet:bombina genus:Bombina" ; Times: 1
+	Query: "specificepithet:cochranae genus:Aplastodiscus" ; Times: 1
+	Query: "specificepithet:distincta genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:gracilis genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:stenodema genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:borellii genus:Pleurodema" ; Times: 1
+	Query: "specificepithet:guentheri genus:Ischnocnema" ; Times: 1
+	Query: "specificepithet:braccata genus:Ameerega" ; Times: 1
+	Query: "genus:Adenomera specificepithet:martinezi" ; Times: 1
+	Query: "specificepithet:riojanus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:sanborni genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:berthalutzae genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:hudsoni genus:Chiasmocleis" ; Times: 1
+	Query: "specificepithet:crospedospilus genus:Scinax" ; Times: 1
+	Query: "specificepithet:bassleri genus:Chiasmocleis" ; Times: 1
+	Query: "specificepithet:vastus genus:Leptodactylus" ; Times: 1
+	Query: "Ara tricolor" ; Times: 1
+	Query: "specificepithet:perviridis genus:Aplastodiscus" ; Times: 1
+	Query: "specificepithet:bolivianus genus:Leptodactylus" ; Times: 1
+	Query: "culicidae" ; Times: 1
+	Query: "specificepithet:anceps genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:circumdata genus:Bokermannohyla" ; Times: 1
+	Query: "VACARIA" ; Times: 1
+	Query: "specificepithet:polytaenius genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:shudikarensis genus:Chiasmocleis" ; Times: 1
+	Query: "specificepithet:terraebolivaris genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:brevifrons genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:sarayacuensis genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:pulchellus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:bigibbosa genus:Proceratophrys" ; Times: 2
+	Query: "specificepithet:picta genus:Ameerega" ; Times: 1
+	Query: "specificepithet:mystacinus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:branneri genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:cultripes genus:Odontophrynus" ; Times: 1
+	Query: "specificepithet:tarsius genus:Phyllomedusa" ; Times: 1
+	Query: "Sapajus nigritus mappable:1" ; Times: 2
+	Query: "specificepithet:decaryi genus:Gephyromantis" ; Times: 1
+	Query: "specificepithet:gracilis genus:Physalaemus" ; Times: 1
+	Query: "specificepithet:nigromaculatus genus:Trachycephalus" ; Times: 1
+	Query: "specificepithet:tridactyla genus:Stumpffia" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:evangelistai" ; Times: 1
+	Query: "specificepithet:quixensis genus:Oreobates" ; Times: 1
+	Query: "specificepithet:ephippifer genus:Physalaemus" ; Times: 1
+	Query: "specificepithet:minuta genus:Pseudis" ; Times: 1
+	Query: "megascops atricapilla" ; Times: 8
+	Query: "Sapajus apella mappable:1" ; Times: 2
+	Query: "specificepithet:tetraploidea genus:Phyllomedusa" ; Times: 1
+	Query: "Pleurodema diplolister" ; Times: 2
+	Query: "specificepithet:rubriventris genus:Melanophryniscus" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Hylodes" ; Times: 1
+	Query: "specificepithet:riograndensis genus:Physalaemus" ; Times: 1
+	Query: "Lycalopex vetulus" ; Times: 1
+	Query: "specificepithet:peruvianus genus:Pristimantis" ; Times: 1
+	Query: "genus:Rhinella specificepithet:ornata" ; Times: 1
+	Query: "specificepithet:rhodopeplus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:mystaceus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:greeningi genus:Corythomantis" ; Times: 1
+	Query: "specificepithet:pardalis genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:femoralis genus:Allobates" ; Times: 1
+	Query: "specificepithet:rhodomystax genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:ephippium genus:Brachycephalus" ; Times: 1
+	Query: "specificepithet:leucophrus genus:Cichlocolaptes" ; Times: 1
+	Query: "specificepithet:pentadactylus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:trivittata genus:Ameerega" ; Times: 1
+	Query: "specificepithet:rufitelus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:eleutherodactylus genus:Cycloramphus" ; Times: 1
+	Query: "specificepithet:latistriatus genus:Hypsiboas" ; Times: 1
+	Query: "genus:Scinax specificepithet:eurydice" ; Times: 1
+	Query: "specificepithet:venulosus genus:Trachycephalus" ; Times: 1
+	Query: "Aedes aegypti" ; Times: 1
+	Query: "specificepithet:elenae genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:cavicola genus:Aplastodiscus" ; Times: 1
+	Query: "specificepithet:nasuta genus:Ischnocnema" ; Times: 1
+	Query: "specificepithet:ornata genus:Ceratophrys" ; Times: 1
+	Query: "specificepithet:minutus genus:Dendropsophus" ; Times: 1
+	Query: "vntype:specimen specificepithet:flavicollis genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "haematopus leucopodus" ; Times: 1
+	Query: "specificepithet:guentheri genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:uranoscopa genus:Vitreorana" ; Times: 1
+	Query: "specificepithet:binotatus genus:Haddadus" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius country:&#34;peru&#34;" ; Times: 1
+	Query: "specificepithet:leptolineatus genus:Hypsiboas" ; Times: 2
+	Query: "specificepithet:muelleri genus:Dermatonotus" ; Times: 1
+	Query: "specificepithet:boiei genus:Proceratophrys" ; Times: 1
+	Query: "genus:Chiasmocleis specificepithet:albopunctata" ; Times: 1
+	Query: "specificepithet:macroglossa genus:Limnomedusa" ; Times: 1
+	Query: "specificepithet:bicolor genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:hylax genus:Bokermannohyla" ; Times: 1
+	Query: "specificepithet:microcephalus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:bahiana genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:biligonigerus genus:Physalaemus" ; Times: 1
+	Query: "Donacobius atricapilla year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:marginatus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:multifasciatus genus:Hypsiboas" ; Times: 1
+	Query: "Megascops atricapilla" ; Times: 2
+	Query: "specificepithet:semilineatus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:conspicillatus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:joaquini genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:cinereum genus:Pleurodema" ; Times: 1
+	Query: "specificepithet:walfordi genus:Dendropsophus" ; Times: 1
+	Query: "philydor rufum" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Odontophrynus" ; Times: 1
+	Query: "specificepithet:caingua genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:nebulosus genus:Scinax" ; Times: 1
+	Query: "specificepithet:lundii genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:notoaktites genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:bipunctatus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:nasicus genus:Scinax" ; Times: 1
+	Query: "specificepithet:resinifictrix genus:Trachycephalus" ; Times: 1
+	Query: "Baryphthengus martii" ; Times: 2
+	Query: "specificepithet:leucopygius genus:Aplastodiscus" ; Times: 1
+	Query: "specificepithet:arildae genus:Aplastodiscus" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:xapuriensis" ; Times: 1
+	Query: "specificepithet:bufonius genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:eurygnatha genus:Vitreorana" ; Times: 1
+	Query: "specificepithet:squalirostris genus:Scinax" ; Times: 1
+	Query: "Microcerculus ustulatus" ; Times: 1
+	Query: "specificepithet:schirchi genus:Dasypops" ; Times: 1
+	Query: "specificepithet:minusculus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:podicipinus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:sazimai genus:Hylodes" ; Times: 1
+	Query: "specificepithet:petersi genus:Engystomops" ; Times: 1
+	Query: "specificepithet:kriegi genus:Pleurodema" ; Times: 1
+	Query: "specificepithet:albomarginatus genus:Hypsiboas" ; Times: 1
+	Query: "Dendropsophus sanborni" ; Times: 1
+	Query: "specificepithet:pitanga genus:Brachycephalus" ; Times: 1
+	Query: "specificepithet:mystacalis genus:Pseudopaludicola" ; Times: 1
+	Query: "specificepithet:raniceps genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:centralis genus:Physalaemus" ; Times: 1
+	Query: "specificepithet:boulengeri genus:Gephyromantis" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "specificepithet:signifer genus:Physalaemus" ; Times: 1
+	Query: "specificepithet:astartea genus:Bokermannohyla" ; Times: 1
+	Query: "Cavia aperea mappable:1" ; Times: 4
+	Query: "Donacobius vntype:specimen year &gt;= 2000" ; Times: 1
+	Query: "Elachistocleis surinamensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:bifasciatus genus:psarocolius" ; Times: 2
+	Query: "specificepithet:miliaris genus:Thoropa" ; Times: 1
+	Query: "Herpailurus yagouaroundi mappable:1" ; Times: 3
+	Query: "specificepithet:bolbodactyla genus:Pseudis" ; Times: 1
+	Query: "specificepithet:nanus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:wagneri genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:perpusillus genus:Scinax" ; Times: 1
+	Query: "specificepithet:albopunctata genus:Chiasmocleis" ; Times: 1
+	Query: "specificepithet:bradei genus:Holoaden" ; Times: 1
+	Query: "specificepithet:triangulum genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:cururu genus:Proceratophrys" ; Times: 1
+	Query: "xanthopsar flavus" ; Times: 1
+	Query: "nyctibius 1994" ; Times: 1
+	Query: "specificepithet:schubarti genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:orophilus genus:Sphaenorhynchus" ; Times: 1
+	Query: "specificepithet:seniculus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:iheringii genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:alipioi genus:Macrogenioglottus" ; Times: 1
+	Query: "Donacobius atricapilla vntype:specimen year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Proceratophrys cristiceps" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:elianeae" ; Times: 1
+	Query: "specificepithet:fuscovarius genus:Scinax" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "specificepithet:brevipollicatus genus:Dendrophryniscus" ; Times: 1
+	Query: "vntype:specimen genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:lanciformis genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:enki genus:Gephyromantis" ; Times: 1
+	Query: "specificepithet:lacteus genus:Sphaenorhynchus" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "specificepithet:trinitatis genus:Phyllomedusa" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "specificepithet:brunneus genus:Allobates" ; Times: 1
+	Query: "sclerurus caudacutus" ; Times: 1
+	Query: "vntype:specimen specificepithet:bifasciatus genus:psarocolius country:&#34;brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:guira genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:discodactylus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:elegans genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:rostratus genus:Scinax" ; Times: 1
+	Query: "specificepithet:semiguttatus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:boliviana genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:flavopicta genus:Ameerega" ; Times: 1
+	Query: "specificepithet:antartandica genus:Batrachyla" ; Times: 1
+	Query: "specificepithet:cornuta genus:Ceratophrys" ; Times: 1
+	Query: "specificepithet:bischoffi genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:prasinus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:syphax genus:Leptodactylus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1584 download events in this period)
+Total number of records downloaded: 639
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-20 ; Times: 2
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Dendropsophus leucophyllatus" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "enicognathus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aedes aegypti" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "xanthopsar flavus" ; Times: 1
+	Query: "Lycalopex vetulus" ; Times: 1
+	Query: "cubanensis" ; Times: 2
+	Query: "pionus menstruus" ; Times: 1
+	Query: "Salvator merianae" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Thamnophilus amazonicus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "touit" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "Callithrix jacchus" ; Times: 2
+
+
+End of report.
