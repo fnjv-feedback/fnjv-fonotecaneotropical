@@ -1,0 +1,165 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 81
+Number of records retrieved in searches: 353
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 29
+	Country: United States ; Times: 21
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Cuba ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: Finland ; Times: 1
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 12
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 13
+	Date: 2020-03-31 ; Times: 2
+	Date: 2020-03-18 ; Times: 11
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-12 ; Times: 4
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-27 ; Times: 8
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-25 ; Times: 3
+	Date: 2020-03-24 ; Times: 3
+	Date: 2020-03-09 ; Times: 3
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-04 ; Times: 9
+	Date: 2020-03-07 ; Times: 6
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyanopsitta spixii" ; Times: 1
+	Query: "Sapajus" ; Times: 1
+	Query: "ara chloropterus" ; Times: 1
+	Query: "tyto furcata" ; Times: 4
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "vntype:specimen specificepithet:phoenicius genus:Tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:sylviolus genus:Phylloscartes" ; Times: 1
+	Query: "genus:Scinax specificepithet:fuscovarius" ; Times: 2
+	Query: "heliobletus contaminatus" ; Times: 2
+	Query: "Trachycephalus resinifictrix" ; Times: 1
+	Query: "Trachycephalus nigromaculatus" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "vntype:specimen genus:Charitospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "callithrix jacchus" ; Times: 4
+	Query: "specificepithet:aethereus genus:Nyctibius country:&#34;Peru&#34;" ; Times: 1
+	Query: "Leontopithecus chrysomelas" ; Times: 2
+	Query: "Odontophrynus cultripes" ; Times: 2
+	Query: "aedes" ; Times: 1
+	Query: "genus:Rhinella specificepithet:ornata" ; Times: 1
+	Query: "specificepithet:barrabandi genus:Pionopsitta country:&#34;Peru&#34;" ; Times: 2
+	Query: "ALOUATTA BELZEBUL" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "vntype:specimen specificepithet:bresilius genus:Ramphocelus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Ceratophrys specificepithet:aurita" ; Times: 1
+	Query: "stateprovince:&#34;PA&#34;" ; Times: 1
+	Query: "pulsatrix perspicillata" ; Times: 2
+	Query: "Myiornis auricularis" ; Times: 1
+	Query: "specificepithet:naevia genus:sclateria country:&#34;Peru&#34;" ; Times: 1
+	Query: "Proceratophrys moratoi" ; Times: 1
+	Query: "Hemitriccus minimus" ; Times: 1
+	Query: "specificepithet:sanctaemariae genus:Cymbilaimus country:&#34;Peru&#34;" ; Times: 1
+	Query: "sapphirina" ; Times: 2
+	Query: "0002753" ; Times: 1
+	Query: "Trachycephalus cunauaru" ; Times: 1
+	Query: "genus:Nyctibius country:&#34;Peru&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:Tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:naevia genus:Sclateria country:&#34;Peru&#34;" ; Times: 2
+	Query: "Pteroglossus beauharnaesii" ; Times: 10
+	Query: "penelope pileata" ; Times: 3
+	Query: "CHIROPOTES SATANAS" ; Times: 2
+	Query: "SAPAJUS APELLA" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "Haplospiza rustica" ; Times: 1
+	Query: "Rhinella ornata" ; Times: 1
+	Query: "apis mellifera" ; Times: 1
+	Query: "specificepithet:sapphirina genus:Hylocharis" ; Times: 2
+	Query: "genus:Rhinella specificepithet:jimi" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronatus genus:Tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Sapajus apella" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 853 download events in this period)
+Total number of records downloaded: 347
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Peru ; Times: 1
+	Country: Cuba ; Times: 6
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 5
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 2
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-18 ; Times: 4
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-21 ; Times: 3
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-02 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Icterus gularis" ; Times: 1
+	Query: "Sapajus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Hypsiboas punctatus" ; Times: 1
+	Query: "elanus leucurus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Trachycephalus nigromaculatus" ; Times: 1
+	Query: "ALOUATTA BELZEBUL" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 1
+	Query: "genus:Trachycephalus family:Hylidae" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Rio Grande do Sul&#34;" ; Times: 1
+	Query: "Hemitriccus minimus" ; Times: 1
+	Query: "Trachycephalus resinifictrix" ; Times: 1
+	Query: "Trachycephalus cunauaru" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Sapajus apella" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "ALOUATTA CARAYA" ; Times: 1
+	Query: "penelope pileata" ; Times: 1
+	Query: "CHIROPOTES SATANAS" ; Times: 1
+	Query: "Trachycephalus mesophaeus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Trachycephalus venulosus" ; Times: 1
+	Query: "SAPAJUS APELLA" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+	Query: "Trachycephalus" ; Times: 1
+
+
+End of report.
