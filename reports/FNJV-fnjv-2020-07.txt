@@ -1,0 +1,226 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 1204
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 81
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 1
+	Country: United States ; Times: 27
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: Argentina ; Times: 4
+	Country: Bolivia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-21 ; Times: 9
+	Date: 2020-07-20 ; Times: 10
+	Date: 2020-07-27 ; Times: 6
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-24 ; Times: 3
+	Date: 2020-07-30 ; Times: 11
+	Date: 2020-07-03 ; Times: 5
+	Date: 2020-07-02 ; Times: 23
+	Date: 2020-07-07 ; Times: 3
+	Date: 2020-07-23 ; Times: 7
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-13 ; Times: 8
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-16 ; Times: 7
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-14 ; Times: 20
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-22 ; Times: 8
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "vntype:specimen genus:saltatricula class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Pitylus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "vntype:specimen specificepithet:castaneiventris genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "megaceryle torquata" ; Times: 1
+	Query: "vntype:specimen genus:embernagra class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "myrmeciza loricata" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:aurita" ; Times: 2
+	Query: "vntype:specimen specificepithet:angolensis genus:Oryzoborus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigrorufa genus:Poospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:Psarocolius country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Oryzoborus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:similis genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "thraupis episcopus" ; Times: 3
+	Query: "specificepithet:olivaceus genus:vireo country:&#34;brazil&#34;" ; Times: 1
+	Query: "specificepithet:erythrops genus:neocrex" ; Times: 2
+	Query: "vntype:specimen specificepithet:maximus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:ochraceiventris genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:maximiliani genus:SPOROPHILA class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:aurantiirostris genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "myrmeciza ruficauda" ; Times: 1
+	Query: "vntype:specimen genus:Coryphaspiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:jacucaca order:galliformes" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "vntype:specimen specificepithet:coerulescens genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:melanogaster genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Proceratophrys boiei mappable:1" ; Times: 2
+	Query: "vntype:specimen genus:Thlypopsis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruficollis genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:crassirostris genus:Oryzoborus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Scinax fuscovarius" ; Times: 2
+	Query: "Aromobates orostoma" ; Times: 2
+	Query: "Porto Mendes" ; Times: 2
+	Query: "zabele" ; Times: 1
+	Query: "vntype:specimen specificepithet:minuta genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Leptodactylus labyrinthicus" ; Times: 1
+	Query: "specificepithet:ochrogaster order:galliformes" ; Times: 2
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "Vitreorana uranoscopa mappable:1" ; Times: 2
+	Query: "genus:Physalaemus specificepithet:cuvieri" ; Times: 1
+	Query: "Crypturellus strigulosus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lateralis genus:Poospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 1
+	Query: "vntype:specimen genus:emberizoides class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:cabanisi genus:Poospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pulsatrix koeniswaldiana" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciolata genus:Crax class:aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Laterallus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Megascops sanctaecatarinae" ; Times: 1
+	Query: "Lycalopex vetulus" ; Times: 1
+	Query: "Sporophila maximiliani" ; Times: 1
+	Query: "genus:Rhinella specificepithet:ornata" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "ameerega trivittata" ; Times: 2
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "Dendropsophus brevifrons" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus iberia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:THORACICA genus:Poospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Fritziana specificepithet:fissilis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:FNJV" ; Times: 1
+	Query: "vntype:specimen specificepithet:atricollis genus:saltator class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Megascops atricapilla" ; Times: 5
+	Query: "Cycloramphus ohausi" ; Times: 1
+	Query: "Strix hylophila" ; Times: 5
+	Query: "vntype:specimen specificepithet:grossus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "genus:Dendropsophus specificepithet:oliveirai" ; Times: 1
+	Query: "specificepithet:dabbenei order:galliformes" ; Times: 1
+	Query: "strix hylophila" ; Times: 1
+	Query: "vntype:specimen specificepithet:bifasciatus genus:Psarocolius" ; Times: 1
+	Query: "Chapadão" ; Times: 1
+	Query: "vntype:specimen specificepithet:bifasciatus genus:Psarocolius country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Brazil Palmares" ; Times: 1
+	Query: "hylexetastes" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 2
+	Query: "vntype:specimen genus:saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "genus:machetornis" ; Times: 3
+	Query: "Jaguar" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "genus:Pseudopaludicola specificepithet:pocoto" ; Times: 1
+	Query: "vntype:specimen specificepithet:angolensis genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "scientificname:Panthera onca " ; Times: 2
+	Query: "myrmophylax" ; Times: 1
+	Query: "vntype:specimen specificepithet:fuliginosus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Poospiza class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "molinarii" ; Times: 1
+	Query: "Pithecopus ayeaye" ; Times: 1
+	Query: "Euphonia cyanocephala" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus auriculatus&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 940 download events in this period)
+Total number of records downloaded: 19463
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Australia ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 8
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 14
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-03 ; Times: 5
+	Date: 2020-07-02 ; Times: 6
+	Date: 2020-07-16 ; Times: 5
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-06 ; Times: 6
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "echimys" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "class:Amphibia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Lycalopex vetulus" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 3
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "class:Amphibia &#34;Eleutherodactylus iberia&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "Elachistocleis" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "specificepithet:ochrogaster order:galliformes" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "brazil mammalia bahia" ; Times: 1
+	Query: "specificepithet:dabbenei order:galliformes" ; Times: 1
+	Query: "specificepithet:jacucaca order:galliformes" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus auriculatus&#34;" ; Times: 1
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 1
+
+
+End of report.
