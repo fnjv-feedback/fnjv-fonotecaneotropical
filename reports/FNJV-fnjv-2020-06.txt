@@ -1,0 +1,158 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 792
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 43
+	Country: United States ; Times: 30
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 9
+	Country: United Kingdom ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 6
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 5
+	Date: 2020-06-09 ; Times: 12
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-02 ; Times: 17
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-01 ; Times: 6
+	Date: 2020-06-10 ; Times: 47
+	Date: 2020-06-12 ; Times: 1
+	Date: 2020-06-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:leucoptera genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:blumenbachii order:galliformes" ; Times: 1
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "specificepithet:chilensis genus:Elaenia" ; Times: 1
+	Query: "Thalurania watertonii vntype:specimen" ; Times: 4
+	Query: "specificepithet:pileata genus:Piprites" ; Times: 1
+	Query: "Hydropsalis parvula" ; Times: 1
+	Query: "harpia" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "Allobates marchesianus" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "attila phoenicurus" ; Times: 1
+	Query: "specificepithet:aurifrons genus:Neopelma" ; Times: 1
+	Query: "Cairina moschata" ; Times: 3
+	Query: "specificepithet:minor genus:Myrmotherula" ; Times: 1
+	Query: "specificepithet:furcatus genus:Hemitriccus" ; Times: 1
+	Query: "Sporophila ruficollis" ; Times: 4
+	Query: "genus:Orthogonys specificepithet:chloricterus" ; Times: 2
+	Query: "Glaucis dohrnii" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 4
+	Query: "Biatas nigropectus" ; Times: 1
+	Query: "Myrmotherula minor" ; Times: 1
+	Query: "Hemitriccus furcatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:bouvreuil genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Dendropsophus meridianus" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "Piprites pileata" ; Times: 1
+	Query: "genus:Bokermannohyla specificepithet:circumdata" ; Times: 1
+	Query: "Onychorhynchus swainsoni" ; Times: 1
+	Query: "specificepithet:fusca genus:Florisuga" ; Times: 1
+	Query: "specificepithet:nigropectus genus:Biatas" ; Times: 1
+	Query: "synallaxis infuscata" ; Times: 1
+	Query: "specificepithet:dohrnii genus:Glaucis" ; Times: 1
+	Query: "vntype:specimen specificepithet:albogularis genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "&#34;harpia&#34;" ; Times: 1
+	Query: "specificepithet:swainsoni genus:myiarchus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Chiroxiphia specificepithet:caudata" ; Times: 5
+	Query: "specificepithet:swainsoni genus:Onychorhynchus" ; Times: 1
+	Query: "Argentina talpacoti" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Acre&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:obscura order:galliformes" ; Times: 1
+	Query: "specificepithet:ochrogaster order:galliformes" ; Times: 12
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "Thalurania watertonii" ; Times: 5
+	Query: "MERGUS OCTOSETACEUS" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 2
+	Query: "specificepithet:cruentata genus:Pyrrhura" ; Times: 1
+	Query: "apidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:caerulescens genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "specificepithet:canicollis order:galliformes" ; Times: 1
+	Query: "Neopelma aurifrons" ; Times: 1
+	Query: "Spinus yarrellii" ; Times: 1
+	Query: "specificepithet:dabbenei order:galliformes" ; Times: 1
+	Query: "specificepithet:jacucaca order:galliformes" ; Times: 1
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 2
+	Query: "specificepithet:parvula genus:Hydropsalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 474 download events in this period)
+Total number of records downloaded: 292
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 34
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-10 ; Times: 44
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:blumenbachii order:galliformes" ; Times: 1
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "specificepithet:pileata genus:Piprites" ; Times: 1
+	Query: "Hydropsalis parvula" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "specificepithet:aurifrons genus:Neopelma" ; Times: 1
+	Query: "specificepithet:minor genus:Myrmotherula" ; Times: 1
+	Query: "specificepithet:chilensis genus:Elaenia" ; Times: 1
+	Query: "specificepithet:furcatus genus:Hemitriccus" ; Times: 1
+	Query: "specificepithet:motmot order:galliformes" ; Times: 1
+	Query: "Glaucis dohrnii" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "Biatas nigropectus" ; Times: 1
+	Query: "Myrmotherula minor" ; Times: 1
+	Query: "Hemitriccus furcatus" ; Times: 1
+	Query: "Piprites pileata" ; Times: 1
+	Query: "Onychorhynchus swainsoni" ; Times: 1
+	Query: "specificepithet:fusca genus:Florisuga" ; Times: 1
+	Query: "specificepithet:nigropectus genus:Biatas" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:dohrnii genus:Glaucis" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:canicollis order:galliformes" ; Times: 2
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:parvula genus:Hydropsalis" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Onychorhynchus" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "specificepithet:obscura order:galliformes" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "Tersina viridis" ; Times: 1
+	Query: "specificepithet:jacucaca order:galliformes" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "specificepithet:cruentata genus:Pyrrhura" ; Times: 1
+	Query: "Elaenia chilensis" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "Neopelma aurifrons" ; Times: 1
+	Query: "specificepithet:dabbenei order:galliformes" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 2
+
+
+End of report.
