@@ -1,0 +1,261 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 218
+Number of records retrieved in searches: 2169
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 82
+	Country: United States ; Times: 29
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 16
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Paraguay ; Times: 22
+	Country: Argentina ; Times: 28
+	Country: Venezuela ; Times: 3
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-19 ; Times: 11
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-12 ; Times: 4
+	Date: 2020-10-13 ; Times: 38
+	Date: 2020-10-16 ; Times: 19
+	Date: 2020-10-14 ; Times: 9
+	Date: 2020-10-15 ; Times: 16
+	Date: 2020-10-20 ; Times: 20
+	Date: 2020-10-03 ; Times: 3
+	Date: 2020-10-23 ; Times: 24
+	Date: 2020-10-22 ; Times: 5
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-02 ; Times: 8
+	Date: 2020-10-27 ; Times: 4
+	Date: 2020-10-26 ; Times: 5
+	Date: 2020-10-30 ; Times: 19
+	Date: 2020-10-29 ; Times: 6
+	Date: 2020-10-28 ; Times: 7
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-07 ; Times: 8
+	Date: 2020-10-06 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Proceratophrys boiei" ; Times: 4
+	Query: "genus:Ischnocnema specificepithet:henselii" ; Times: 2
+	Query: "scientificname:Alouatta seniculus" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 1
+	Query: "spinus cucullatus" ; Times: 3
+	Query: "&#34;espirito santo&#34; order:primates" ; Times: 2
+	Query: "vitreorana" ; Times: 9
+	Query: "Inia geoffrensis" ; Times: 16
+	Query: "Augastes lumachella" ; Times: 1
+	Query: "specificepithet:flavifrons genus:Melanerpes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gephyromantis" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris AND Brazil" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "primolius maracana" ; Times: 1
+	Query: "scientificname:Penelope dabbenei" ; Times: 1
+	Query: "scientificname:Crax alector" ; Times: 1
+	Query: "vntype:specimen specificepithet:guttata genus:Ortalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "lepidothrix iris" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:burmeisteri" ; Times: 1
+	Query: "Haematopus palliatus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "order:primates stateprovince:&#34;espirito santo&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:nattereri family:pipridae" ; Times: 1
+	Query: "Dendropsophus jimi" ; Times: 1
+	Query: "&#34;Dendropsophus elianeae&#34;" ; Times: 1
+	Query: "espirito santo order:primates" ; Times: 1
+	Query: "Pseudopaludicola boliviana" ; Times: 1
+	Query: "genus:Scarthyla specificepithet:vigilans" ; Times: 1
+	Query: "scientificname:Mitu tuberosum" ; Times: 1
+	Query: "Dendropsophus melanargyreus" ; Times: 2
+	Query: "Pseudopaludicola ameghini" ; Times: 2
+	Query: "caingua" ; Times: 1
+	Query: "Vitreorana ritae" ; Times: 1
+	Query: "stateprovince:&#34;PA&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Mergus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ololygon berthae" ; Times: 2
+	Query: "vntype:specimen specificepithet:canicollis genus:Ortalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pseudoscops grammicus" ; Times: 1
+	Query: "Muriaé" ; Times: 1
+	Query: "scientificname:Mitu mitu" ; Times: 1
+	Query: "Chelonoides carbonarius" ; Times: 1
+	Query: "Dendropsophus elianeae" ; Times: 2
+	Query: "scientificname:Ortalis motmot" ; Times: 1
+	Query: "vntype:specimen specificepithet:motmot genus:Ortalis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:rubricapillus genus:Melanerpes year &gt;= 1980 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Aplastodiscus" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "anthus nattereri" ; Times: 1
+	Query: "order:primates stateprovince:&#34;santo&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "scientificname:Ortalis canicollis" ; Times: 1
+	Query: "genus:Gephyromantis" ; Times: 1
+	Query: "Saguinus bicolor" ; Times: 1
+	Query: "genus:Phasmahyla" ; Times: 1
+	Query: "Physalaemus riograndensis" ; Times: 1
+	Query: "class:aves country:&#34;Panama&#34; year &gt;= 1981 year &lt;= 1983 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Physalaemus marmoratus" ; Times: 1
+	Query: "Phalacrocorax magellanicus" ; Times: 1
+	Query: "Amazona kawalli vntype:specimen" ; Times: 1
+	Query: "scientificname:Crax daubentoni" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "Rhinella ocellata" ; Times: 20
+	Query: "genus:Rynchops" ; Times: 1
+	Query: "scientificname:Crax fasciolata" ; Times: 1
+	Query: "barreiro rico" ; Times: 19
+	Query: "scientificname:Ortalis ruficauda" ; Times: 1
+	Query: "Callonetta leucophrys" ; Times: 1
+	Query: "genus:Rhinella specificepithet:ornata" ; Times: 1
+	Query: "mappable:1 scientificname:Vitreorana uranoscopa" ; Times: 3
+	Query: "Cairina moschata" ; Times: 1
+	Query: "vntype:specimen specificepithet:iris family:pipridae" ; Times: 2
+	Query: "Phyllomedusa distincta" ; Times: 1
+	Query: "megascops watsonii" ; Times: 1
+	Query: "genus:Rhinella specificepithet:jimi" ; Times: 1
+	Query: "scientificname:Pipile jacutinga" ; Times: 1
+	Query: "scientificname:Crax blumenbachii" ; Times: 1
+	Query: "scientificname:Penelope jacquacu" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "Dendropsophus ebraccatus" ; Times: 1
+	Query: "philydor rufum" ; Times: 2
+	Query: "scientificname:Penelope superciliaris" ; Times: 1
+	Query: "scientificname:Pipile cujubi" ; Times: 1
+	Query: "&#34;Pseudopaludicola ameghini&#34;" ; Times: 4
+	Query: "scientificname:Nothocrax urumutum" ; Times: 1
+	Query: "Scinax similis" ; Times: 1
+	Query: "genus:Ameerega specificepithet:picta" ; Times: 3
+	Query: "distance(location,geopoint(-23.36384358253802,-49.5530826012379))&lt;100000" ; Times: 1
+	Query: "scientificname:Dixiphia pipra" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Chiasmocleis albopunctata" ; Times: 4
+	Query: "scientificname:Ortalis guttata" ; Times: 1
+	Query: "scientificname:Crax rubra" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "scientificname:Penelope pileata" ; Times: 1
+	Query: "scientificname:Heliconius erato" ; Times: 1
+	Query: "sterna argentina" ; Times: 1
+	Query: "vntype:specimen specificepithet:pantanalensis genus:Ortalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Turdus nigriceps" ; Times: 1
+	Query: "Rhinella major" ; Times: 2
+	Query: "Allophrynidae" ; Times: 2
+	Query: "specificepithet:lactea genus:Amazilia" ; Times: 1
+	Query: "vntype:specimen genus:Nomonyx class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Crotalus durissus" ; Times: 1
+	Query: "scientificname:Penelope ochrogaster" ; Times: 1
+	Query: "scientificname:Pipile pipile" ; Times: 1
+	Query: "scientificname:Ortalis vetula" ; Times: 1
+	Query: "genus:Barycholos specificepithet:ternetzi" ; Times: 1
+	Query: "crypturellus obsoletus" ; Times: 1
+	Query: "genus:Fritziana specificepithet:goeldii" ; Times: 1
+	Query: "Adenomera thomei" ; Times: 1
+	Query: "specificepithet:hyacinthinus genus:Anodorhynchus" ; Times: 2
+	Query: "saltatricula multicolor" ; Times: 2
+	Query: "procnias averano" ; Times: 1
+	Query: "Leptodactylus syphax" ; Times: 1
+	Query: "Clibanornis dendrocolaptoides" ; Times: 1
+	Query: "Circus cinereus" ; Times: 1
+	Query: "scientificname:Penelope jacucaca" ; Times: 1
+	Query: "ara maracana" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "scientificname:Penelope obscura" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "Physalaemus cicada" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1521 download events in this period)
+Total number of records downloaded: 36590
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 22
+	Country: United States ; Times: 9
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 4
+	Date: 2020-10-08 ; Times: 3
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-20 ; Times: 7
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-26 ; Times: 3
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-12 ; Times: 3
+	Date: 2020-10-13 ; Times: 4
+	Date: 2020-10-03 ; Times: 4
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-30 ; Times: 2
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-15 ; Times: 5
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-28 ; Times: 4
+	Date: 2020-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:nattereri family:pipridae" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "barreiro rico" ; Times: 3
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:fimbriata genus:Amazilia" ; Times: 2
+	Query: "anthus furcatus" ; Times: 1
+	Query: "aves brasil" ; Times: 1
+	Query: "aves paraguay" ; Times: 1
+	Query: "Rhinella ocellata" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "genus:Aplastodiscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronata family:pipridae" ; Times: 1
+	Query: "Centrolenidae" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "Adenomera" ; Times: 1
+	Query: "&#34;espirito santo&#34; order:primates" ; Times: 1
+	Query: "vitreorana" ; Times: 1
+	Query: "specificepithet:lactea genus:Amazilia" ; Times: 1
+	Query: "vntype:specimen specificepithet:iris family:pipridae" ; Times: 1
+	Query: "Augastes lumachella" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Dromaiidae" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Saguinus bicolor" ; Times: 1
+	Query: "vntype:specimen family:Ramphastidae" ; Times: 1
+	Query: "aves bolivia" ; Times: 1
+	Query: "crypturellus obsoletus" ; Times: 2
+	Query: "genus:Odontophorus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+	Query: "specificepithet:hyacinthinus genus:Anodorhynchus" ; Times: 1
+	Query: "class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:coruscans genus:Colibri" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "genus:Phasmahyla" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "&#34;Pseudopaludicola ameghini&#34;" ; Times: 1
+
+
+End of report.
