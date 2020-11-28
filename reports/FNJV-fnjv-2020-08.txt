@@ -1,0 +1,259 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 218
+Number of records retrieved in searches: 1639
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 86
+	Country: United States ; Times: 70
+	Country: Peru ; Times: 4
+	Country: Portugal ; Times: 17
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 29
+	Country: Paraguay ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Switzerland ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 14
+	Date: 2020-08-29 ; Times: 8
+	Date: 2020-08-17 ; Times: 8
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 5
+	Date: 2020-08-13 ; Times: 15
+	Date: 2020-08-12 ; Times: 14
+	Date: 2020-08-11 ; Times: 17
+	Date: 2020-08-10 ; Times: 26
+	Date: 2020-08-31 ; Times: 4
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-19 ; Times: 15
+	Date: 2020-08-18 ; Times: 5
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-03 ; Times: 13
+	Date: 2020-08-04 ; Times: 6
+	Date: 2020-08-05 ; Times: 4
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-07 ; Times: 3
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-24 ; Times: 4
+	Date: 2020-08-25 ; Times: 9
+	Date: 2020-08-23 ; Times: 3
+	Date: 2020-08-20 ; Times: 8
+	Date: 2020-08-21 ; Times: 30
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:cyanoloxia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:violacea genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Cercopithecus cephus" ; Times: 1
+	Query: "specificepithet:guainumbi" ; Times: 1
+	Query: "vntype:specimen genus:cyanocompsa class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Pyrrhura devillei" ; Times: 3
+	Query: "Symphalangus syndactylus" ; Times: 1
+	Query: "vntype:specimen specificepithet:Cyanoides genus:Cyanoloxia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "cypseloides fumigatus" ; Times: 1
+	Query: "vntype:specimen genus:Passer class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Carduelis class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Turdus rufiventris" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanocephala genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Allochrocebus solatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanoides genus:Cyanocompsa class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordida class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Mandrillus sphinx" ; Times: 1
+	Query: "mappable:1 scientificname:Brotogeris chiriri" ; Times: 1
+	Query: "specificepithet:macroura genus:Eupetomena" ; Times: 3
+	Query: "mappable:1 scientificname:Sicalis luteola" ; Times: 1
+	Query: "Sphaenorhynchus planicola" ; Times: 1
+	Query: "Piranga bidentata" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Amazilia" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "mappable:1 scientificname:Zenaida auriculata" ; Times: 1
+	Query: "mappable:1 scientificname:Myiopsitta monachus" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:Psarocolius year &gt;= 1970" ; Times: 1
+	Query: "order:primates stateprovince:&#34;espirito santo&#34;" ; Times: 3
+	Query: "specificepithet:lumachella genus:Augastes" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanoides class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Callithrix" ; Times: 1
+	Query: "specificepithet:cyanoides genus:Cyanocompsa class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:superciliosus genus:Phaethornis stateprovince:&#34;Roraima&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bahiana" ; Times: 1
+	Query: "Cercopithecus pogonias" ; Times: 1
+	Query: "mappable:1 scientificname:Guira guira" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:haddadi" ; Times: 1
+	Query: "vntype:specimen genus:chlorophonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pygochelidon" ; Times: 1
+	Query: "Cercibis oxycerca" ; Times: 1
+	Query: "Rhinella ornata" ; Times: 1
+	Query: "vntype:specimen specificepithet:chalybea genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:dohrnii genus:Glaucis" ; Times: 1
+	Query: "genus:Aparasphenodon specificepithet:arapapa" ; Times: 1
+	Query: "specificepithet:largipennis genus:campylopterus country:&#34;brazil&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:Phaethornis" ; Times: 4
+	Query: "vntype:specimen genus:Thlypopsis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Eupsittula aurea" ; Times: 1
+	Query: "genus:Augastes" ; Times: 3
+	Query: "vntype:specimen genus:Spinus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:chalybea genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "callithrix jacchus" ; Times: 1
+	Query: "mappable:1 scientificname:Phoenicopterus chilensis" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "Pygochelidon cyanoleuca" ; Times: 1
+	Query: "vntype:specimen specificepithet:cayannensis genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "institutioncode:FNJV" ; Times: 1
+	Query: "vntype:specimen genus:PIRANGA class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cercopithecus nictitans" ; Times: 1
+	Query: "vntype:specimen genus:Pyrrhocoma class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:passer class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "basileuterus flaveolus" ; Times: 1
+	Query: "Allenopithecus nigroviridis" ; Times: 1
+	Query: "vntype:specimen genus:Piranga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:serrirostris] genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:xanthogaster genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:rothschildii class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Ara macao" ; Times: 1
+	Query: "aedes aegypti" ; Times: 2
+	Query: "specificepithet:idaliae genus:Phaethornis" ; Times: 1
+	Query: "vntype:specimen specificepithet:serrirostris genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:scutatus genus:Augastes" ; Times: 1
+	Query: "vntype:specimen specificepithet:PECTORALIS genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "order:primates stateprovince:&#34;santo&#34; country:&#34;brazil&#34;" ; Times: 4
+	Query: "Tachycineta leucopyga" ; Times: 1
+	Query: "Aratinga auricapillus" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufifrons genus:Formicarius" ; Times: 2
+	Query: "Phalacrocorax magellanicus" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona farinosa" ; Times: 1
+	Query: "genus:Stephanoxis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Cyanocompsa class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:laniirostris genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Jacana jacana" ; Times: 1
+	Query: "vntype:specimen specificepithet:chrysopasta genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Chelonia mydas" ; Times: 1
+	Query: "specificepithet:torquata genus:Myrmornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "HYPSIBOAS faber" ; Times: 1
+	Query: "Tachycineta albiventer" ; Times: 1
+	Query: "Sciurus aestuans" ; Times: 1
+	Query: "vntype:specimen specificepithet:cayennensis genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Electrophorus electricus" ; Times: 1
+	Query: "vntype:specimen genus:Pheucticus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus stateprovince:&#34;Alagoas&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "specificepithet:superciliosus genus:Phaethornis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:finschi genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Sicalis flaveola" ; Times: 1
+	Query: "genus:Estrilda class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:niger genus:Threnetes country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufiventris genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Donacospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:musica genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:cunauaru" ; Times: 1
+	Query: "Saltator similis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:FNJV" ; Times: 3
+	Query: "genus:Ramphodon" ; Times: 1
+	Query: "vntype:specimen genus:Cypsnagra class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Caracara plancus" ; Times: 1
+	Query: "Cercopithecus neglectus" ; Times: 1
+	Query: "vntype:specimen specificepithet:pectoralis genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Rhea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:decumanus genus:Psarocolius country:&#34;Trinidad&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:xanthogaster genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 2
+	Query: "order:primates stateprovince:&#34;santo&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Dendrocygna autumnalis" ; Times: 1
+	Query: "Allochrocebus preussi" ; Times: 1
+	Query: "vntype:specimen specificepithet:brissonii class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Psittacara leucophthalmus" ; Times: 1
+	Query: "Tyto glaucops" ; Times: 1
+	Query: "specificepithet:rufifrons genus:Formicarius" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "specificepithet:parva genus:Ischnocnema class:amphibia" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "vntype:specimen specificepithet:bifasciatus genus:Psarocolius country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Amazilia country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Caryothraustes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Sporagra class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "vntype:specimen specificepithet:chlorotica genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pionopsitta pileata" ; Times: 1
+	Query: "mappable:1 scientificname:Eudocimus ruber" ; Times: 1
+	Query: "specificepithet:macroura genus:Eupetomena country:&#34;Brazil&#34;" ; Times: 5
+	Query: "vntype:specimen specificepithet:minuta genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Platalea ajaja" ; Times: 1
+	Query: "specificepithet:largipennis genus:Campylopterus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Pygochelidon" ; Times: 7
+	Query: "Lophocebus albigena" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Brazil&#34; year &gt;= 1975" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:Psarocolius country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Julianus uruguayus" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "mappable:1 scientificname:Columbina talpacoti" ; Times: 1
+	Query: "vntype:specimen specificepithet:moesta class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Sporophila basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:versicolor genus:Amazilia country:&#34;Brazil&#34;" ; Times: 3
+	Query: "specificepithet:cyanus genus:Hylocharis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Chlorophonia class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Turdus nigriceps" ; Times: 1
+	Query: "hydropsalis torquata" ; Times: 1
+	Query: "vntype:specimen genus:Granatellus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:ESTRILDA class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Leptodactylus syphax" ; Times: 1
+	Query: "Clibanornis dendrocolaptoides" ; Times: 1
+	Query: "specificepithet:cela genus:Cacicus stateprovince:&#34;Bahia&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pseudoscops grammicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus stateprovince:&#34;Bahia&#34; country:&#34;Brazil&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:aureoventris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cercopithecus wolfi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 756 download events in this period)
+Total number of records downloaded: 264
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-03 ; Times: 5
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Xiphorhynchus guttatoides" ; Times: 1
+	Query: "actinopterygii" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 2
+	Query: "Schiffornis turdina" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "order:primates stateprovince:&#34;espirito santo&#34;" ; Times: 1
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "Lipaugus vociferans" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 2000" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "cypseloides fumigatus" ; Times: 1
+
+
+End of report.
