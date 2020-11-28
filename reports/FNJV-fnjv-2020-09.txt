@@ -1,0 +1,216 @@
+Report for Institution Code FNJV, Resource fnjv
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 317
+Number of records retrieved in searches: 1933
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 226
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 13
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Pakistan ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 14
+	Country: United States ; Times: 50
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 13
+	Date: 2020-09-08 ; Times: 4
+	Date: 2020-09-03 ; Times: 3
+	Date: 2020-09-02 ; Times: 12
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-07 ; Times: 19
+	Date: 2020-09-05 ; Times: 2
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-21 ; Times: 12
+	Date: 2020-09-23 ; Times: 5
+	Date: 2020-09-22 ; Times: 25
+	Date: 2020-09-25 ; Times: 4
+	Date: 2020-09-24 ; Times: 4
+	Date: 2020-09-29 ; Times: 5
+	Date: 2020-09-28 ; Times: 5
+	Date: 2020-09-30 ; Times: 34
+	Date: 2020-09-14 ; Times: 7
+	Date: 2020-09-15 ; Times: 5
+	Date: 2020-09-16 ; Times: 100
+	Date: 2020-09-17 ; Times: 4
+	Date: 2020-09-10 ; Times: 6
+	Date: 2020-09-11 ; Times: 22
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 4
+	Date: 2020-09-18 ; Times: 16
+	Date: 2020-09-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Proceratophrys boiei" ; Times: 19
+	Query: "specificepithet:cinereus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "genus:nycticorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:chauna class:Aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:sibilatrix class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Callonetta class:Aves" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:resinifictrix" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:obsoletus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Allophryne ruthveni" ; Times: 1
+	Query: "vitreorana" ; Times: 5
+	Query: "vntype:specimen genus:Anhima class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Augastes lumachella" ; Times: 1
+	Query: "synallaxis spixi" ; Times: 1
+	Query: "Gephyromantis" ; Times: 1
+	Query: "genus:Ameerega specificepithet:flavopicta" ; Times: 1
+	Query: "Sylvilagus bra" ; Times: 2
+	Query: "genus:Echimys order:Rodentia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "cinereiventris são paulo" ; Times: 1
+	Query: "genus:Chauna class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pyrrhura molinae" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculosa genus:Nothura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:cygnus class:Aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Dendropsophus nanus" ; Times: 3
+	Query: "specificepithet:notata genus:Chlorestes" ; Times: 1
+	Query: "Penelope jacucaca" ; Times: 1
+	Query: "Crax blumenbachii" ; Times: 42
+	Query: "vntype:specimen specificepithet:autumnalis genus:dendrocygna class:Aves country:&#34;brazil&#34;" ; Times: 2
+	Query: "Cyanopsitta spixii" ; Times: 3
+	Query: "vntype:specimen genus:Cairina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:undulatus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Coscoroba class:Aves" ; Times: 2
+	Query: "specificepithet:vermiculatus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Coragyps class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Threnetes niger" ; Times: 1
+	Query: "Anhima year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "vntype:specimen specificepithet:tataupa genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Rhynchotus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Aplastodiscus specificepithet:arildae" ; Times: 1
+	Query: "vntype:specimen specificepithet:tao genus:Tinamus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:viduata genus:dendrocygna class:Aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "Phaethornis aethopygus" ; Times: 1
+	Query: "vntype:specimen specificepithet:bicolor genus:dendrocygna class:Aves country:&#34;brazil&#34;" ; Times: 2
+	Query: "genus:Zachaenus specificepithet:parvulus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "mappable:1 scientificname:Leptodactylus mystacinus" ; Times: 2
+	Query: "specificepithet:leucophrys class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Polystictus pectoralis" ; Times: 8
+	Query: "vntype:specimen specificepithet:variegatus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "scientificname:Heliconius erato" ; Times: 7
+	Query: "Python molurus" ; Times: 1
+	Query: "vntype:specimen genus:chauna class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Leptodactylus mystacinus" ; Times: 2
+	Query: "specificepithet:pectoralis genus:Polystictus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 86
+	Query: "vntype:specimen specificepithet:solitarius genus:Tinamus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:soui genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Anopetia gounellei" ; Times: 1
+	Query: "mappable:1 scientificname:Vitreorana uranoscopa" ; Times: 18
+	Query: "vntype:specimen specificepithet:zabele genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aedes aegypti" ; Times: 2
+	Query: "neothraupis fasciata" ; Times: 1
+	Query: "scientificname:Furnarius rufus" ; Times: 2
+	Query: "vntype:specimen genus:Amazonetta class:Aves country:&#34;BraZil&#34;" ; Times: 1
+	Query: "Phaethornis maranhaoensis" ; Times: 1
+	Query: "vntype:specimen genus:anhima class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "gephyromantis" ; Times: 6
+	Query: "vntype:specimen specificepithet:erythropus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:boraquira genus:Nothura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Chauna class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Leptodactylus fuscus" ; Times: 3
+	Query: "genus:Scinax specificepithet:eurydice" ; Times: 1
+	Query: "vntype:specimen genus:Rhea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Avocettula recurvirostris" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Rio Grande do Sul&#34; country:&#34;Brazil&#34; (Mostardas OR Tavares)" ; Times: 1
+	Query: "mappable:1 scientificname:Hypsiboas raniceps" ; Times: 3
+	Query: "vntype:specimen specificepithet:undulatus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:parvirostris genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:parvirostris genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:coscoroba class:Aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:guttatus genus:Tinamus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "callithrix jacchus" ; Times: 1
+	Query: "Proceratophrys" ; Times: 1
+	Query: "specificepithet:spixi genus:synallaxis stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:Psarocolius country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:alector genus:Crax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 2
+	Query: "stateprovince:&#34;Florida&#34; country:&#34;United States of America&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Gephyromantis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:tao genus:Tinamus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:soui genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "specificepithet:spixi genus:synallaxis stateprovince:&#34;bahia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:Tinamus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:viduata genus:dendrocygna class:Aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "specificepithet:gujanensis genus:Odontophorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "scientificname:Aedes aegypti" ; Times: 1
+	Query: "Topaza pella" ; Times: 1
+	Query: "tachornis são paulo" ; Times: 1
+	Query: "genus:Rhea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 976 download events in this period)
+Total number of records downloaded: 1190
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: United States ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-24 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-02 ; Times: 12
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Crax blumenbachii" ; Times: 1
+	Query: "vntype:specimen family:Numididae" ; Times: 1
+	Query: "Phaethornis superciliosus" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "Augastes lumachella" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "Anopetia gounellei" ; Times: 1
+	Query: "Proceratophrys" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Threnetes niger" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 2
+	Query: "Gephyromantis" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "Phaethornis maranhaoensis" ; Times: 1
+	Query: "gephyromantis" ; Times: 1
+	Query: "Phaethornis aethopygus" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Avocettula recurvirostris" ; Times: 1
+	Query: "Topaza pella" ; Times: 1
+	Query: "genus:Hylophilus" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+
+
+End of report.
